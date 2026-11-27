@@ -1,0 +1,145 @@
+{
+  "request": {
+    "model": "gpt-6-luna",
+    "group_id": 10,
+    "repeat_id": 5,
+    "attempt_id": 0,
+    "seed": null,
+    "independent_call_id": "ab146b5db8f64d5f9235e15575e3840e",
+    "started_at_utc": "2026-11-27T02:50:40+00:00",
+    "endpoint": "https://api.openai.com/v1/responses",
+    "payload": {
+      "temperature": 0.8,
+      "top_p": 1.0,
+      "max_output_tokens": 2048,
+      "reasoning": {
+        "effort": "none"
+      },
+      "store": false,
+      "truncation": "disabled",
+      "model": "gpt-6-luna",
+      "input": "Code-switching refers to the alternation between two or more languages within a single utterance or discourse.\n\nBelow are ten examples of naturally occurring Mandarin–English code-switching:\n\n<examples>\n一个是full size，另一个是queen size.\n是在学校可以办理还是需要去某一些office，可以网上办理吗？\n洗衣房在同一幢building里面，$1.\n本人因为毕业要搬到其它地方，所以只能忍痛割爱了，现出租超级大而且独立的living room！\n之前无法登陆bbs自行车已出\n有大量free parking。\n有车库，drive way parking和street parking。\noffice人也很nice。\n因为我真的是有事情必须去一趟加拿大办理，所以希望能够成功办理到visa，再次感谢了。\npass (可以乘坐\n</examples>\n\nGenerate ten new Mandarin–English code-switched sentences in a range of linguistic styles, registers, and code-switching patterns. Each sentence should contain both Mandarin and English. Do not copy or closely paraphrase the examples. Return only a JSON array of ten strings, without explanations, translations, or annotations.\n"
+    },
+    "slurm_job_id": "8791618"
+  },
+  "response": {
+    "access_programs": null,
+    "background": false,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1795747842,
+    "created_at": 1795747840,
+    "error": null,
+    "frequency_penalty": 0.0,
+    "id": "resp_016a2a15d76cd2ac016b08f00069e087d1a733b79dc1a2a71f",
+    "image": {
+      "context_compression": "disabled"
+    },
+    "incomplete_details": null,
+    "input_transformations": [],
+    "instructions": null,
+    "max_output_tokens": 2048,
+    "max_tool_calls": null,
+    "model": "gpt-6-luna",
+    "moderation": null,
+    "object": "response",
+    "output": [
+      {
+        "content": [
+          {
+            "annotations": [],
+            "logprobs": [],
+            "text": "[\n  \"这家咖啡店的Wi-Fi很稳定，适合一边开会一边赶报告。\",\n  \"我本来想早点出门，结果traffic太堵，还是迟到了十分钟。\",\n  \"请把最新版的合同发我一下，我会在今天下班前review完。\",\n  \"她讲话很有感染力，整个presentation听起来一点都不boring。\",\n  \"周末我们去hiking吧，天气预报说山上的view会特别好。\",\n  \"这个bug看起来很小，但可能会影响整个checkout流程。\",\n  \"妈，我已经到家啦，晚饭不用等我，我先把这封email回掉。\",\n  \"为了避免不必要的误会，最好先和project manager确认一下deadline。\",\n  \"虽然这次面试没有拿到offer，但我觉得自己的回答比上次confident多了。\",\n  \"各位同学，请在周五之前上传final draft，文件名记得按课程要求命名。\"\n]",
+            "type": "output_text"
+          }
+        ],
+        "id": "msg_016a2a15d76cd2ac016b08f000b24887d1a4234cb7739748cc",
+        "phase": "final_answer",
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0.0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "none",
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "store": false,
+    "temperature": 0.8,
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    },
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1.0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 238,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cache_write_tokens_details": {
+          "ttl_12h_tokens": 0,
+          "ttl_30m_tokens": 0
+        },
+        "cached_tokens": 0
+      },
+      "output_tokens": 220,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 458
+    },
+    "user": null,
+    "metadata": {}
+  },
+  "api_request_id": "req_15a0807786d041c4a7498aa22035f2c7",
+  "accepted": true,
+  "sentences": [
+    "这家咖啡店的Wi-Fi很稳定，适合一边开会一边赶报告。",
+    "我本来想早点出门，结果traffic太堵，还是迟到了十分钟。",
+    "请把最新版的合同发我一下，我会在今天下班前review完。",
+    "她讲话很有感染力，整个presentation听起来一点都不boring。",
+    "周末我们去hiking吧，天气预报说山上的view会特别好。",
+    "这个bug看起来很小，但可能会影响整个checkout流程。",
+    "妈，我已经到家啦，晚饭不用等我，我先把这封email回掉。",
+    "为了避免不必要的误会，最好先和project manager确认一下deadline。",
+    "虽然这次面试没有拿到offer，但我觉得自己的回答比上次confident多了。",
+    "各位同学，请在周五之前上传final draft，文件名记得按课程要求命名。"
+  ],
+  "packaging": "plain_json",
+  "issues": [],
+  "finished_at_utc": "2026-11-27T02:50:42+00:00"
+}

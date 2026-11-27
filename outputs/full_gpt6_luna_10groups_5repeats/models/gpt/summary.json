@@ -1,0 +1,14 @@
+{
+  "model": "gpt-6-luna",
+  "family": "gpt",
+  "updated_at_utc": "2026-11-27T02:50:51+00:00",
+  "initial_finished": true,
+  "initial_requests": 50,
+  "initial_accepted_batches": 47,
+  "dispatched_requests": 53,
+  "rerun_requests": 3,
+  "accepted_batches": 50,
+  "accepted_sentences": 500,
+  "repair_finished": true,
+  "unresolved": []
+}

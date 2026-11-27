@@ -1,0 +1,22 @@
+{
+  "run_name": "pilot_gpt6_luna_group_1",
+  "endpoint": "https://api.openai.com/v1/responses",
+  "model": "gpt-6-luna",
+  "group_id": 1,
+  "repeat_id": 1,
+  "parameters": {
+    "temperature": 0.8,
+    "top_p": 1.0,
+    "max_output_tokens": 2048,
+    "reasoning": {"effort": "none"},
+    "store": false,
+    "truncation": "disabled"
+  },
+  "expected_sentences": 10,
+  "automatic_retries": 0,
+  "conversation_history": false,
+  "seed": null,
+  "seed_note": "The Responses API does not expose a seed parameter. No seed is sent or claimed to be controlled.",
+  "unsupported_ollama_controls": ["seed", "num_ctx", "top_k", "min_p", "frequency_penalty", "presence_penalty", "repeat_penalty"],
+  "purpose": "One independent connectivity and parameter-compatibility pilot. Not included in the formal 500-sentence corpus."
+}

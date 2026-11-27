@@ -1,0 +1,11 @@
+{
+  "continuation_id": "deepseek_attempts_07_09",
+  "updated_at_utc": "2026-11-27T03:15:24+00:00",
+  "finished": true,
+  "new_requests": 4,
+  "maximum_new_requests": 6,
+  "accepted_sentences_before": 480,
+  "accepted_sentences_now": 500,
+  "unresolved": [],
+  "slurm_job_id": "8791847"
+}

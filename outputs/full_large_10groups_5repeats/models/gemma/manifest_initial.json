@@ -1,0 +1,45 @@
+{
+  "model": "gemma3:27b",
+  "phase": "initial",
+  "started_at_utc": "2026-11-26T23:41:11+00:00",
+  "slurm_job_id": "8790509",
+  "array_job_id": "8790508",
+  "array_task_id": "0",
+  "hostname": "a0008.ten.osc.edu",
+  "cuda_visible_devices": "0",
+  "ollama_version": "0.32.0",
+  "loaded_model": {
+    "name": "gemma3:27b",
+    "model": "gemma3:27b",
+    "size": 17489691934,
+    "digest": "6be2e2ba6843b9255820e2de2cbbe75cfdef0294ac7a531572e654d6e0eefe7d",
+    "details": {
+      "parent_model": "",
+      "format": "gguf",
+      "family": "gemma3",
+      "families": [
+        "gemma3",
+        "clip"
+      ],
+      "parameter_size": "27.0B",
+      "quantization_level": "Q4_K_M"
+    },
+    "expires_at": "2026-11-26T18:51:11.854063689-05:00",
+    "size_vram": 17489691934,
+    "context_length": 4096
+  },
+  "model_details": {
+    "parent_model": "dhiltgen/gemma3:27b-it-q4_K_M-llamacpp",
+    "format": "gguf",
+    "family": "gemma3",
+    "families": [
+      "gemma3",
+      "clip"
+    ],
+    "parameter_size": "27.0B",
+    "quantization_level": "Q4_K_M"
+  },
+  "template": "{{- range $i, $_ := .Messages }}\n{{- $last := eq (len (slice $.Messages $i)) 1 }}\n{{- if or (eq .Role \"user\") (eq .Role \"system\") }}<start_of_turn>user\n{{ .Content }}<end_of_turn>\n{{ if $last }}<start_of_turn>model\n{{ end }}\n{{- else if eq .Role \"assistant\" }}<start_of_turn>model\n{{ .Content }}{{ if not $last }}<end_of_turn>\n{{ end }}\n{{- end }}\n{{- end }}",
+  "system": null,
+  "model_parameters": "top_k                          64\ntop_p                          0.95\nstop                           \"<end_of_turn>\"\ntemperature                    1"
+}

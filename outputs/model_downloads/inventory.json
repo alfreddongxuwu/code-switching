@@ -1,0 +1,183 @@
+{
+  "checked_at_utc": "2026-11-26T22:29:12.268386+00:00",
+  "model_store": "/path/to/code-switching/ollama_models",
+  "models": [
+    {
+      "model": "gemma3:4b",
+      "status": "verified",
+      "manifest_sha256": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+      "bytes": 3350272403,
+      "blobs": [
+        {
+          "digest": "sha256:4bf7b0a45f1af5d9f6f8b847044d8379eef6b36f3ca8b4dcc63a8dfed7426e53",
+          "bytes": 144,
+          "sha256_verified": true
+        },
+        {
+          "digest": "sha256:f06e91e18fc74295d0c781bf91622508c75655e2c18ed869d52447ffe1e667e1",
+          "bytes": 2499012288,
+          "sha256_verified": true
+        },
+        {
+          "digest": "sha256:7a50f9607a47389c028f2598c1f2d3e23b61913b4ce3c4a9eaaca62de1b9e098",
+          "bytes": 851251104,
+          "sha256_verified": true
+        },
+        {
+          "digest": "sha256:e0a42594d802e5d31cdc786deb4823edb8adff66094d49de8fffe976d753e348",
+          "bytes": 358,
+          "sha256_verified": true
+        },
+        {
+          "digest": "sha256:dd084c7d92a3c1c14cc09ae77153b903fd2024b64a100a0cc8ec9316063d2dbc",
+          "bytes": 8432,
+          "sha256_verified": true
+        },
+        {
+          "digest": "sha256:3116c52250752e00dd06b16382e952bd33c34fd79fc4fe3a5d2c77cf7de1b14b",
+          "bytes": 77,
+          "sha256_verified": true
+        }
+      ],
+      "details": {
+        "parent_model": "dhiltgen/gemma3:4b-it-q4_K_M-llamacpp",
+        "format": "gguf",
+        "family": "gemma3",
+        "families": [
+          "gemma3",
+          "clip"
+        ],
+        "parameter_size": "3.9B",
+        "quantization_level": "Q4_K_M"
+      }
+    },
+    {
+      "model": "qwen3:8b",
+      "status": "verified",
+      "manifest_sha256": "500a1f067a9f782620b40bee6f7b0c89e17ae61f686b92c24933e4ca4b2b8b41",
+      "bytes": 5225388164,
+      "blobs": [
+        {
+          "digest": "sha256:05a61d37b08453e59290add468e3bb2f688e23a01e967fecb0e2fa41218cea76",
+          "bytes": 487,
+          "sha256_verified": true
+        },
+        {
+          "digest": "sha256:a3de86cd1c132c822487ededd47a324c50491393e6565cd14bafa40d0b8e686f",
+          "bytes": 5225374496,
+          "sha256_verified": true
+        },
+        {
+          "digest": "sha256:ae370d884f108d16e7cc8fd5259ebc5773a0afa6e078b11f4ed7e39a27e0dfc4",
+          "bytes": 1723,
+          "sha256_verified": true
+        },
+        {
+          "digest": "sha256:d18a5cc71b84bc4af394a31116bd3932b42241de70c77d2b76d69a314ec8aa12",
+          "bytes": 11338,
+          "sha256_verified": true
+        },
+        {
+          "digest": "sha256:cff3f395ef3756ab63e58b0ad1b32bb6f802905cae1472e6a12034e4246fbbdb",
+          "bytes": 120,
+          "sha256_verified": true
+        }
+      ],
+      "details": {
+        "parent_model": "",
+        "format": "gguf",
+        "family": "qwen3",
+        "families": [
+          "qwen3"
+        ],
+        "parameter_size": "8.2B",
+        "quantization_level": "Q4_K_M"
+      }
+    },
+    {
+      "model": "llama3:8b",
+      "status": "verified",
+      "manifest_sha256": "365c0bd3c000a25d28ddbf732fe1c6add414de7275464c4e4d1c3b5fcb5d8ad1",
+      "bytes": 4661224676,
+      "blobs": [
+        {
+          "digest": "sha256:3f8eb4da87fa7a3c9da615036b0dc418d31fef2a30b115ff33562588b32c691d",
+          "bytes": 485,
+          "sha256_verified": true
+        },
+        {
+          "digest": "sha256:6a0746a1ec1aef3e7ec53868f220ff6e389f6f8ef87a01d77c96807de94ca2aa",
+          "bytes": 4661211424,
+          "sha256_verified": true
+        },
+        {
+          "digest": "sha256:4fa551d4f938f68b8c1e6afa9d28befb70e3f33f75d0753248d530364aeea40f",
+          "bytes": 12403,
+          "sha256_verified": true
+        },
+        {
+          "digest": "sha256:8ab4849b038cf0abc5b1c9b8ee1443dca6b93a045c2272180d985126eb40bf6f",
+          "bytes": 254,
+          "sha256_verified": true
+        },
+        {
+          "digest": "sha256:577073ffcc6ce95b9981eacc77d1039568639e5638e83044994560d9ef82ce1b",
+          "bytes": 110,
+          "sha256_verified": true
+        }
+      ],
+      "details": {
+        "parent_model": "",
+        "format": "gguf",
+        "family": "llama",
+        "families": [
+          "llama"
+        ],
+        "parameter_size": "8.0B",
+        "quantization_level": "Q4_0"
+      }
+    },
+    {
+      "model": "deepseek-llm:7b",
+      "status": "verified",
+      "manifest_sha256": "9aab369a853bb12b8187d14eca701385f0a564cd2ae938fb4cbdb31bf2d43fc2",
+      "bytes": 4000473688,
+      "blobs": [
+        {
+          "digest": "sha256:46cdcbf69b1c73478eba74ed37d2c1977360356977b37f7172c66c36022f4d5c",
+          "bytes": 381,
+          "sha256_verified": true
+        },
+        {
+          "digest": "sha256:60cfdbde0472c3b850493551288a152f0858a0d1974964d6925c2b908035db76",
+          "bytes": 4000472864,
+          "sha256_verified": true
+        },
+        {
+          "digest": "sha256:d1c131da816c149fb99ee8bf0ce627d2d3d95ee3135ab8536ee198ad68fb0ec9",
+          "bytes": 45,
+          "sha256_verified": true
+        },
+        {
+          "digest": "sha256:a00920c28dfd776d75b999418d3736291dad8f7cede46bd8301cf64738460d0e",
+          "bytes": 17,
+          "sha256_verified": true
+        },
+        {
+          "digest": "sha256:46cdcbf69b1c73478eba74ed37d2c1977360356977b37f7172c66c36022f4d5c",
+          "bytes": 381,
+          "sha256_verified": true
+        }
+      ],
+      "details": {
+        "parent_model": "",
+        "format": "gguf",
+        "family": "llama",
+        "families": null,
+        "parameter_size": "7B",
+        "quantization_level": "Q4_0"
+      }
+    }
+  ],
+  "ollama_version": "0.32.0"
+}

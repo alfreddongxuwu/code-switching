@@ -1,0 +1,42 @@
+﻿model,group_id,repeat_id,seed,sentence_id,sentence,contains_both_languages
+llama3:70b,2,1,2031,1,我订购了一个新的laptop，屏幕很大。,True
+llama3:70b,2,1,2031,2,这个project的deadlin是明天，需要赶工。,True
+llama3:70b,2,1,2031,3,我不喜欢这个房子的layout，太挤。,True
+llama3:70b,2,1,2031,4,如果你需要帮助，please contact我。,True
+llama3:70b,2,1,2031,5,我认为这个菜式的taste非常好。,True
+llama3:70b,2,1,2031,6,我已经寄出了申请表单，waiting for回复。,True
+llama3:70b,2,1,2031,7,这个城市的交通很方便，有很多bus routes。,True
+llama3:70b,2,1,2031,8,我非常喜欢这个设计的style，很modern。,True
+llama3:70b,2,1,2031,9,我需要一个好的investment建议，谁可以提供？,True
+llama3:70b,2,1,2031,10,这个英语讲座的difficulty level太高了，我需要降级。,True
+deepseek-llm:67b,1,1,2026,1,Keep a safe distance and don't touch me.,False
+deepseek-llm:67b,1,1,2026,2,"I'm not a bad person, just misunderstood.",False
+deepseek-llm:67b,1,1,2026,3,"Sorry, I can't understand you. Please speak more slowly.",False
+deepseek-llm:67b,1,1,2026,4,"I'm sorry, I didn't mean to offend you. It was just a joke.",False
+deepseek-llm:67b,1,1,2026,5,What are you doing? Can you please explain?,False
+deepseek-llm:67b,1,1,2026,6,I need to go to the bathroom. Can we continue this conversation later?,False
+deepseek-llm:67b,1,1,2026,7,"I'm sorry, I can't do that. It's against my principles.",False
+deepseek-llm:67b,1,1,2026,8,I'm not feeling well right now. Can we talk about this later?,False
+deepseek-llm:67b,1,1,2026,9,I don't know what you're talking about. Can you please explain?,False
+deepseek-llm:67b,1,1,2026,10,"I'm sorry, I can't do that. It's illegal.",False
+deepseek-llm:67b,1,1,2026,11,"I'm sorry, I can't do that. It's not allowed.",False
+deepseek-llm:67b,2,1,2031,1,得买票，看电影去不？,False
+deepseek-llm:67b,2,1,2031,2,跟老外讲英语可以的。,False
+deepseek-llm:67b,2,1,2031,3,这个班太难了，得补习。,False
+deepseek-llm:67b,2,1,2031,4,去健身房练肌肉。,False
+deepseek-llm:67b,2,1,2031,5,这家餐厅太贵，去别家吃。,False
+deepseek-llm:67b,2,1,2031,6,这个会议很重要，一定要去。,False
+deepseek-llm:67b,2,1,2031,7,这个项目要加班，明天再来。,False
+deepseek-llm:67b,2,1,2031,8,这个软件有问题，得修。,False
+deepseek-llm:67b,2,1,2031,9,这个合同有漏洞，得改。,False
+deepseek-llm:67b,2,1,2031,10,这个报告要再改改。,False
+deepseek-llm:67b,3,1,2036,1,房间里面有空调，外面有garden。,True
+deepseek-llm:67b,3,1,2036,2,我住在这个house，里面有三个bedroom，每个卧室都有desk。,True
+deepseek-llm:67b,3,1,2036,3,我很喜欢这个apartment，里面有living room和kitchen。,True
+deepseek-llm:67b,3,1,2036,4,这个room里面有bed，外面有balcony，可以看风景。,True
+deepseek-llm:67b,3,1,2036,5,我的roommates来自不同的国家，我们会share食物。,True
+deepseek-llm:67b,3,1,2036,6,这个building里面有很多office，每个office都有computer。,True
+deepseek-llm:67b,3,1,2036,7,我很喜欢在这里工作，因为这里有cafe和parking。,True
+deepseek-llm:67b,3,1,2036,8,这个neighborhood很安全，有很多supermarket和restaurant。,True
+deepseek-llm:67b,3,1,2036,9,我每天都会去gym，里面有很多exercise machine。,True
+deepseek-llm:67b,3,1,2036,10,我很喜欢这个community，因为这里有很多family和friend。,True

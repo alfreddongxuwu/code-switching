@@ -1,0 +1,13 @@
+{
+  "continuation_id": "deepseek_attempts_07_09",
+  "run_name": "full_large_10groups_5repeats",
+  "model": "deepseek-llm:67b",
+  "first_attempt_id": 7,
+  "last_attempt_id": 9,
+  "additional_reruns_per_batch": 3,
+  "expected_prior_requests": 147,
+  "expected_prior_accepted_batches": 48,
+  "target_slots": [[2,4],[4,3]],
+  "maximum_new_requests": 6,
+  "authorization": "User requested continuing DeepSeek for the remaining two batches. Add at most three whole-batch reruns per remaining batch, with new seeds and first-success selection."
+}

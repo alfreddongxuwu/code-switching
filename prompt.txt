@@ -1,0 +1,9 @@
+Code-switching refers to the alternation between two or more languages within a single utterance or discourse.
+
+Below are ten examples of naturally occurring Mandarin–English code-switching:
+
+<examples>
+{examples}
+</examples>
+
+Generate ten new Mandarin–English code-switched sentences in a range of linguistic styles, registers, and code-switching patterns. Each sentence should contain both Mandarin and English. Do not copy or closely paraphrase the examples. Return only a JSON array of ten strings, without explanations, translations, or annotations.

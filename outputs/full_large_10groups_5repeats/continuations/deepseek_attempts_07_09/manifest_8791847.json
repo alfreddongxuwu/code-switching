@@ -1,0 +1,36 @@
+{
+  "model": "deepseek-llm:67b",
+  "started_at_utc": "2026-11-27T03:14:43+00:00",
+  "ollama_version": "0.32.0",
+  "hostname": "a0008.ten.osc.edu",
+  "slurm_job_id": "8791847",
+  "cuda_visible_devices": "0",
+  "loaded_model": {
+    "name": "deepseek-llm:67b",
+    "model": "deepseek-llm:67b",
+    "size": 39459991059,
+    "digest": "52e3a994907eee0d4bebf0c540cf17cf5988e9130641becdcfb826521141cfaf",
+    "details": {
+      "parent_model": "",
+      "format": "gguf",
+      "family": "llama",
+      "families": null,
+      "parameter_size": "67B",
+      "quantization_level": "Q4_0"
+    },
+    "expires_at": "2026-11-26T22:24:43.538307425-05:00",
+    "size_vram": 39459991059,
+    "context_length": 4096
+  },
+  "model_details": {
+    "parent_model": "",
+    "format": "gguf",
+    "family": "llama",
+    "families": null,
+    "parameter_size": "67B",
+    "quantization_level": "Q4_0"
+  },
+  "template": "{{ .System }}\nUser: {{ .Prompt }}\n\nAssistant:",
+  "system": null,
+  "model_parameters": "num_ctx                        4096"
+}

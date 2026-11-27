@@ -1,0 +1,145 @@
+{
+  "request": {
+    "model": "gpt-6-luna",
+    "group_id": 8,
+    "repeat_id": 3,
+    "attempt_id": 0,
+    "seed": null,
+    "independent_call_id": "c02bbbc0424d48b8ad2fbd94e1f8b3fe",
+    "started_at_utc": "2026-11-27T02:50:08+00:00",
+    "endpoint": "https://api.openai.com/v1/responses",
+    "payload": {
+      "temperature": 0.8,
+      "top_p": 1.0,
+      "max_output_tokens": 2048,
+      "reasoning": {
+        "effort": "none"
+      },
+      "store": false,
+      "truncation": "disabled",
+      "model": "gpt-6-luna",
+      "input": "Code-switching refers to the alternation between two or more languages within a single utterance or discourse.\n\nBelow are ten examples of naturally occurring Mandarin–English code-switching:\n\n<examples>\n可以一直居住，没有lease问题！\nhouse出租2018.\n近期可以尝试一下在google中以［关键字site: bbs.\n人都很nice。\n房子：独立house，二层的一间卧室。\n房间明亮宽敞，干净整洁，有walk in closet，家具齐全，可拎包入住。\n可以一直住，没有lease的问题。\n二层是三个卧室和一间bathroom。\n房东非常nice，有需要和修理会马上处理。\nclean tittle，无事故记录车。\n</examples>\n\nGenerate ten new Mandarin–English code-switched sentences in a range of linguistic styles, registers, and code-switching patterns. Each sentence should contain both Mandarin and English. Do not copy or closely paraphrase the examples. Return only a JSON array of ten strings, without explanations, translations, or annotations.\n"
+    },
+    "slurm_job_id": "8791618"
+  },
+  "response": {
+    "access_programs": null,
+    "background": false,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1795747811,
+    "created_at": 1795747808,
+    "error": null,
+    "frequency_penalty": 0.0,
+    "id": "resp_07bd453280e503ec016b08efe09f5087d1bb0a7b5dc8eae3d6",
+    "image": {
+      "context_compression": "disabled"
+    },
+    "incomplete_details": null,
+    "input_transformations": [],
+    "instructions": null,
+    "max_output_tokens": 2048,
+    "max_tool_calls": null,
+    "model": "gpt-6-luna",
+    "moderation": null,
+    "object": "response",
+    "output": [
+      {
+        "content": [
+          {
+            "annotations": [],
+            "logprobs": [],
+            "text": "[\n  \"我本来想早点出门，结果地铁delay了，只好临时改坐公交。\",\n  \"这份报告的数据还没finalize，下午开会前我再double-check一遍。\",\n  \"你先把窗户打开一点，房间里真的太warm了。\",\n  \"周末我们去郊外hiking吧，顺便带上相机拍点风景。\",\n  \"老师说这个essay要focus on社会变化，不要只写个人经历。\",\n  \"她在群里发了个voice message，解释为什么今天不能参加聚会。\",\n  \"新菜单下周上线，麻烦大家先review一下文案和图片。\",\n  \"我刚把那本书还回library，发现旁边新开了一家咖啡店。\",\n  \"这个设计看起来很简洁，不过按钮的颜色有点too bright。\",\n  \"别忘了提醒Jason把meeting room订好，我们十点就要开始讨论。\"\n]",
+            "type": "output_text"
+          }
+        ],
+        "id": "msg_07bd453280e503ec016b08efe1013487d1807a97bf9d639108",
+        "phase": "final_answer",
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0.0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "none",
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "store": false,
+    "temperature": 0.8,
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    },
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1.0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 223,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cache_write_tokens_details": {
+          "ttl_12h_tokens": 0,
+          "ttl_30m_tokens": 0
+        },
+        "cached_tokens": 0
+      },
+      "output_tokens": 213,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 436
+    },
+    "user": null,
+    "metadata": {}
+  },
+  "api_request_id": "req_5c88e9db035f443aa0a5addcc3a85c4b",
+  "accepted": true,
+  "sentences": [
+    "我本来想早点出门，结果地铁delay了，只好临时改坐公交。",
+    "这份报告的数据还没finalize，下午开会前我再double-check一遍。",
+    "你先把窗户打开一点，房间里真的太warm了。",
+    "周末我们去郊外hiking吧，顺便带上相机拍点风景。",
+    "老师说这个essay要focus on社会变化，不要只写个人经历。",
+    "她在群里发了个voice message，解释为什么今天不能参加聚会。",
+    "新菜单下周上线，麻烦大家先review一下文案和图片。",
+    "我刚把那本书还回library，发现旁边新开了一家咖啡店。",
+    "这个设计看起来很简洁，不过按钮的颜色有点too bright。",
+    "别忘了提醒Jason把meeting room订好，我们十点就要开始讨论。"
+  ],
+  "packaging": "plain_json",
+  "issues": [],
+  "finished_at_utc": "2026-11-27T02:50:11+00:00"
+}

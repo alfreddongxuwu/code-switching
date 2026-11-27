@@ -1,0 +1,145 @@
+{
+  "request": {
+    "model": "gpt-6-luna",
+    "group_id": 4,
+    "repeat_id": 1,
+    "attempt_id": 0,
+    "seed": null,
+    "independent_call_id": "123596d999da40bc9f0c0c988626cb55",
+    "started_at_utc": "2026-11-27T02:49:02+00:00",
+    "endpoint": "https://api.openai.com/v1/responses",
+    "payload": {
+      "temperature": 0.8,
+      "top_p": 1.0,
+      "max_output_tokens": 2048,
+      "reasoning": {
+        "effort": "none"
+      },
+      "store": false,
+      "truncation": "disabled",
+      "model": "gpt-6-luna",
+      "input": "Code-switching refers to the alternation between two or more languages within a single utterance or discourse.\n\nBelow are ten examples of naturally occurring Mandarin–English code-switching:\n\n<examples>\n所以这些东西全部都送给要续签这个lease的人。\n车主是第二个owner，是个妹子，极其爱惜车。\n小区环境优美安静，物业非常nice。\n赠送gre书\n里程数：60，000 mile左右。\nps：记得车要以最好是gift或者尽量少点金额上报给officer，这样可以少点税，税率是6%。\n电话：pn-10（text first）\n房东包除网以外所有utility。\n我们building旁边就是个公园可以跑步散步。\n客厅非常安静，适合学习，厅内另有一个walk-in closet可以用。\n</examples>\n\nGenerate ten new Mandarin–English code-switched sentences in a range of linguistic styles, registers, and code-switching patterns. Each sentence should contain both Mandarin and English. Do not copy or closely paraphrase the examples. Return only a JSON array of ten strings, without explanations, translations, or annotations.\n"
+    },
+    "slurm_job_id": "8791618"
+  },
+  "response": {
+    "access_programs": null,
+    "background": false,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1795747745,
+    "created_at": 1795747742,
+    "error": null,
+    "frequency_penalty": 0.0,
+    "id": "resp_08097fcaac8b7a02016b08ef9ecddc87d18566f211060b95f7",
+    "image": {
+      "context_compression": "disabled"
+    },
+    "incomplete_details": null,
+    "input_transformations": [],
+    "instructions": null,
+    "max_output_tokens": 2048,
+    "max_tool_calls": null,
+    "model": "gpt-6-luna",
+    "moderation": null,
+    "object": "response",
+    "output": [
+      {
+        "content": [
+          {
+            "annotations": [],
+            "logprobs": [],
+            "text": "[\n  \"下班后我们去咖啡店坐坐，顺便把明天的presentation过一遍。\",\n  \"这款耳机的noise cancellation很不错，通勤的时候基本听不到地铁声。\",\n  \"请把会议纪要发到group chat里，方便大家follow up。\",\n  \"他刚搬到这边，还不太熟悉neighborhood里的公交路线。\",\n  \"这家小馆子的菜单每天都变，老板说今天的special是葱油拌面。\",\n  \"我本来想周末宅在家，结果朋友临时约我去hiking。\",\n  \"申请表里有一栏要填emergency contact，记得写上对方的电话号码。\",\n  \"这个方案听起来挺合理，不过我们最好先做个quick test再决定。\",\n  \"她讲课节奏很快，但每次都会把key points整理成一页handout。\",\n  \"要是你今晚有空，我们可以开个短会，把项目的timeline定下来。\"\n]",
+            "type": "output_text"
+          }
+        ],
+        "id": "msg_08097fcaac8b7a02016b08ef9f253887d1b27edd41d6796e24",
+        "phase": "final_answer",
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0.0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "none",
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "store": false,
+    "temperature": 0.8,
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    },
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1.0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 254,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cache_write_tokens_details": {
+          "ttl_12h_tokens": 0,
+          "ttl_30m_tokens": 0
+        },
+        "cached_tokens": 0
+      },
+      "output_tokens": 224,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 478
+    },
+    "user": null,
+    "metadata": {}
+  },
+  "api_request_id": "req_bb053d3701464b6e944f81d618c677b2",
+  "accepted": true,
+  "sentences": [
+    "下班后我们去咖啡店坐坐，顺便把明天的presentation过一遍。",
+    "这款耳机的noise cancellation很不错，通勤的时候基本听不到地铁声。",
+    "请把会议纪要发到group chat里，方便大家follow up。",
+    "他刚搬到这边，还不太熟悉neighborhood里的公交路线。",
+    "这家小馆子的菜单每天都变，老板说今天的special是葱油拌面。",
+    "我本来想周末宅在家，结果朋友临时约我去hiking。",
+    "申请表里有一栏要填emergency contact，记得写上对方的电话号码。",
+    "这个方案听起来挺合理，不过我们最好先做个quick test再决定。",
+    "她讲课节奏很快，但每次都会把key points整理成一页handout。",
+    "要是你今晚有空，我们可以开个短会，把项目的timeline定下来。"
+  ],
+  "packaging": "plain_json",
+  "issues": [],
+  "finished_at_utc": "2026-11-27T02:49:05+00:00"
+}

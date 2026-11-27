@@ -1,0 +1,14 @@
+{
+  "model": "gemma3:27b",
+  "family": "gemma",
+  "updated_at_utc": "2026-11-27T00:02:06+00:00",
+  "initial_finished": true,
+  "initial_requests": 50,
+  "initial_accepted_batches": 50,
+  "dispatched_requests": 50,
+  "rerun_requests": 0,
+  "accepted_batches": 50,
+  "accepted_sentences": 500,
+  "repair_finished": true,
+  "unresolved": []
+}

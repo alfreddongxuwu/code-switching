@@ -1,0 +1,23 @@
+{
+  "cluster": "ascend",
+  "hostname": "ascend.osc.edu",
+  "username": "YOUR_USERNAME",
+  "account": "YOUR_ACCOUNT",
+  "project_dir": "/path/to/code-switching",
+  "ollama_models_dir": "/path/to/code-switching/ollama_models",
+  "model_inventory_dir": "outputs/model_downloads_large",
+  "download_min_free_gib": 150,
+  "pilot_run_name": "pilot_large_groups_1_3_repeat_1",
+  "experiment": {
+    "groups": 10,
+    "repeats_per_group": 5,
+    "sentences_per_request": 10
+  },
+  "models": [
+    {"family": "gemma", "provider": "ollama", "model": "gemma3:27b"},
+    {"family": "qwen", "provider": "ollama", "model": "qwen3:32b"},
+    {"family": "llama", "provider": "ollama", "model": "llama3:70b"},
+    {"family": "deepseek", "provider": "ollama", "model": "deepseek-llm:67b"},
+    {"family": "gpt", "provider": "openai", "model": "gpt-6-luna"}
+  ]
+}

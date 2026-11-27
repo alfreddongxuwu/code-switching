@@ -1,0 +1,56 @@
+{
+  "continuation_id": "deepseek_attempts_04_06",
+  "updated_at_utc": "2026-11-27T02:52:16+00:00",
+  "finished": true,
+  "new_requests": 23,
+  "maximum_new_requests": 33,
+  "accepted_sentences_before": 390,
+  "accepted_sentences_now": 480,
+  "unresolved": [
+    {
+      "group_id": 2,
+      "repeat_id": 4,
+      "attempts": 7,
+      "last_issues": [
+        {
+          "type": "no_latin",
+          "items": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 4,
+      "repeat_id": 3,
+      "attempts": 7,
+      "last_issues": [
+        {
+          "type": "no_han",
+          "items": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    }
+  ],
+  "slurm_job_id": "8791553"
+}

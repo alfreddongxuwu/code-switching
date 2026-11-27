@@ -1,0 +1,103 @@
+{
+  "access_programs": null,
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1795747456,
+  "created_at": 1795747454,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "id": "resp_08d33ae4f4b26940016b08ee7e327087d19b4d6f4ee2c1330b",
+  "image": {
+    "context_compression": "disabled"
+  },
+  "incomplete_details": null,
+  "input_transformations": [],
+  "instructions": null,
+  "max_output_tokens": 2048,
+  "max_tool_calls": null,
+  "model": "gpt-6-luna",
+  "moderation": null,
+  "object": "response",
+  "output": [
+    {
+      "content": [
+        {
+          "annotations": [],
+          "logprobs": [],
+          "text": "[\n  \"这份报告的deadline是周五中午，大家别忘了提前提交。\",\n  \"我刚把presentation的slides发到群里了，麻烦你们看一下有没有需要修改的地方。\",\n  \"这个咖啡店氛围不错，wifi也很稳定，适合带电脑来赶project。\",\n  \"师傅，麻烦把空调调低一点，the room is getting too warm。\",\n  \"申请表已经填好了，不过还需要upload一份护照的扫描件。\",\n  \"她说今天的meeting可能会delay十分钟，我们先把议程过一遍吧。\",\n  \"这家餐厅的服务挺friendly的，但菜单上的vegetarian options不太多。\",\n  \"别担心，I’ll handle the booking，你只要告诉我大概几点到就行。\",\n  \"经过几轮讨论，团队终于决定把这个feature放到下一个release里。\",\n  \"看到你发来的照片了，the colors look amazing，周末我们也去那边拍一组吧。\"\n]",
+          "type": "output_text"
+        }
+      ],
+      "id": "msg_08d33ae4f4b26940016b08ee7ebbe087d1a97f481dc2b845be",
+      "phase": "final_answer",
+      "role": "assistant",
+      "status": "completed",
+      "type": "message"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "none",
+    "mode": "standard",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "status": "completed",
+  "store": false,
+  "temperature": 0.8,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  },
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 256,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cache_write_tokens_details": {
+        "ttl_12h_tokens": 0,
+        "ttl_30m_tokens": 0
+      },
+      "cached_tokens": 0
+    },
+    "output_tokens": 230,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 486
+  },
+  "user": null,
+  "metadata": {}
+}

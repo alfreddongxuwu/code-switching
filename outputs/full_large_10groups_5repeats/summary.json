@@ -1,0 +1,64 @@
+{
+  "updated_at_utc": "2026-11-27T03:15:24+00:00",
+  "by_model": [
+    {
+      "model": "gemma3:27b",
+      "family": "gemma",
+      "updated_at_utc": "2026-11-27T00:02:06+00:00",
+      "initial_finished": true,
+      "initial_requests": 50,
+      "initial_accepted_batches": 50,
+      "dispatched_requests": 50,
+      "rerun_requests": 0,
+      "accepted_batches": 50,
+      "accepted_sentences": 500,
+      "repair_finished": true,
+      "unresolved": []
+    },
+    {
+      "model": "qwen3:32b",
+      "family": "qwen",
+      "updated_at_utc": "2026-11-27T00:04:01+00:00",
+      "initial_finished": true,
+      "initial_requests": 50,
+      "initial_accepted_batches": 48,
+      "dispatched_requests": 52,
+      "rerun_requests": 2,
+      "accepted_batches": 50,
+      "accepted_sentences": 500,
+      "repair_finished": true,
+      "unresolved": []
+    },
+    {
+      "model": "llama3:70b",
+      "family": "llama",
+      "updated_at_utc": "2026-11-27T00:04:50+00:00",
+      "initial_finished": true,
+      "initial_requests": 50,
+      "initial_accepted_batches": 43,
+      "dispatched_requests": 58,
+      "rerun_requests": 8,
+      "accepted_batches": 50,
+      "accepted_sentences": 500,
+      "repair_finished": true,
+      "unresolved": []
+    },
+    {
+      "model": "deepseek-llm:67b",
+      "family": "deepseek",
+      "updated_at_utc": "2026-11-27T03:15:24+00:00",
+      "initial_finished": true,
+      "initial_requests": 50,
+      "initial_accepted_batches": 13,
+      "dispatched_requests": 151,
+      "rerun_requests": 101,
+      "accepted_batches": 50,
+      "accepted_sentences": 500,
+      "repair_finished": true,
+      "unresolved": []
+    }
+  ],
+  "first_pass_complete": true,
+  "repair_complete": true,
+  "all_models_have_500": true
+}

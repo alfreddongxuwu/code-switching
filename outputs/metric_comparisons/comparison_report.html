@@ -1,0 +1,107 @@
+<!doctype html><html lang="zh-CN"><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Human 与五个模型的 code-switching 指标比较</title>
+<style>body{font-family:system-ui,"Microsoft YaHei",sans-serif;max-width:1120px;margin:36px auto;padding:0 24px;color:#182231;line-height:1.65}h1{font-size:27px}h2{margin-top:44px;border-top:2px solid #dae1ea;padding-top:18px}h3{font-size:17px;margin-bottom:10px}.note{color:#4d5c70}table{border-collapse:collapse;width:100%;font-size:14px;margin:12px 0 20px;font-variant-numeric:tabular-nums}th,td{border-bottom:1px solid #dae1ea;padding:9px 10px;text-align:right;white-space:nowrap}th:first-child,td:first-child{text-align:left}th{background:#edf2f8}tr.human{background:#f7f9fc;font-weight:600}.table-wrap{overflow-x:auto}code{background:#edf2f8;padding:1px 4px}@media print{body{margin:0;max-width:none}h2{break-before:page}.table-wrap{overflow:visible}table{font-size:11px}th,td{padding:6px}}</style>
+<h1>Human 与五个模型的 code-switching 指标比较</h1>
+<p>按既定六项指标的顺序呈现。所有差值均为 model − human。</p>
+<p class="note">Sentence-level 按句等权，SD 为总体标准差（ddof=0）。仅对 sentence-level 均值做双侧 Welch t-test，30 个 p 值统一进行 Benjamini–Hochberg 校正，以调整后 p &lt; 0.05 为显著标准。Corpus-level 汇总有效行内部的计数与 span；句子不拼接，跨句不产生切换或合并 span，结果作描述性比较。</p>
+<p class="note">每句视为独立观测；未对 prompt group 或生成批次的潜在相关性建模。p 值作为探索性证据，组内正相关可能使标准误偏低、p 值偏小。</p>
+<h3>有效样本与排除</h3><div class="table-wrap"><table><tr><th>来源</th><th>原始行数</th><th>NA</th><th>有效行数</th></tr>
+<tr><td>human</td><td>500</td><td>0</td><td>500</td></tr>
+<tr><td>gemma3:27b</td><td>500</td><td>26</td><td>474</td></tr>
+<tr><td>qwen3:32b</td><td>500</td><td>5</td><td>495</td></tr>
+<tr><td>llama3:70b</td><td>500</td><td>9</td><td>491</td></tr>
+<tr><td>deepseek-llm:67b</td><td>500</td><td>7</td><td>493</td></tr>
+<tr><td>gpt-6-luna</td><td>500</td><td>6</td><td>494</td></tr>
+</table></div>
+<h2>1. M-Index</h2><p class='note'>2CE / (C² + E²)</p><h3>Sentence-level</h3><div class='table-wrap'><table><tr><th>来源</th><th>n</th><th>Mean</th><th>SD (ddof=0)</th><th>Mean 差值</th><th>BH-adjusted p</th><th>显著</th></tr>
+<tr class='human'><td>human</td><td>500</td><td>0.404765</td><td>0.285512</td><td>+0.000000</td><td>—</td><td>—</td></tr>
+<tr><td>gemma3:27b</td><td>474</td><td>0.629474</td><td>0.269591</td><td>+0.224709</td><td>4.753e-33</td><td>是</td></tr>
+<tr><td>qwen3:32b</td><td>495</td><td>0.334601</td><td>0.185555</td><td>-0.070164</td><td>8.256e-06</td><td>是</td></tr>
+<tr><td>llama3:70b</td><td>491</td><td>0.445910</td><td>0.227931</td><td>+0.041146</td><td>0.017637</td><td>是</td></tr>
+<tr><td>deepseek-llm:67b</td><td>493</td><td>0.521648</td><td>0.314756</td><td>+0.116884</td><td>2.531e-09</td><td>是</td></tr>
+<tr><td>gpt-6-luna</td><td>494</td><td>0.201635</td><td>0.114615</td><td>-0.203130</td><td>3.352e-41</td><td>是</td></tr>
+</table></div><h3>Corpus-level</h3><div class='table-wrap'><table><tr><th>来源</th><th>有效行数</th><th>整体指标值</th><th>Model − human</th></tr>
+<tr class='human'><td>human</td><td>500</td><td>0.303567</td><td>+0.000000</td></tr>
+<tr><td>gemma3:27b</td><td>474</td><td>0.701905</td><td>+0.398338</td></tr>
+<tr><td>qwen3:32b</td><td>495</td><td>0.319578</td><td>+0.016011</td></tr>
+<tr><td>llama3:70b</td><td>491</td><td>0.430721</td><td>+0.127155</td></tr>
+<tr><td>deepseek-llm:67b</td><td>493</td><td>0.660957</td><td>+0.357390</td></tr>
+<tr><td>gpt-6-luna</td><td>494</td><td>0.194054</td><td>-0.109512</td></tr>
+</table></div>
+<h2>2. I-Index</h2><p class='note'>S / (N − 1)</p><h3>Sentence-level</h3><div class='table-wrap'><table><tr><th>来源</th><th>n</th><th>Mean</th><th>SD (ddof=0)</th><th>Mean 差值</th><th>BH-adjusted p</th><th>显著</th></tr>
+<tr class='human'><td>human</td><td>500</td><td>0.218452</td><td>0.153626</td><td>+0.000000</td><td>—</td><td>—</td></tr>
+<tr><td>gemma3:27b</td><td>474</td><td>0.239501</td><td>0.122181</td><td>+0.021049</td><td>0.024507</td><td>是</td></tr>
+<tr><td>qwen3:32b</td><td>495</td><td>0.209143</td><td>0.099135</td><td>-0.009308</td><td>0.297278</td><td>否</td></tr>
+<tr><td>llama3:70b</td><td>491</td><td>0.255128</td><td>0.113787</td><td>+0.036676</td><td>3.384e-05</td><td>是</td></tr>
+<tr><td>deepseek-llm:67b</td><td>493</td><td>0.153230</td><td>0.098242</td><td>-0.065222</td><td>1.355e-14</td><td>是</td></tr>
+<tr><td>gpt-6-luna</td><td>494</td><td>0.130262</td><td>0.054235</td><td>-0.088190</td><td>1.190e-29</td><td>是</td></tr>
+</table></div><h3>Corpus-level</h3><div class='table-wrap'><table><tr><th>来源</th><th>有效行数</th><th>整体指标值</th><th>Model − human</th></tr>
+<tr class='human'><td>human</td><td>500</td><td>0.157038</td><td>+0.000000</td></tr>
+<tr><td>gemma3:27b</td><td>474</td><td>0.236136</td><td>+0.079097</td></tr>
+<tr><td>qwen3:32b</td><td>495</td><td>0.201307</td><td>+0.044269</td></tr>
+<tr><td>llama3:70b</td><td>491</td><td>0.245583</td><td>+0.088545</td></tr>
+<tr><td>deepseek-llm:67b</td><td>493</td><td>0.140579</td><td>-0.016459</td></tr>
+<tr><td>gpt-6-luna</td><td>494</td><td>0.128328</td><td>-0.028710</td></tr>
+</table></div>
+<h2>3. Burstiness</h2><p class='note'>(σ − μ) / (σ + μ)，span 长度的 σ 使用 ddof=0</p><h3>Sentence-level</h3><div class='table-wrap'><table><tr><th>来源</th><th>n</th><th>Mean</th><th>SD (ddof=0)</th><th>Mean 差值</th><th>BH-adjusted p</th><th>显著</th></tr>
+<tr class='human'><td>human</td><td>500</td><td>-0.253611</td><td>0.228255</td><td>+0.000000</td><td>—</td><td>—</td></tr>
+<tr><td>gemma3:27b</td><td>474</td><td>-0.347777</td><td>0.227593</td><td>-0.094167</td><td>3.796e-10</td><td>是</td></tr>
+<tr><td>qwen3:32b</td><td>495</td><td>-0.168049</td><td>0.162169</td><td>+0.085562</td><td>3.705e-11</td><td>是</td></tr>
+<tr><td>llama3:70b</td><td>491</td><td>-0.168050</td><td>0.143462</td><td>+0.085560</td><td>7.455e-12</td><td>是</td></tr>
+<tr><td>deepseek-llm:67b</td><td>493</td><td>-0.319295</td><td>0.289555</td><td>-0.065684</td><td>0.000120</td><td>是</td></tr>
+<tr><td>gpt-6-luna</td><td>494</td><td>-0.143029</td><td>0.118846</td><td>+0.110582</td><td>4.307e-20</td><td>是</td></tr>
+</table></div><h3>Corpus-level</h3><div class='table-wrap'><table><tr><th>来源</th><th>有效行数</th><th>整体指标值</th><th>Model − human</th></tr>
+<tr class='human'><td>human</td><td>500</td><td>0.059486</td><td>+0.000000</td></tr>
+<tr><td>gemma3:27b</td><td>474</td><td>-0.164635</td><td>-0.224121</td></tr>
+<tr><td>qwen3:32b</td><td>495</td><td>-0.040613</td><td>-0.100099</td></tr>
+<tr><td>llama3:70b</td><td>491</td><td>-0.049396</td><td>-0.108882</td></tr>
+<tr><td>deepseek-llm:67b</td><td>493</td><td>-0.067182</td><td>-0.126669</td></tr>
+<tr><td>gpt-6-luna</td><td>494</td><td>-0.070273</td><td>-0.129759</td></tr>
+</table></div>
+<h2>4. Span Entropy</h2><p class='note'>−Σ pₗ log₂(pₗ)，单位 bits</p><h3>Sentence-level</h3><div class='table-wrap'><table><tr><th>来源</th><th>n</th><th>Mean</th><th>SD (ddof=0)</th><th>Mean 差值</th><th>BH-adjusted p</th><th>显著</th></tr>
+<tr class='human'><td>human</td><td>500</td><td>1.248292</td><td>0.416510</td><td>+0.000000</td><td>—</td><td>—</td></tr>
+<tr><td>gemma3:27b</td><td>474</td><td>1.413200</td><td>0.430225</td><td>+0.164908</td><td>3.312e-09</td><td>是</td></tr>
+<tr><td>qwen3:32b</td><td>495</td><td>1.490854</td><td>0.330888</td><td>+0.242561</td><td>1.532e-22</td><td>是</td></tr>
+<tr><td>llama3:70b</td><td>491</td><td>1.531910</td><td>0.336806</td><td>+0.283618</td><td>2.152e-29</td><td>是</td></tr>
+<tr><td>deepseek-llm:67b</td><td>493</td><td>1.290641</td><td>0.404021</td><td>+0.042349</td><td>0.136367</td><td>否</td></tr>
+<tr><td>gpt-6-luna</td><td>494</td><td>1.548241</td><td>0.302965</td><td>+0.299949</td><td>1.746e-34</td><td>是</td></tr>
+</table></div><h3>Corpus-level</h3><div class='table-wrap'><table><tr><th>来源</th><th>有效行数</th><th>整体指标值</th><th>Model − human</th></tr>
+<tr class='human'><td>human</td><td>500</td><td>3.325801</td><td>+0.000000</td></tr>
+<tr><td>gemma3:27b</td><td>474</td><td>2.889350</td><td>-0.436451</td></tr>
+<tr><td>qwen3:32b</td><td>495</td><td>3.120823</td><td>-0.204978</td></tr>
+<tr><td>llama3:70b</td><td>491</td><td>2.837633</td><td>-0.488168</td></tr>
+<tr><td>deepseek-llm:67b</td><td>493</td><td>3.575606</td><td>+0.249805</td></tr>
+<tr><td>gpt-6-luna</td><td>494</td><td>3.637713</td><td>+0.311912</td></tr>
+</table></div>
+<h2>5. Mean English Span Length</h2><p class='note'>英文词数 / 英文 span 数</p><h3>Sentence-level</h3><div class='table-wrap'><table><tr><th>来源</th><th>n</th><th>Mean</th><th>SD (ddof=0)</th><th>Mean 差值</th><th>BH-adjusted p</th><th>显著</th></tr>
+<tr class='human'><td>human</td><td>500</td><td>1.457833</td><td>0.856292</td><td>+0.000000</td><td>—</td><td>—</td></tr>
+<tr><td>gemma3:27b</td><td>474</td><td>2.575949</td><td>1.819988</td><td>+1.118116</td><td>4.998e-30</td><td>是</td></tr>
+<tr><td>qwen3:32b</td><td>495</td><td>1.443434</td><td>0.811567</td><td>-0.014399</td><td>0.812783</td><td>否</td></tr>
+<tr><td>llama3:70b</td><td>491</td><td>1.428038</td><td>0.659348</td><td>-0.029795</td><td>0.599467</td><td>否</td></tr>
+<tr><td>deepseek-llm:67b</td><td>493</td><td>3.514706</td><td>3.164802</td><td>+2.056873</td><td>6.745e-37</td><td>是</td></tr>
+<tr><td>gpt-6-luna</td><td>494</td><td>1.383941</td><td>0.684415</td><td>-0.073893</td><td>0.166716</td><td>否</td></tr>
+</table></div><h3>Corpus-level</h3><div class='table-wrap'><table><tr><th>来源</th><th>有效行数</th><th>整体指标值</th><th>Model − human</th></tr>
+<tr class='human'><td>human</td><td>500</td><td>1.439614</td><td>+0.000000</td></tr>
+<tr><td>gemma3:27b</td><td>474</td><td>2.202469</td><td>+0.762856</td></tr>
+<tr><td>qwen3:32b</td><td>495</td><td>1.349428</td><td>-0.090185</td></tr>
+<tr><td>llama3:70b</td><td>491</td><td>1.370071</td><td>-0.069543</td></tr>
+<tr><td>deepseek-llm:67b</td><td>493</td><td>3.108911</td><td>+1.669297</td></tr>
+<tr><td>gpt-6-luna</td><td>494</td><td>1.332349</td><td>-0.107265</td></tr>
+</table></div>
+<h2>6. Single-word English Span Proportion</h2><p class='note'>长度为 1 的英文 span 数 / 英文 span 数</p><h3>Sentence-level</h3><div class='table-wrap'><table><tr><th>来源</th><th>n</th><th>Mean</th><th>SD (ddof=0)</th><th>Mean 差值</th><th>BH-adjusted p</th><th>显著</th></tr>
+<tr class='human'><td>human</td><td>500</td><td>0.678833</td><td>0.446193</td><td>+0.000000</td><td>—</td><td>—</td></tr>
+<tr><td>gemma3:27b</td><td>474</td><td>0.463608</td><td>0.417801</td><td>-0.215226</td><td>5.118e-14</td><td>是</td></tr>
+<tr><td>qwen3:32b</td><td>495</td><td>0.690572</td><td>0.420892</td><td>+0.011739</td><td>0.717681</td><td>否</td></tr>
+<tr><td>llama3:70b</td><td>491</td><td>0.681942</td><td>0.381520</td><td>+0.003108</td><td>0.906237</td><td>否</td></tr>
+<tr><td>deepseek-llm:67b</td><td>493</td><td>0.427316</td><td>0.463372</td><td>-0.251518</td><td>4.031e-17</td><td>是</td></tr>
+<tr><td>gpt-6-luna</td><td>494</td><td>0.710189</td><td>0.425600</td><td>+0.031356</td><td>0.297278</td><td>否</td></tr>
+</table></div><h3>Corpus-level</h3><div class='table-wrap'><table><tr><th>来源</th><th>有效行数</th><th>整体指标值</th><th>Model − human</th></tr>
+<tr class='human'><td>human</td><td>500</td><td>0.684380</td><td>+0.000000</td></tr>
+<tr><td>gemma3:27b</td><td>474</td><td>0.564198</td><td>-0.120183</td></tr>
+<tr><td>qwen3:32b</td><td>495</td><td>0.743329</td><td>+0.058949</td></tr>
+<tr><td>llama3:70b</td><td>491</td><td>0.713852</td><td>+0.029472</td></tr>
+<tr><td>deepseek-llm:67b</td><td>493</td><td>0.492221</td><td>-0.192159</td></tr>
+<tr><td>gpt-6-luna</td><td>494</td><td>0.738552</td><td>+0.054172</td></tr>
+</table></div>
+<p class='note'>CSV 保留完整计算精度；本报告的指标展示至小数点后六位。原始 p 值、t、df、逐句指标和 corpus span 分布见同目录 CSV。</p></html>

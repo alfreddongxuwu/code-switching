@@ -1,0 +1,7 @@
+﻿family,model,rows,na_rows,valid_analysis_rows,na_reasons
+human,human,500,0,500,{}
+gemma,gemma3:27b,500,26,474,"{""internal_duplicate_after_first"": 26}"
+qwen,qwen3:32b,500,5,495,"{""internal_duplicate_after_first"": 5}"
+llama,llama3:70b,500,9,491,"{""non_chinese_english_letters"": 3, ""non_chinese_english_content"": 4, ""prompt_fragment_copy"": 2}"
+deepseek,deepseek-llm:67b,500,7,493,"{""prompt_fragment_copy"": 4, ""internal_duplicate_after_first"": 3, ""prompt_whole_copy"": 1}"
+gpt,gpt-6-luna,500,6,494,"{""internal_duplicate_after_first"": 6}"

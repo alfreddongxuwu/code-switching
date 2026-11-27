@@ -1,0 +1,21 @@
+{
+  "submitted_at_utc": "2026-11-27T02:39:29+00:00",
+  "job_id": "8791553",
+  "run_dir": "/path/to/code-switching/outputs/full_large_10groups_5repeats",
+  "model": "deepseek-llm:67b",
+  "target_batches": 11,
+  "additional_reruns_per_batch": 3,
+  "maximum_new_requests": 33,
+  "attempt_ids": [
+    4,
+    5,
+    6
+  ],
+  "seed_rule": "2026 + 50 * attempt_id + 5 * (group_id - 1) + repeat_id - 1",
+  "continuation_id": "deepseek_attempts_04_06",
+  "checked_at_utc": "2026-11-27T03:10:03+00:00",
+  "state": "COMPLETED",
+  "new_requests": 23,
+  "accepted_sentences_now": 480,
+  "unresolved_batches": 2
+}

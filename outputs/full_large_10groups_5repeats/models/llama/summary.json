@@ -1,0 +1,14 @@
+{
+  "model": "llama3:70b",
+  "family": "llama",
+  "updated_at_utc": "2026-11-27T00:04:50+00:00",
+  "initial_finished": true,
+  "initial_requests": 50,
+  "initial_accepted_batches": 43,
+  "dispatched_requests": 58,
+  "rerun_requests": 8,
+  "accepted_batches": 50,
+  "accepted_sentences": 500,
+  "repair_finished": true,
+  "unresolved": []
+}

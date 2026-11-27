@@ -1,0 +1,43 @@
+{
+  "config": {
+    "run_name": "pilot_gpt6_luna_group_1",
+    "endpoint": "https://api.openai.com/v1/responses",
+    "model": "gpt-6-luna",
+    "group_id": 1,
+    "repeat_id": 1,
+    "parameters": {
+      "temperature": 0.8,
+      "top_p": 1.0,
+      "max_output_tokens": 2048,
+      "reasoning": {
+        "effort": "none"
+      },
+      "store": false,
+      "truncation": "disabled"
+    },
+    "expected_sentences": 10,
+    "automatic_retries": 0,
+    "conversation_history": false,
+    "seed": null,
+    "seed_note": "The Responses API does not expose a seed parameter. No seed is sent or claimed to be controlled.",
+    "unsupported_ollama_controls": [
+      "seed",
+      "num_ctx",
+      "top_k",
+      "min_p",
+      "frequency_penalty",
+      "presence_penalty",
+      "repeat_penalty"
+    ],
+    "purpose": "One independent connectivity and parameter-compatibility pilot. Not included in the formal 500-sentence corpus."
+  },
+  "created_at_utc": "2026-11-27T02:44:13+00:00",
+  "file_sha256": {
+    "configs/openai_pilot.json": "491255553c316deebbb9b403f677ba7b28332ff93e9c0ece29609b1736d7b1b1",
+    "configs/generation.json": "d2baafb095a528a386e7d34615a8b58ac9cc1ba91a5e7f919bb70e09162fd38f",
+    "data/prompts.jsonl": "3863081169bfcd610cef12e073026cf8d8d7914ba1f4c4a0837613ae504af101",
+    "scripts/run_openai_pilot.py": "820db407fc3cdb575bfaf064c835008442b50eae3ce16531388a7dbbe30890fa",
+    "scripts/run_full_ollama.py": "fe2a446d655c503211c71c4a359379be66e907edb099bf334cb4ff7a0d830ea1",
+    "scripts/run_ollama_pilot.py": "48ac15b1c97d942a509f4cd26f609fe30729436b1afa555f45e7451b67cc75d9"
+  }
+}

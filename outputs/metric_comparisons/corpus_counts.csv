@@ -1,0 +1,7 @@
+﻿family,model,n_valid,chinese_characters,english_words,effective_tokens,switches,adjacent_positions,all_spans,chinese_spans,english_spans,single_word_english_spans
+human,human,500,5751,894,6645,965,6145,1465,844,621,425
+gemma,gemma3:27b,474,4352,1784,6136,1337,5662,1811,1001,810,457
+qwen,qwen3:32b,495,6472,1062,7534,1417,7039,1912,1125,787,585
+llama,llama3:70b,491,5985,1355,7340,1682,6849,2173,1184,989,706
+deepseek,deepseek-llm:67b,493,5821,2198,8019,1058,7526,1551,844,707,348
+gpt,gpt-6-luna,494,9208,902,10110,1234,9616,1728,1051,677,500

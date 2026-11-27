@@ -1,0 +1,145 @@
+{
+  "request": {
+    "model": "gpt-6-luna",
+    "group_id": 7,
+    "repeat_id": 3,
+    "attempt_id": 0,
+    "seed": null,
+    "independent_call_id": "d95945c9433349d09bafc41ee8ca28be",
+    "started_at_utc": "2026-11-27T02:49:55+00:00",
+    "endpoint": "https://api.openai.com/v1/responses",
+    "payload": {
+      "temperature": 0.8,
+      "top_p": 1.0,
+      "max_output_tokens": 2048,
+      "reasoning": {
+        "effort": "none"
+      },
+      "store": false,
+      "truncation": "disabled",
+      "model": "gpt-6-luna",
+      "input": "Code-switching refers to the alternation between two or more languages within a single utterance or discourse.\n\nBelow are ten examples of naturally occurring Mandarin–English code-switching:\n\n<examples>\nbus直接开进小区里面。\n若有人担心厕所要share，其实这并不是问题！\n地址：near frick park\n房间很大，每个人独立的bedroom和bathroom，utility基本全包，furnished，免费停车。\n富有责任心现在就申请请发送你的resume至em@111\n所以在那天才能pick up.\n有意帮付$450 security deposit\n最好是couple，稳定一点的那种。\n可share油费等。\n之前看到有贴大家说state id就可以是penn state id吗？\n</examples>\n\nGenerate ten new Mandarin–English code-switched sentences in a range of linguistic styles, registers, and code-switching patterns. Each sentence should contain both Mandarin and English. Do not copy or closely paraphrase the examples. Return only a JSON array of ten strings, without explanations, translations, or annotations.\n"
+    },
+    "slurm_job_id": "8791618"
+  },
+  "response": {
+    "access_programs": null,
+    "background": false,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1795747798,
+    "created_at": 1795747795,
+    "error": null,
+    "frequency_penalty": 0.0,
+    "id": "resp_008707cecfae6051016b08efd3d47887d1b56decbf0cecc7db",
+    "image": {
+      "context_compression": "disabled"
+    },
+    "incomplete_details": null,
+    "input_transformations": [],
+    "instructions": null,
+    "max_output_tokens": 2048,
+    "max_tool_calls": null,
+    "model": "gpt-6-luna",
+    "moderation": null,
+    "object": "response",
+    "output": [
+      {
+        "content": [
+          {
+            "annotations": [],
+            "logprobs": [],
+            "text": "[\n  \"这份报告的deadline是周五下午，大家记得提前提交。\",\n  \"我刚刚把meeting notes整理好，已经发到群里了。\",\n  \"外面风太大了，我们还是order外卖吧。\",\n  \"他讲解得特别clear，连刚入门的人都听懂了。\",\n  \"麻烦把这段视频trim一下，再加个简单的subtitle。\",\n  \"她每次做presentation都会先准备一份详细的outline。\",\n  \"这个咖啡店的氛围很chill，适合周末来读书。\",\n  \"如果你对这个岗位感兴趣，可以直接email hiring manager。\",\n  \"别忘了把手机调成silent，演出马上就要开始了。\",\n  \"今天的workshop改到线上举行，link我待会儿发给大家。\"\n]",
+            "type": "output_text"
+          }
+        ],
+        "id": "msg_008707cecfae6051016b08efd4201887d1a1c2688a2ca44a76",
+        "phase": "final_answer",
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0.0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "none",
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "store": false,
+    "temperature": 0.8,
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    },
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1.0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 230,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cache_write_tokens_details": {
+          "ttl_12h_tokens": 0,
+          "ttl_30m_tokens": 0
+        },
+        "cached_tokens": 0
+      },
+      "output_tokens": 187,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 417
+    },
+    "user": null,
+    "metadata": {}
+  },
+  "api_request_id": "req_449302d5d6ae4ee4a4d370353fe8bd7b",
+  "accepted": true,
+  "sentences": [
+    "这份报告的deadline是周五下午，大家记得提前提交。",
+    "我刚刚把meeting notes整理好，已经发到群里了。",
+    "外面风太大了，我们还是order外卖吧。",
+    "他讲解得特别clear，连刚入门的人都听懂了。",
+    "麻烦把这段视频trim一下，再加个简单的subtitle。",
+    "她每次做presentation都会先准备一份详细的outline。",
+    "这个咖啡店的氛围很chill，适合周末来读书。",
+    "如果你对这个岗位感兴趣，可以直接email hiring manager。",
+    "别忘了把手机调成silent，演出马上就要开始了。",
+    "今天的workshop改到线上举行，link我待会儿发给大家。"
+  ],
+  "packaging": "plain_json",
+  "issues": [],
+  "finished_at_utc": "2026-11-27T02:49:58+00:00"
+}

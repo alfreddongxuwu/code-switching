@@ -1,0 +1,51 @@
+﻿model,group_id,repeat_id,seed,sentence_id,sentence,contains_both_languages
+qwen3:8b,1,1,2026,1,这个位置靠近地铁，walk to station only 5 mins.,True
+qwen3:8b,1,1,2026,2,设备齐全，有wifi，TV，和free internet。,True
+qwen3:8b,1,1,2026,3,适合带小孩的家庭，child-friendly，安全。,True
+qwen3:8b,1,1,2026,4,可以提前预订，book now，保证有房。,True
+qwen3:8b,1,1,2026,5,房间有private bathroom，和queen size bed。,True
+qwen3:8b,1,1,2026,6,附近有grocery store，walk 10 mins可达。,True
+qwen3:8b,1,1,2026,7,现在有special offer，折扣30%。,True
+qwen3:8b,1,1,2026,8,提供免费breakfast，每天早上7点开始。,True
+qwen3:8b,1,1,2026,9,位置central，方便去shopping和entertainment。,True
+qwen3:8b,1,1,2026,10,可以选住单间或者double room，根据需求。,True
+qwen3:8b,2,1,2031,1,这个app界面很clean，操作起来很smooth。,True
+qwen3:8b,2,1,2031,2,如果需要帮忙，随时call我，我这边随时available。,True
+qwen3:8b,2,1,2031,3,周末去野餐，带点snack和water，别忘啦。,True
+qwen3:8b,2,1,2031,4,系统更新后，性能提升不少，运行起来更fluid。,True
+qwen3:8b,2,1,2031,5,今天天气不错，适合出去walk，air quality也挺好。,True
+qwen3:8b,2,1,2031,6,这个项目需要teamwork，大家合作才能完成。,True
+qwen3:8b,2,1,2031,7,记得设置好alarm，别迟到，work schedule很紧。,True
+qwen3:8b,2,1,2031,8,餐厅的service很quick，食物也fresh，推荐试试。,True
+qwen3:8b,2,1,2031,9,健身卡已经activate，可以随时去gyms锻炼。,True
+qwen3:8b,2,1,2031,10,明天会议时间是10am，记得confirm你的attendance。,True
+qwen3:8b,3,1,2036,1,这个公寓有两间卧室，其中一间是主卧，另一间可以作为guest room使用。,True
+qwen3:8b,3,1,2036,2,快递送到后，请记得在包裹上写上你的英文名，方便快递员识别。,False
+qwen3:8b,3,1,2036,3,今天天气不错，适合去公园野餐，记得带好防晒霜和遮阳帽。,False
+qwen3:8b,3,1,2036,4,我在找一份兼职工作，最好是远程的，这样可以在家工作，节省通勤时间。,False
+qwen3:8b,3,1,2036,5,这款手机性价比很高，价格只有$300，但是性能却很强大。,False
+qwen3:8b,3,1,2036,6,学习中文的时候，我觉得用拼音辅助记忆会更有效，尤其是声调部分。,False
+qwen3:8b,3,1,2036,7,餐厅的菜单上有几个特别推荐的菜，比如宫保鸡丁和麻婆豆腐，都是经典中式料理。,False
+qwen3:8b,3,1,2036,8,我最近在学做蛋糕，虽然还不太熟练，但已经能做出基本的海绵蛋糕了。,False
+qwen3:8b,3,1,2036,9,这个周末我要去参加一个英语角活动，希望可以多练习口语。,False
+qwen3:8b,3,1,2036,10,购物时如果遇到折扣，记得用优惠券，这样可以省下不少钱。,False
+deepseek-llm:7b,1,1,2026,1,"The weather is great, let's go outside!",False
+deepseek-llm:7b,1,1,2026,2,"I'm so excited about this weekend, what about you?",False
+deepseek-llm:7b,1,1,2026,3,Can you help me with this math problem? Thanks in advance!,False
+deepseek-llm:7b,1,1,2026,4,"I love this song, it's so catchy!",False
+deepseek-llm:7b,1,1,2026,5,"This restaurant has the best food, you have to try it!",False
+deepseek-llm:7b,1,1,2026,6,I can't wait for the new movie to come out!,False
+deepseek-llm:7b,1,1,2026,7,"I need a break, let's take a walk instead!",False
+deepseek-llm:7b,1,1,2026,8,"I'm so happy for you, you deserve this!",False
+deepseek-llm:7b,1,1,2026,9,I can't stop thinking about my vacation last year!,False
+deepseek-llm:7b,1,1,2026,10,"I'm so proud of you, you've come so far!",False
+deepseek-llm:7b,2,1,2031,1,骑自行车去学校需要15-18分钟，然后可以坐校园环线方便到达校园任何地方。,False
+deepseek-llm:7b,2,1,2031,2,可以给新老生提供chase的信用卡referral。,True
+deepseek-llm:7b,2,1,2031,3,因为share卫生间问题，限男生一名。,True
+deepseek-llm:7b,2,1,2031,4,同时住的安静，不想social也可以过一个安静祥和的暑假。,True
+deepseek-llm:7b,2,1,2031,5,车况非常好，clean title，无事故，省心省油。,True
+deepseek-llm:7b,2,1,2031,6,什么size?,True
+deepseek-llm:7b,2,1,2031,7,后院：deck。,True
+deepseek-llm:7b,2,1,2031,8,如果感兴趣，请通过email联系em@11。,True
+deepseek-llm:7b,2,1,2031,9,停车有很大的室内garage。,True
+deepseek-llm:7b,2,1,2031,10,骑自行车去学校需要15-18分钟，然后坐校园环线方便到达校园任何地方。,False

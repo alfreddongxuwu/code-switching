@@ -1,0 +1,14 @@
+{
+  "model": "qwen3:32b",
+  "family": "qwen",
+  "updated_at_utc": "2026-11-27T00:04:01+00:00",
+  "initial_finished": true,
+  "initial_requests": 50,
+  "initial_accepted_batches": 48,
+  "dispatched_requests": 52,
+  "rerun_requests": 2,
+  "accepted_batches": 50,
+  "accepted_sentences": 500,
+  "repair_finished": true,
+  "unresolved": []
+}

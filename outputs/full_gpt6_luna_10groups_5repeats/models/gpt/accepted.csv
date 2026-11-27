@@ -1,0 +1,501 @@
+﻿model,group_id,repeat_id,attempt_id,seed,sentence_id,sentence
+gpt-6-luna,1,1,0,,1,这份报告的deadline是周五下午，大家尽量提前交。
+gpt-6-luna,1,1,0,,2,我刚把presentation改完，麻烦你check一下最后两页。
+gpt-6-luna,1,1,0,,3,地铁站出来往左走，咖啡店就在那个corner。
+gpt-6-luna,1,1,0,,4,虽然今天行程很packed，但我们还是可以找时间喝杯咖啡。
+gpt-6-luna,1,1,0,,5,请把会议链接forward给还没收到邀请的同事。
+gpt-6-luna,1,1,0,,6,这道菜的flavor很特别，入口有点酸，后味又带甜。
+gpt-6-luna,1,1,0,,7,不好意思，我刚才没听清，可以再说一遍吗？The connection is breaking up。
+gpt-6-luna,1,1,0,,8,这次活动不要求正式着装，smart casual就可以。
+gpt-6-luna,1,1,0,,9,他做决定一向很谨慎，不过这回居然说“Let's go for it.”
+gpt-6-luna,1,1,0,,10,系统更新之后，我的password一直无法登录，能帮我reset一下吗？
+gpt-6-luna,1,2,0,,1,这家咖啡店的wifi很稳定，适合带电脑来赶deadline。
+gpt-6-luna,1,2,0,,2,麻烦把meeting改到周五下午，我那天早上有课。
+gpt-6-luna,1,2,0,,3,她做presentation的时候特别自信，连教授都忍不住夸了几句。
+gpt-6-luna,1,2,0,,4,周末我们打算去hiking，记得带水和防晒霜。
+gpt-6-luna,1,2,0,,5,这个app更新以后界面更清爽了，不过search功能还是有点难用。
+gpt-6-luna,1,2,0,,6,请在提交作业前检查一下format，文件名也要按要求填写。
+gpt-6-luna,1,2,0,,7,我本来想早点睡，结果刷短视频刷到midnight。
+gpt-6-luna,1,2,0,,8,项目进度有些delay，大家先同步一下目前的status。
+gpt-6-luna,1,2,0,,9,别担心，take your time，我们可以等你一起出发。
+gpt-6-luna,1,2,0,,10,这份报告的数据很扎实，但conclusion还需要再写得明确一点。
+gpt-6-luna,1,3,0,,1,这份report我已经加上charts，麻烦你下班前帮我review一下。
+gpt-6-luna,1,3,0,,2,周末想去hiking，天气app说上午会有点雾。
+gpt-6-luna,1,3,0,,3,老师提醒大家把assignment上传到portal，文件名要用student ID。
+gpt-6-luna,1,3,0,,4,她讲话特别有confidence，连最挑剔的客户都被说服了。
+gpt-6-luna,1,3,0,,5,不好意思，我刚刚在meeting里，没及时看到你的message。
+gpt-6-luna,1,3,0,,6,这个咖啡店的vibe很舒服，适合坐下来读书或者catch up。
+gpt-6-luna,1,3,0,,7,请把门禁code发我一下，我到了以后text你。
+gpt-6-luna,1,3,0,,8,新政策从下个月开始生效，details已经放在website上了。
+gpt-6-luna,1,3,0,,9,我本来打算自己做dinner，结果冰箱里只剩一点leftover。
+gpt-6-luna,1,3,0,,10,他写邮件很讲究tone，同一句话换个表达就会显得更polite。
+gpt-6-luna,1,4,0,,1,这周的presentation我还没准备完，今晚得留在图书馆赶工。
+gpt-6-luna,1,4,0,,2,麻烦把meeting改到周四下午，我上午要去医院复诊。
+gpt-6-luna,1,4,0,,3,新买的咖啡机操作很简单，按一下start就能开始萃取。
+gpt-6-luna,1,4,0,,4,老师说这篇essay的argument不错，不过还需要补充几条可靠的source。
+gpt-6-luna,1,4,0,,5,外面风太大了，我们还是点food delivery，在家看电影吧。
+gpt-6-luna,1,4,0,,6,这个app最近更新以后变得很卡，连登录都要等半天。
+gpt-6-luna,1,4,0,,7,我已经把行李pack好了，明天一早直接坐shuttle去机场。
+gpt-6-luna,1,4,0,,8,这家店的service挺热情，唯一的问题是周末通常要排很久的队。
+gpt-6-luna,1,4,0,,9,你先别急着发邮件，等我确认一下schedule再回复对方。
+gpt-6-luna,1,4,0,,10,虽然今天的workload有点重，但把最难的task做完之后就轻松多了。
+gpt-6-luna,1,5,0,,1,今天的deadline提前到下午五点，大家记得把报告发到shared folder。
+gpt-6-luna,1,5,0,,2,这家新开的咖啡店氛围很chill，适合周末带电脑去写作业。
+gpt-6-luna,1,5,0,,3,麻烦你帮我把meeting改到明天上午，我那时候比较available。
+gpt-6-luna,1,5,0,,4,这件外套虽然有点oversized，但搭配牛仔裤刚好有种effortless的感觉。
+gpt-6-luna,1,5,0,,5,老师说final project可以两人一组完成，不过每个人都要提交reflection。
+gpt-6-luna,1,5,0,,6,我刚把行程book好了，周五晚上到，周日下午再坐train回来。
+gpt-6-luna,1,5,0,,7,如果你对这个岗位感兴趣，可以先发一份resume给我，我帮你forward给HR。
+gpt-6-luna,1,5,0,,8,小朋友今天在学校学了几个新的English words，回家一路都在练习发音。
+gpt-6-luna,1,5,0,,9,请先确认一下合同里的payment terms，尤其是late fee和cancellation policy。
+gpt-6-luna,1,5,0,,10,这段代码在我电脑上运行正常，但换到production环境就开始throw errors了。
+gpt-6-luna,2,1,0,,1,明天的presentation我还没做完，今晚得留在图书馆赶工。
+gpt-6-luna,2,1,0,,2,这家咖啡店的氛围很chill，适合带电脑来写代码。
+gpt-6-luna,2,1,0,,3,麻烦把会议的agenda发到群里，我想提前准备几个问题。
+gpt-6-luna,2,1,0,,4,这次旅行我们不订太满的行程，留点时间随缘explore。
+gpt-6-luna,2,1,0,,5,老师说这篇essay的argument不够清楚，最好重写一下开头。
+gpt-6-luna,2,1,0,,6,刚才系统突然crash了，我的文件还没来得及save。
+gpt-6-luna,2,1,0,,7,这个方案听起来不错，不过预算上可能有点over the limit。
+gpt-6-luna,2,1,0,,8,请大家先mute麦克风，轮到发言时再unmute。
+gpt-6-luna,2,1,0,,9,她做事特别有条理，每个project都安排得井井有条。
+gpt-6-luna,2,1,0,,10,别担心，这只是一个小bug，更新一下app应该就能解决。
+gpt-6-luna,2,2,0,,1,这周的project deadline提前了两天，大家先把手头的任务排个priority。
+gpt-6-luna,2,2,0,,2,我刚收到房东的email，说周五会安排technician来检查暖气。
+gpt-6-luna,2,2,0,,3,这家小店的brunch menu选择很多，不过周末最好提前reserve。
+gpt-6-luna,2,2,0,,4,老师提醒我们提交final draft之前，记得再check一遍引用格式。
+gpt-6-luna,2,2,0,,5,你把会议的location发我一下吧，我可能会晚到十分钟。
+gpt-6-luna,2,2,0,,6,这款耳机的noise cancellation不错，坐地铁时听podcast很清楚。
+gpt-6-luna,2,2,0,,7,如果你对这个职位感兴趣，可以先在官网upload简历，再等HR联系。
+gpt-6-luna,2,2,0,,8,别急着下结论，咱们先collect一些data，看看用户到底怎么想。
+gpt-6-luna,2,2,0,,9,她讲得特别有条理，最后还用一个funny story把气氛带起来了。
+gpt-6-luna,2,2,0,,10,今晚想吃清淡一点的，我们可以点salad，再加一份热汤。
+gpt-6-luna,2,3,0,,1,这份报告的deadline是周五下午，麻烦大家提前把数据整理好。
+gpt-6-luna,2,3,0,,2,我本来想去咖啡店写论文，结果Wi-Fi太慢，只好回家继续赶进度。
+gpt-6-luna,2,3,0,,3,老师说这个concept不难，关键是要结合实际案例来理解。
+gpt-6-luna,2,3,0,,4,刚开完会，老板又发来一封email，说项目的scope需要再调整。
+gpt-6-luna,2,3,0,,5,周末我们打算去hiking，记得带水、外套，还有充满电的camera。
+gpt-6-luna,2,3,0,,6,请把文件上传到shared folder，并在群里提醒我一下。
+gpt-6-luna,2,3,0,,7,这家餐厅的氛围很chill，适合下班后和朋友慢慢吃顿饭。
+gpt-6-luna,2,3,0,,8,如果你对这个岗位感兴趣，可以直接submit application，不用另外写cover letter。
+gpt-6-luna,2,3,0,,9,我今天状态不太在线，可能需要一杯iced latte才能进入work mode。
+gpt-6-luna,2,3,0,,10,她的演讲结构清晰，delivery也很自然，最后还用一个funny story收尾。
+gpt-6-luna,2,4,0,,1,这份报告的数据还没核对完，先把spreadsheet发给我，我下午统一review。
+gpt-6-luna,2,4,0,,2,老师提醒我们，presentation控制在十分钟以内，最后留两分钟做Q&A。
+gpt-6-luna,2,4,0,,3,周末去海边的话记得带防晒霜，天气app说紫外线指数会很高。
+gpt-6-luna,2,4,0,,4,您好，您的订单已经packed，预计明天下午送达，请留意tracking信息。
+gpt-6-luna,2,4,0,,5,我本来想早点睡，结果室友开着电脑看live stream，房间里一直很吵。
+gpt-6-luna,2,4,0,,6,这个方案听起来不错，不过我们得先确认一下budget够不够。
+gpt-6-luna,2,4,0,,7,各位同学请注意，今天的workshop改到三楼会议室，开始时间不变。
+gpt-6-luna,2,4,0,,8,猫咪刚做完体检，vet说暂时不用吃药，只要观察几天就好。
+gpt-6-luna,2,4,0,,9,她在面试时表现得很confident，回答问题也特别有条理。
+gpt-6-luna,2,4,0,,10,麻烦把会议链接再发一次，我的calendar里好像没有显示。
+gpt-6-luna,2,5,0,,1,我把会议的key points整理成文档，等下发到群里。
+gpt-6-luna,2,5,0,,2,这家咖啡店的氛围很chill，适合周末带电脑来写作业。
+gpt-6-luna,2,5,0,,3,请在提交申请前仔细review所有supporting documents。
+gpt-6-luna,2,5,0,,4,他刚搬到上海，还在努力适应这里快节奏的lifestyle。
+gpt-6-luna,2,5,0,,5,这个bug看起来很小，但可能会影响整个payment flow。
+gpt-6-luna,2,5,0,,6,妈，我已经book好下周的机票了，出发时间是早上七点。
+gpt-6-luna,2,5,0,,7,为了让presentation更有说服力，我们最好加一组最新的数据。
+gpt-6-luna,2,5,0,,8,老板说这个proposal方向不错，不过还需要再polish一下语言。
+gpt-6-luna,2,5,0,,9,别急着下结论，先check一下消息来源是否可靠。
+gpt-6-luna,2,5,0,,10,她在邮件里礼貌地follow up，并附上了更新后的timeline。
+gpt-6-luna,3,1,0,,1,周末去海边的话，记得带上 sunscreen 和一件薄外套。
+gpt-6-luna,3,1,0,,2,这份报告我已经 revise 过了，你有空帮我 check 一下吗？
+gpt-6-luna,3,1,0,,3,请各位同学在 Friday 之前提交 final version，逾期不候。
+gpt-6-luna,3,1,0,,4,他刚搬到上海，还在 figuring out 怎么用地铁通勤。
+gpt-6-luna,3,1,0,,5,感谢您联系我们，我们会尽快 follow up 并提供进一步的协助。
+gpt-6-luna,3,1,0,,6,奶奶一听到那首 old song，就开始讲她年轻时的故事。
+gpt-6-luna,3,1,0,,7,今天的会议 agenda 有点满，大家尽量 keep it short，好吗？
+gpt-6-luna,3,1,0,,8,如果你不确定怎么填表，可以先 read the instructions，再问我。
+gpt-6-luna,3,1,0,,9,这家小店的氛围很 chill，适合点杯咖啡慢慢 catch up。
+gpt-6-luna,3,1,0,,10,导演用黑白画面营造了一种 nostalgic feeling，让整部电影更有层次。
+gpt-6-luna,3,2,1,,1,这家咖啡馆的氛围很 chill，适合周末带电脑来写作业。
+gpt-6-luna,3,2,1,,2,请在提交申请前 double-check 一下所有必填信息。
+gpt-6-luna,3,2,1,,3,老板刚发消息说，明天的 meeting 改到下午三点了。
+gpt-6-luna,3,2,1,,4,我本来想点辣的，结果服务员推荐了他们家的 signature dish。
+gpt-6-luna,3,2,1,,5,你把那份报告的 final draft 放到共享文件夹里了吗？
+gpt-6-luna,3,2,1,,6,虽然路上 traffic 很堵，我们还是准时赶到了音乐会。
+gpt-6-luna,3,2,1,,7,这款耳机的 noise cancellation 效果不错，坐地铁时特别实用。
+gpt-6-luna,3,2,1,,8,别担心，我会一步一步 walk you through 这个注册流程。
+gpt-6-luna,3,2,1,,9,他讲话特别有条理，每次 presentation 都能把复杂的问题解释得很清楚。
+gpt-6-luna,3,2,1,,10,周末去郊外徒步吧，记得带上水和 a light jacket。
+gpt-6-luna,3,3,0,,1,这家咖啡馆的 oat milk 拿铁很香，周末最好提前订位。
+gpt-6-luna,3,3,0,,2,项目经理刚发来一封 email，提醒大家明天下午参加 kickoff meeting。
+gpt-6-luna,3,3,0,,3,别急着下结论，先把这个 experiment 的数据跑完再说。
+gpt-6-luna,3,3,0,,4,他在地铁上听着 podcast，不知不觉坐过了三站。
+gpt-6-luna,3,3,0,,5,请将申请表保存为 PDF，并在文件名里注明你的 student ID。
+gpt-6-luna,3,3,0,,6,这条裙子剪裁很 elegant，搭一双运动鞋也不会显得太正式。
+gpt-6-luna,3,3,0,,7,我妈最近迷上了 gardening，每天都要检查阳台上的 tomato seedlings。
+gpt-6-luna,3,3,0,,8,根据最新的 user feedback，我们准备把首页的导航菜单重新设计。
+gpt-6-luna,3,3,0,,9,“You got this！”她笑着说，“先深呼吸，然后慢慢把题目做完。”
+gpt-6-luna,3,3,0,,10,雨下得太大，原定的 outdoor concert 只好改到室内举行。
+gpt-6-luna,3,4,0,,1,周末我们去附近的 farmers market 逛逛，顺便买点新鲜水果。
+gpt-6-luna,3,4,0,,2,这份报告的数据还没整理完，麻烦你先 update 一下 spreadsheet。
+gpt-6-luna,3,4,0,,3,老师说今天的 lecture 改到线上，记得提前登录 Zoom。
+gpt-6-luna,3,4,0,,4,我本来想早点出门，结果被一个 unexpected call 耽误了。
+gpt-6-luna,3,4,0,,5,这家咖啡馆的氛围很 chill，适合坐下来慢慢看书。
+gpt-6-luna,3,4,0,,6,请各位同事在下班前 submit expense report，方便财务统一处理。
+gpt-6-luna,3,4,0,,7,你别光看 review，最好亲自试穿一下，确认 size 合不合适。
+gpt-6-luna,3,4,0,,8,雨下得太大了，我们干脆 order delivery，在家吃火锅吧。
+gpt-6-luna,3,4,0,,9,面对突发状况，他依然保持 calm，迅速安排大家撤离。
+gpt-6-luna,3,4,0,,10,这个设计方案的核心是让用户用最少的 clicks 完成注册流程。
+gpt-6-luna,3,5,0,,1,我刚把presentation的最后一页改完，麻烦你有空时帮我check一下。
+gpt-6-luna,3,5,0,,2,周末去爬山的话，记得带water bottle，山顶附近不一定有地方买水。
+gpt-6-luna,3,5,0,,3,这家咖啡店的氛围很relax，适合坐下来读书或者处理工作。
+gpt-6-luna,3,5,0,,4,请各位同学在Friday之前上传作业，文件名按照课程要求格式命名。
+gpt-6-luna,3,5,0,,5,我本来想自己做晚饭，结果发现冰箱里只剩下一点leftover。
+gpt-6-luna,3,5,0,,6,她收到offer以后特别开心，马上打电话告诉了家里人。
+gpt-6-luna,3,5,0,,7,这个软件的界面不太user-friendly，我第一次用的时候找了半天设置选项。
+gpt-6-luna,3,5,0,,8,你不用急着回复，take your time，等想清楚了再告诉我也可以。
+gpt-6-luna,3,5,0,,9,雨下得太大了，我们改成线上meeting吧，省得大家路上折腾。
+gpt-6-luna,3,5,0,,10,这本小说的ending有点unexpected，不过读完之后我还挺喜欢的。
+gpt-6-luna,4,1,0,,1,下班后我们去咖啡店坐坐，顺便把明天的presentation过一遍。
+gpt-6-luna,4,1,0,,2,这款耳机的noise cancellation很不错，通勤的时候基本听不到地铁声。
+gpt-6-luna,4,1,0,,3,请把会议纪要发到group chat里，方便大家follow up。
+gpt-6-luna,4,1,0,,4,他刚搬到这边，还不太熟悉neighborhood里的公交路线。
+gpt-6-luna,4,1,0,,5,这家小馆子的菜单每天都变，老板说今天的special是葱油拌面。
+gpt-6-luna,4,1,0,,6,我本来想周末宅在家，结果朋友临时约我去hiking。
+gpt-6-luna,4,1,0,,7,申请表里有一栏要填emergency contact，记得写上对方的电话号码。
+gpt-6-luna,4,1,0,,8,这个方案听起来挺合理，不过我们最好先做个quick test再决定。
+gpt-6-luna,4,1,0,,9,她讲课节奏很快，但每次都会把key points整理成一页handout。
+gpt-6-luna,4,1,0,,10,要是你今晚有空，我们可以开个短会，把项目的timeline定下来。
+gpt-6-luna,4,2,0,,1,这家咖啡店的氛围很chill，周末来写作业也不会觉得吵。
+gpt-6-luna,4,2,0,,2,麻烦你把final draft发我一下，我晚上可以帮忙检查语法。
+gpt-6-luna,4,2,0,,3,他本来打算直接quit，后来和manager聊完决定再观察一个月。
+gpt-6-luna,4,2,0,,4,明天的presentation我负责开场，你把数据部分整理成几张clear的slides就行。
+gpt-6-luna,4,2,0,,5,这件外套版型不错，但颜色有点too bold，不太适合上班穿。
+gpt-6-luna,4,2,0,,6,如果你已经到了，就在门口text我，我马上下楼接你。
+gpt-6-luna,4,2,0,,7,项目进度比预期慢，不过团队还在on track，月底应该能交付。
+gpt-6-luna,4,2,0,,8,她说这次旅行不想排太满，最好留些free time随便逛逛。
+gpt-6-luna,4,2,0,,9,这个bug偶尔才会出现，重启app之后通常就恢复正常了。
+gpt-6-luna,4,2,0,,10,虽然他对这个proposal有点skeptical，还是愿意先听完我们的方案。
+gpt-6-luna,4,3,0,,1,下班后我们去附近的咖啡店吧，我听说那里的cold brew很不错。
+gpt-6-luna,4,3,0,,2,请把最新版的presentation发到群里，明天开会前大家都要review一下。
+gpt-6-luna,4,3,0,,3,这家餐厅的服务挺周到，不过menu上的素食选项有点少。
+gpt-6-luna,4,3,0,,4,他一边收拾行李，一边在手机上check flight status。
+gpt-6-luna,4,3,0,,5,如果你对这个方案有任何concerns，欢迎在讨论结束后私下告诉我。
+gpt-6-luna,4,3,0,,6,周末的徒步路线不算难，但最好带够water，山顶风会比较大。
+gpt-6-luna,4,3,0,,7,老师说这篇essay要引用至少三篇academic sources，格式也要统一。
+gpt-6-luna,4,3,0,,8,刚才那个笑话太冷了，整个room突然安静下来。
+gpt-6-luna,4,3,0,,9,我们可以先做一个quick test，确认新功能不会影响旧的workflow。
+gpt-6-luna,4,3,0,,10,她把生日礼物包装得很精致，还附了一张handwritten card。
+gpt-6-luna,4,4,0,,1,这家咖啡店的氛围很chill，周末来写作业也不会觉得吵。
+gpt-6-luna,4,4,0,,2,请把最新版本的proposal发到群里，下午开会前大家先review一下。
+gpt-6-luna,4,4,0,,3,我本来想早点出门，结果手机突然没电，只好临时call a cab。
+gpt-6-luna,4,4,0,,4,根据今天的traffic情况，我们最好提前半小时出发，免得错过演出。
+gpt-6-luna,4,4,0,,5,她讲话特别有条理，连最复杂的data都能解释得清清楚楚。
+gpt-6-luna,4,4,0,,6,这个周末不安排任何活动，我只想stay home，补补觉再看看书。
+gpt-6-luna,4,4,0,,7,烦请您在附件中查收合同草稿，如有任何questions，欢迎随时联系我。
+gpt-6-luna,4,4,0,,8,他刚开始学做饭，第一道菜就把厨房弄得一团糟，真是a learning experience。
+gpt-6-luna,4,4,0,,9,你别光看价格，也要比较一下售后服务和warranty，买起来才安心。
+gpt-6-luna,4,4,0,,10,“我今天真的不想加班，”她叹了口气，“但这个deadline看起来不会自己往后挪。”
+gpt-6-luna,4,5,0,,1,周末我们打算去hiking，记得带上水和防晒霜。
+gpt-6-luna,4,5,0,,2,这份报告的deadline是周五下午，大家请提前提交。
+gpt-6-luna,4,5,0,,3,刚才那个meeting讨论得很充分，不过next steps还需要再确认一下。
+gpt-6-luna,4,5,0,,4,她做的presentation特别清晰，连最复杂的数据都讲得easy to understand。
+gpt-6-luna,4,5,0,,5,如果你有空，能不能帮我review一下这封邮件的语气？
+gpt-6-luna,4,5,0,,6,我本来想点咖啡，结果店员说他们今天的espresso machine坏了。
+gpt-6-luna,4,5,0,,7,课程网站上的reading有点长，我准备先skim一遍再做笔记。
+gpt-6-luna,4,5,0,,8,别担心，这个bug已经有人报过了，工程师正在investigate。
+gpt-6-luna,4,5,0,,9,他在群里发了个很funny的meme，大家一下子都笑了。
+gpt-6-luna,4,5,0,,10,虽然计划临时有变，我们还是决定keep it simple，先把最重要的事情做好。
+gpt-6-luna,5,1,0,,1,这份proposal我已经发到群里了，大家今晚之前给点feedback吧。
+gpt-6-luna,5,1,0,,2,她今天的presentation做得特别稳，连Q&A都应付得很自然。
+gpt-6-luna,5,1,0,,3,你先别急着reply，等我确认一下schedule再说。
+gpt-6-luna,5,1,0,,4,实验室的printer又卡纸了，谁有空帮忙reset一下？
+gpt-6-luna,5,1,0,,5,我本来想去听讲座，结果临时被老板拉去开meeting。
+gpt-6-luna,5,1,0,,6,这家店的咖啡味道不错，不过Wi-Fi信号有点弱。
+gpt-6-luna,5,1,0,,7,请各位同学提前十分钟到场，记得带上student ID。
+gpt-6-luna,5,1,0,,8,他表面上说没关系，实际上整个人都很stressed。
+gpt-6-luna,5,1,0,,9,新版本上线后，用户可以直接用手机upload照片。
+gpt-6-luna,5,1,0,,10,别光看headline，最好把整篇article读完再下结论。
+gpt-6-luna,5,2,0,,1,明天的workshop改到图书馆三楼，记得提前十分钟签到。
+gpt-6-luna,5,2,0,,2,这个方案听起来挺practical，但预算还得再算一遍。
+gpt-6-luna,5,2,0,,3,我把会议的key points整理好了，晚点发到群里。
+gpt-6-luna,5,2,0,,4,报告最后一段有点too vague，最好补上具体数据。
+gpt-6-luna,5,2,0,,5,周末想不想去郊外hiking？天气预报说会放晴。
+gpt-6-luna,5,2,0,,6,这门课的reading load不小，最好每周分一点时间完成。
+gpt-6-luna,5,2,0,,7,您方便确认一下flight itinerary吗？我需要安排接机。
+gpt-6-luna,5,2,0,,8,别急着reply，先把邮件的语气调整得更professional一些。
+gpt-6-luna,5,2,0,,9,她做presentation时特别confident，连提问环节都应对得很从容。
+gpt-6-luna,5,2,0,,10,如果系统再次出现error，请截个图并附上操作步骤。
+gpt-6-luna,5,3,0,,1,明天的presentation我负责开场，你帮我把数据图表再check一遍好吗？
+gpt-6-luna,5,3,0,,2,这家咖啡店的氛围很chill，适合周末带电脑来赶due。
+gpt-6-luna,5,3,0,,3,请各位同学在周五前submit申请表，逾期不再接受。
+gpt-6-luna,5,3,0,,4,我本来想早睡，结果被那个podcast吸引得一口气听完了。
+gpt-6-luna,5,3,0,,5,这个方案听起来挺reasonable，不过预算部分还得跟finance team确认。
+gpt-6-luna,5,3,0,,6,你能不能把刚才那段话说得more gently一点？他今天状态不太好。
+gpt-6-luna,5,3,0,,7,会议一开始，主管就问我们有没有backup plan，大家瞬间安静了。
+gpt-6-luna,5,3,0,,8,妈，我已经到车站了，等下会share live location给你。
+gpt-6-luna,5,3,0,,9,他写邮件特别有条理，每个issue都附上背景和具体的next step。
+gpt-6-luna,5,3,0,,10,虽然天气预报说会下雨，我们还是决定go hiking，记得带上防水外套。
+gpt-6-luna,5,4,0,,1,明天的workshop改到线上了，记得提前测试一下麦克风。
+gpt-6-luna,5,4,0,,2,这份报告的数据还没clean完，我今晚再跑一遍script。
+gpt-6-luna,5,4,0,,3,你不用急着reply，我只是想确认一下周末的schedule。
+gpt-6-luna,5,4,0,,4,她讲得特别clear，连第一次接触这个topic的人都能听懂。
+gpt-6-luna,5,4,0,,5,如果预算不够，我们可以先做一个简化版prototype。
+gpt-6-luna,5,4,0,,6,会议一开始他就说：“Let’s keep it short”，然后直接进入正题。
+gpt-6-luna,5,4,0,,7,这家店的咖啡不错，就是周末太busy，最好早点去。
+gpt-6-luna,5,4,0,,8,我把修改意见都写在comment里了，你有空的时候check一下。
+gpt-6-luna,5,4,0,,9,别光看headline，最好读完全文再决定要不要转发。
+gpt-6-luna,5,4,0,,10,这个申请流程听起来很complicated，但一步一步来就好。
+gpt-6-luna,5,5,0,,1,这份报告的deadline定在周五下午，麻烦大家提前安排时间。
+gpt-6-luna,5,5,0,,2,我刚把会议链接发到群里了，点开之后记得先mute麦克风。
+gpt-6-luna,5,5,0,,3,如果你对这个proposal有不同意见，可以直接在文档里留言。
+gpt-6-luna,5,5,0,,4,她讲课特别engaging，连平时不爱发言的同学都参与了讨论。
+gpt-6-luna,5,5,0,,5,我们先去咖啡馆碰头，再一起brainstorm一下活动主题。
+gpt-6-luna,5,5,0,,6,这个软件更新以后interface清爽多了，找功能也方便。
+gpt-6-luna,5,5,0,,7,我本来想早点出门，结果被一通unexpected call耽误了。
+gpt-6-luna,5,5,0,,8,请把你的availability发给我，我好协调大家的日程。
+gpt-6-luna,5,5,0,,9,这条街晚上很热闹，但如果你喜欢quiet一点的地方，隔壁还有家小书店。
+gpt-6-luna,5,5,0,,10,他做事很有条理，遇到突发情况也能stay calm。
+gpt-6-luna,6,1,1,,1,周五的team meeting改到下午三点，记得提前看一下agenda。
+gpt-6-luna,6,1,1,,2,这家咖啡店的氛围很chill，适合带电脑来写作业。
+gpt-6-luna,6,1,1,,3,麻烦把最新版的合同发我，我想再double-check一下付款条款。
+gpt-6-luna,6,1,1,,4,她刚开始学Python，已经能自己写一个简单的data visualization了。
+gpt-6-luna,6,1,1,,5,请各位乘客注意，next stop是市图书馆，出站后往左走。
+gpt-6-luna,6,1,1,,6,这个方案听起来有点risky，我们最好先做个small-scale test。
+gpt-6-luna,6,1,1,,7,他在朋友圈发了张照片，caption写着“终于完成我的first marathon”。
+gpt-6-luna,6,1,1,,8,今天的菜太辣了，我得来一杯iced tea救场。
+gpt-6-luna,6,1,1,,9,如果你对这个职位感兴趣，可以把resume和cover letter发到招聘邮箱。
+gpt-6-luna,6,1,1,,10,我们本来想去看电影，结果票都sold out了，只好改成在家追剧。
+gpt-6-luna,6,2,0,,1,这周的presentation我准备放在周五下午，可以吗？
+gpt-6-luna,6,2,0,,2,麻烦把会议室的projector提前打开，我想测试一下音效。
+gpt-6-luna,6,2,0,,3,我妈说这家餐厅的服务不错，不过menu上的菜名有点难懂。
+gpt-6-luna,6,2,0,,4,请各位同学在今晚之前submit作业，文件名记得加上学号。
+gpt-6-luna,6,2,0,,5,这款手机的battery life挺长的，出门一整天也不用带充电宝。
+gpt-6-luna,6,2,0,,6,虽然外面下着大雨，the show must go on，我们还是准时开始吧。
+gpt-6-luna,6,2,0,,7,老板，能不能帮我把这份报告print两份，装订在左上角？
+gpt-6-luna,6,2,0,,8,我刚收到HR的email，说下周要安排第二轮面试。
+gpt-6-luna,6,2,0,,9,别急着做决定，先compare一下这两个方案的成本和风险。
+gpt-6-luna,6,2,0,,10,他讲话总是很直接，but honestly，我觉得这样反而省时间。
+gpt-6-luna,6,3,0,,1,这份报告我已经draft到最后一节了，晚点发给你review。
+gpt-6-luna,6,3,0,,2,明天的seminar改到三点开始，记得提前十分钟到教室。
+gpt-6-luna,6,3,0,,3,你能把会议链接share到群里吗？刚才那条好像过期了。
+gpt-6-luna,6,3,0,,4,周末想去附近hiking，有兴趣的话我们可以一起规划路线。
+gpt-6-luna,6,3,0,,5,这个app的界面很直观，不过notification设置得有点烦人。
+gpt-6-luna,6,3,0,,6,老师建议我们先提出一个research question，再决定采用什么方法。
+gpt-6-luna,6,3,0,,7,不好意思，我今天可能会迟到，the train is running behind schedule。
+gpt-6-luna,6,3,0,,8,请各位同学在周五之前submit final version，文件名按课程要求填写。
+gpt-6-luna,6,3,0,,9,她讲话特别有感染力，整个audience都听得很投入。
+gpt-6-luna,6,3,0,,10,我本来打算点外卖，后来看到冰箱里还有leftovers，就决定自己热一下。
+gpt-6-luna,6,4,0,,1,这周的lab meeting提前到三点，记得把slides发到群里。
+gpt-6-luna,6,4,0,,2,麻烦你帮我确认一下这份合同的deadline，房东那边催得有点急。
+gpt-6-luna,6,4,0,,3,新开的咖啡店氛围不错，不过周末最好先book a table。
+gpt-6-luna,6,4,0,,4,如果你今天不方便，我们可以改成线上聊，just let me know。
+gpt-6-luna,6,4,0,,5,项目预算已经approved，但采购流程还需要走一遍。
+gpt-6-luna,6,4,0,,6,这道菜我按recipe做了，结果还是有点太咸了。
+gpt-6-luna,6,4,0,,7,大家提交申请时请附上resume和推荐信，缺材料的暂时不能进入下一轮。
+gpt-6-luna,6,4,0,,8,我本来想早睡，结果刷手机刷到凌晨，完全没有self-control。
+gpt-6-luna,6,4,0,,9,这次活动不收门票，欢迎带朋友来，现场还有live music。
+gpt-6-luna,6,4,0,,10,报告里这个结论缺少数据支持，建议再做一次survey，然后更新final draft。
+gpt-6-luna,6,5,0,,1,会议结束后，请把minutes发给所有team members。
+gpt-6-luna,6,5,0,,2,她把travel itinerary整理得很清楚，连每一段的transfer time都标出来了。
+gpt-6-luna,6,5,0,,3,这家咖啡店的氛围很chill，适合周末带电脑来写作业。
+gpt-6-luna,6,5,0,,4,请各位同学在Friday之前提交final draft，逾期可能无法获得feedback。
+gpt-6-luna,6,5,0,,5,我妈说这道菜的味道有点too salty，下次少放一点酱油。
+gpt-6-luna,6,5,0,,6,如果你还没看过那部documentary，我强烈推荐，结尾特别thought-provoking。
+gpt-6-luna,6,5,0,,7,系统更新以后，登录页面一直在loading，能不能帮我check一下？
+gpt-6-luna,6,5,0,,8,虽说这个方案technically可行，但从长期维护的角度看并不ideal。
+gpt-6-luna,6,5,0,,9,小朋友们先排好队，等老师说ready了再一起走进gym。
+gpt-6-luna,6,5,0,,10,他在邮件里写道：“感谢你的快速回复，我会尽快follow up。”
+gpt-6-luna,7,1,0,,1,这份报告的deadline是周五下午，麻烦大家提前把数据整理好。
+gpt-6-luna,7,1,0,,2,我本来想去咖啡店写论文，结果发现那边的Wi-Fi一直disconnect。
+gpt-6-luna,7,1,0,,3,老师说这个topic可以自由发挥，但presentation最好控制在十分钟以内。
+gpt-6-luna,7,1,0,,4,你把那张照片发到group chat里，我来帮你做个quick edit。
+gpt-6-luna,7,1,0,,5,这家小店的氛围很chill，适合周末带朋友来坐坐。
+gpt-6-luna,7,1,0,,6,请各位参会者先scan二维码签到，随后按邮件里的instructions入座。
+gpt-6-luna,7,1,0,,7,我不是不想帮忙，只是今天的schedule已经fully booked了。
+gpt-6-luna,7,1,0,,8,她一边听podcast，一边沿着河边慢慢散步，整个人看起来特别relaxed。
+gpt-6-luna,7,1,0,,9,如果系统弹出error message，先别重复提交，截图发给IT support就好。
+gpt-6-luna,7,1,0,,10,这个方案听起来很practical，不过我们还得确认预算是否approved。
+gpt-6-luna,7,2,0,,1,我刚把presentation的slides改完，麻烦你明早帮我check一下逻辑。
+gpt-6-luna,7,2,0,,2,这家咖啡店的氛围很chill，适合一个人坐着看书。
+gpt-6-luna,7,2,0,,3,请各位同事在周五之前submit报销申请，逾期可能无法处理。
+gpt-6-luna,7,2,0,,4,他一边听podcast，一边沿着河边慢慢散步。
+gpt-6-luna,7,2,0,,5,这个bug看起来很小，但可能会影响整个checkout流程。
+gpt-6-luna,7,2,0,,6,你今天有空吗？我想跟你brainstorm一下活动主题。
+gpt-6-luna,7,2,0,,7,她在邮件里写得很polite，不过意思其实是希望我们尽快回复。
+gpt-6-luna,7,2,0,,8,别忘了把冰箱里的leftovers带走，明天就不新鲜了。
+gpt-6-luna,7,2,0,,9,经过几轮讨论，团队决定先launch一个简化版，再根据用户feedback调整。
+gpt-6-luna,7,2,0,,10,我妈最近开始学做sourdough，每天都认真记录面团的状态。
+gpt-6-luna,7,3,0,,1,这份报告的deadline是周五下午，大家记得提前提交。
+gpt-6-luna,7,3,0,,2,我刚刚把meeting notes整理好，已经发到群里了。
+gpt-6-luna,7,3,0,,3,外面风太大了，我们还是order外卖吧。
+gpt-6-luna,7,3,0,,4,他讲解得特别clear，连刚入门的人都听懂了。
+gpt-6-luna,7,3,0,,5,麻烦把这段视频trim一下，再加个简单的subtitle。
+gpt-6-luna,7,3,0,,6,她每次做presentation都会先准备一份详细的outline。
+gpt-6-luna,7,3,0,,7,这个咖啡店的氛围很chill，适合周末来读书。
+gpt-6-luna,7,3,0,,8,如果你对这个岗位感兴趣，可以直接email hiring manager。
+gpt-6-luna,7,3,0,,9,别忘了把手机调成silent，演出马上就要开始了。
+gpt-6-luna,7,3,0,,10,今天的workshop改到线上举行，link我待会儿发给大家。
+gpt-6-luna,7,4,0,,1,我把会议的notes整理好了，晚点发到群里。
+gpt-6-luna,7,4,0,,2,这个周末的天气看起来pretty nice，要不要去湖边走走？
+gpt-6-luna,7,4,0,,3,老师说final project可以两个人一组完成。
+gpt-6-luna,7,4,0,,4,请在提交申请前仔细check一下所有必填项。
+gpt-6-luna,7,4,0,,5,她刚搬来这座城市，对附近的public transit还不太熟。
+gpt-6-luna,7,4,0,,6,不好意思，我今天可能会迟到十分钟，traffic太堵了。
+gpt-6-luna,7,4,0,,7,新出的那款耳机音质不错，不过battery life一般。
+gpt-6-luna,7,4,0,,8,如果你有空，能帮我review一下这段英文吗？
+gpt-6-luna,7,4,0,,9,他在台上讲得特别confident，连观众都被带动起来了。
+gpt-6-luna,7,4,0,,10,我们决定把活动改成online，方便外地的朋友参加。
+gpt-6-luna,7,5,0,,1,我本来想早点出门，结果traffic太堵，只好改成remote参加会议。
+gpt-6-luna,7,5,0,,2,请把这份proposal再polish一下，重点突出预算和timeline。
+gpt-6-luna,7,5,0,,3,她一打开那个盒子，所有人都忍不住说：What a surprise！
+gpt-6-luna,7,5,0,,4,这家咖啡店的氛围很chill，适合一个人带着电脑坐一下午。
+gpt-6-luna,7,5,0,,5,如果你对这个岗位感兴趣，可以直接email我，我们再约个时间聊。
+gpt-6-luna,7,5,0,,6,别光看评分，先check一下评论里有没有提到服务速度。
+gpt-6-luna,7,5,0,,7,他用很平静的语气说：“I need some space”，然后转身离开了。
+gpt-6-luna,7,5,0,,8,这次活动不要求dress code，穿得舒服一点就好。
+gpt-6-luna,7,5,0,,9,我刚刚把照片上传到drive了，你有空的时候帮我挑几张。
+gpt-6-luna,7,5,0,,10,虽然这个想法听起来有点bold，但说不定能打开新的market。
+gpt-6-luna,8,1,0,,1,这份报告我先整理成draft，明天再补上数据分析。
+gpt-6-luna,8,1,0,,2,你能不能把会议链接发到group chat里？
+gpt-6-luna,8,1,0,,3,虽然下着雨，我们还是决定去公园走一圈，just for fun。
+gpt-6-luna,8,1,0,,4,请在提交申请前仔细check一下所有必填字段。
+gpt-6-luna,8,1,0,,5,她一听到这个消息就笑了，完全没想到会有such a twist。
+gpt-6-luna,8,1,0,,6,各位同学，今天的作业请上传到course website，截止时间是周五晚上。
+gpt-6-luna,8,1,0,,7,我本来想早点睡，结果刷手机刷到凌晨，what a bad habit。
+gpt-6-luna,8,1,0,,8,这家小店的装修很有特色，咖啡也不错，整体氛围特别cozy。
+gpt-6-luna,8,1,0,,9,老板您好，我想确认一下这笔payment是不是已经成功了？
+gpt-6-luna,8,1,0,,10,别急着下结论，let’s hear everyone out再做决定。
+gpt-6-luna,8,2,0,,1,这份报告的deadline是周五，不过我会先把数据整理好。
+gpt-6-luna,8,2,0,,2,麻烦你把会议链接发到群里，我一会儿join。
+gpt-6-luna,8,2,0,,3,她做事特别有条理，连旅行行程都安排得很professional。
+gpt-6-luna,8,2,0,,4,如果你不介意的话，我们可以把dinner改到七点半。
+gpt-6-luna,8,2,0,,5,我本来想早点出门，结果地铁delay了，只好一路小跑。
+gpt-6-luna,8,2,0,,6,这个设计看起来很简洁，但用户体验还需要再polish一下。
+gpt-6-luna,8,2,0,,7,别光顾着scroll手机，老师刚刚说要交作业了。
+gpt-6-luna,8,2,0,,8,感谢各位今天抽空参加，接下来我们进入Q&A环节。
+gpt-6-luna,8,2,0,,9,他平时话不多，可一聊到电影就能给你一整份review。
+gpt-6-luna,8,2,0,,10,这家小店藏在巷子里，咖啡香得让人忍不住说一句so good！
+gpt-6-luna,8,3,0,,1,我本来想早点出门，结果地铁delay了，只好临时改坐公交。
+gpt-6-luna,8,3,0,,2,这份报告的数据还没finalize，下午开会前我再double-check一遍。
+gpt-6-luna,8,3,0,,3,你先把窗户打开一点，房间里真的太warm了。
+gpt-6-luna,8,3,0,,4,周末我们去郊外hiking吧，顺便带上相机拍点风景。
+gpt-6-luna,8,3,0,,5,老师说这个essay要focus on社会变化，不要只写个人经历。
+gpt-6-luna,8,3,0,,6,她在群里发了个voice message，解释为什么今天不能参加聚会。
+gpt-6-luna,8,3,0,,7,新菜单下周上线，麻烦大家先review一下文案和图片。
+gpt-6-luna,8,3,0,,8,我刚把那本书还回library，发现旁边新开了一家咖啡店。
+gpt-6-luna,8,3,0,,9,这个设计看起来很简洁，不过按钮的颜色有点too bright。
+gpt-6-luna,8,3,0,,10,别忘了提醒Jason把meeting room订好，我们十点就要开始讨论。
+gpt-6-luna,8,4,1,,1,这份报告的deadline是周五，大家今天先把outline整理出来。
+gpt-6-luna,8,4,1,,2,我刚把手机重启了，结果app还是打不开，可能得重新install。
+gpt-6-luna,8,4,1,,3,虽然天气预报说会下雨，我们还是决定照原计划去hiking。
+gpt-6-luna,8,4,1,,4,请把会议链接发到群里，方便没能到场的同事join。
+gpt-6-luna,8,4,1,,5,这家小店的氛围很chill，咖啡也不错，下次可以带朋友来。
+gpt-6-luna,8,4,1,,6,如果你对这个方案有concern，可以在review的时候直接提出来。
+gpt-6-luna,8,4,1,,7,她的演讲特别有感染力，最后那段story让我印象很深。
+gpt-6-luna,8,4,1,,8,麻烦你把这份表格save成PDF，然后发给客户确认。
+gpt-6-luna,8,4,1,,9,老板在邮件里说项目暂时on hold，等预算批下来再继续。
+gpt-6-luna,8,4,1,,10,这道题看起来复杂，其实只要follow步骤一步一步算就行。
+gpt-6-luna,8,5,0,,1,我本来想早点出门，结果被一个unexpected meeting拖住了。
+gpt-6-luna,8,5,0,,2,这个周末去爬山吗？天气看起来pretty good！
+gpt-6-luna,8,5,0,,3,请把最新的budget发我一下，我们下午开会时一起review。
+gpt-6-luna,8,5,0,,4,她一边煮咖啡，一边听着轻松的jazz。
+gpt-6-luna,8,5,0,,5,别急着下结论，先check一下数据是不是完整。
+gpt-6-luna,8,5,0,,6,这家小店的装修很有vibe，甜点也意外地好吃。
+gpt-6-luna,8,5,0,,7,老板，麻烦给我一杯少冰的iced latte，谢谢！
+gpt-6-luna,8,5,0,,8,经过几轮修改，团队终于把proposal定稿，准备提交给客户。
+gpt-6-luna,8,5,0,,9,你刚才那句“我真的会谢”也太dramatic了吧。
+gpt-6-luna,8,5,0,,10,请各位同学在周五之前upload作业；逾期提交将按课程规定扣分。
+gpt-6-luna,9,1,0,,1,我刚把presentation的outline发到群里，大家今晚有空的话帮忙看一下逻辑。
+gpt-6-luna,9,1,0,,2,这家咖啡店的vibe不错，靠窗的位置很适合安静地写作业。
+gpt-6-luna,9,1,0,,3,不好意思，我可能会晚到十分钟，前一场meeting还没结束。
+gpt-6-luna,9,1,0,,4,请在周五之前submit申请表，逾期的材料我们就不再受理。
+gpt-6-luna,9,1,0,,5,你别光看价格，先确认一下这个套餐有没有hidden fees。
+gpt-6-luna,9,1,0,,6,今天的workshop特别实用，老师还分享了几个面试时能用的技巧。
+gpt-6-luna,9,1,0,,7,我妈说这件外套颜色太bold了，但我觉得搭牛仔裤刚刚好。
+gpt-6-luna,9,1,0,,8,如果你对这个方案有concerns，可以直接在文档里leave a comment。
+gpt-6-luna,9,1,0,,9,地铁临时停运了，我们要不要改成take a cab过去？
+gpt-6-luna,9,1,0,,10,感谢各位今天准时参加，会议纪要和action items我稍后会发邮件。
+gpt-6-luna,9,2,0,,1,我刚把presentation改完，麻烦你有空的时候帮我看一下逻辑顺不顺。
+gpt-6-luna,9,2,0,,2,这家咖啡店的氛围很chill，适合坐下来读书或者处理邮件。
+gpt-6-luna,9,2,0,,3,项目经理说周五之前要提交final draft，大家尽量别拖到最后一刻。
+gpt-6-luna,9,2,0,,4,你不用特意打扮，今晚就是一个casual dinner，舒服就好。
+gpt-6-luna,9,2,0,,5,这款手机的camera在暗光环境下表现不错，不过battery life一般。
+gpt-6-luna,9,2,0,,6,老师今天临时改成online office hours，记得提前预约时间。
+gpt-6-luna,9,2,0,,7,我看了下日程，咱们可以先brainstorm几个方向，再决定怎么分工。
+gpt-6-luna,9,2,0,,8,请把这份合同的关键条款highlight出来，尤其是付款期限和取消政策。
+gpt-6-luna,9,2,0,,9,他刚刚发消息说traffic很严重，可能会晚到十分钟。
+gpt-6-luna,9,2,0,,10,如果你对这个岗位感兴趣，可以先完善一下resume，再准备一段简短的self-introduction。
+gpt-6-luna,9,3,0,,1,这周的presentation我还差一页，今晚得把数据图表补完。
+gpt-6-luna,9,3,0,,2,麻烦把会议改到Friday afternoon，我上午要去医院复诊。
+gpt-6-luna,9,3,0,,3,这家咖啡店的氛围很chill，适合带电脑来写论文。
+gpt-6-luna,9,3,0,,4,我本来想直接walk in，但前台说今天必须提前预约。
+gpt-6-luna,9,3,0,,5,各位请注意，明天的workshop会提前半小时开始，别迟到。
+gpt-6-luna,9,3,0,,6,你先别急着下结论，maybe我们还需要再核对一次原始记录。
+gpt-6-luna,9,3,0,,7,新系统上线后，用户可以自行reset password，不用再发邮件申请。
+gpt-6-luna,9,3,0,,8,她说这次合作最重要的是clear communication，别等问题变大了才提出来。
+gpt-6-luna,9,3,0,,9,虽然预算有限，但只要把priority排清楚，项目还是能按时完成。
+gpt-6-luna,9,3,0,,10,我刚收到教授的feedback，整体评价不错，不过结论部分还要写得更具体。
+gpt-6-luna,9,4,0,,1,明天的presentation我还没做完，今晚得把最后几页slides赶出来。
+gpt-6-luna,9,4,0,,2,请把更新后的schedule发到群里，我好安排接送时间。
+gpt-6-luna,9,4,0,,3,这家咖啡店的环境很cozy，适合坐下来读书或者catch up。
+gpt-6-luna,9,4,0,,4,老师说这次作业可以用AI辅助，但最后的analysis必须自己完成。
+gpt-6-luna,9,4,0,,5,不好意思，我刚才在开会，没看到你的message，晚点给你回电话。
+gpt-6-luna,9,4,0,,6,经过几轮讨论，团队决定先launch一个小规模的试点项目。
+gpt-6-luna,9,4,0,,7,这条裙子的颜色很nice，不过我想先check一下有没有更合身的size。
+gpt-6-luna,9,4,0,,8,如果你对这个方案有concerns，可以直接提出来，我们再一起brainstorm。
+gpt-6-luna,9,4,0,,9,周末不想排太满，留点时间relax，也顺便整理一下房间。
+gpt-6-luna,9,4,0,,10,他讲得特别清楚，尤其是那个complicated的部分，听完之后我终于get到了。
+gpt-6-luna,9,5,0,,1,我刚把presentation的slides发给大家，麻烦有空的时候帮我check一下数据。
+gpt-6-luna,9,5,0,,2,这家咖啡馆的氛围很chill，靠窗的位置特别适合一个人看书。
+gpt-6-luna,9,5,0,,3,你能不能把明天的meeting往后推半小时？我早上有个doctor's appointment。
+gpt-6-luna,9,5,0,,4,新系统上线以后，客服团队的response time明显缩短了。
+gpt-6-luna,9,5,0,,5,周末我们打算去郊外camping，记得带上防水外套和充电宝。
+gpt-6-luna,9,5,0,,6,教授说这篇essay不需要写得太formal，重点是把自己的argument讲清楚。
+gpt-6-luna,9,5,0,,7,刚才在超市碰到邻居，她推荐了一款很smooth的咖啡豆。
+gpt-6-luna,9,5,0,,8,如果你已经完成registration，就可以直接登录portal选课。
+gpt-6-luna,9,5,0,,9,他做项目特别有initiative，遇到问题也不会一直等别人给答案。
+gpt-6-luna,9,5,0,,10,今天的traffic太夸张了，我可能会晚十分钟到餐厅，先帮我order一杯茶吧。
+gpt-6-luna,10,1,0,,1,这家咖啡店的wifi很稳定，适合远程开会。
+gpt-6-luna,10,1,0,,2,我本来想早点出门，结果被一个unexpected call耽误了。
+gpt-6-luna,10,1,0,,3,麻烦你把这份report发给团队，下午开会的时候我们一起review。
+gpt-6-luna,10,1,0,,4,这部电影的ending有点出乎意料，不过整体节奏很棒。
+gpt-6-luna,10,1,0,,5,请先填写online form，然后到前台领取visitor badge。
+gpt-6-luna,10,1,0,,6,周末我们打算去hiking，天气好的话还能在山顶看日落。
+gpt-6-luna,10,1,0,,7,这个功能目前还在beta阶段，遇到bug的话请及时告诉我。
+gpt-6-luna,10,1,0,,8,她说自己需要一点space，所以我暂时没有再联系她。
+gpt-6-luna,10,1,0,,9,为确保活动顺利进行，所有participants请在九点前完成check-in。
+gpt-6-luna,10,1,0,,10,我妈每次看到我点外卖都会说：cook at home更健康也更省钱。
+gpt-6-luna,10,2,0,,1,这家咖啡店的Wi-Fi很稳定，适合坐下来赶deadline。
+gpt-6-luna,10,2,0,,2,你有空的话，帮我把meeting room预约到下午三点。
+gpt-6-luna,10,2,0,,3,虽然这个方案听起来很creative，但预算可能不太够。
+gpt-6-luna,10,2,0,,4,请将申请表填写完整，并在周五前submit给人事部门。
+gpt-6-luna,10,2,0,,5,我刚看完那部电影，ending有点出乎意料。
+gpt-6-luna,10,2,0,,6,今天路上特别堵，我们还是take the subway吧。
+gpt-6-luna,10,2,0,,7,老师说这次presentation可以两个人一组，也可以individual完成。
+gpt-6-luna,10,2,0,,8,这件外套打折以后只要三十块，quality还不错。
+gpt-6-luna,10,2,0,,9,别急，我先check一下日历，再告诉你哪天方便。
+gpt-6-luna,10,2,0,,10,项目上线前，所有的data都必须经过严格的security review。
+gpt-6-luna,10,3,0,,1,这家咖啡店的wifi很稳定，适合带电脑来写报告。
+gpt-6-luna,10,3,0,,2,麻烦把meeting改到周五下午，我那天上午有个appointment。
+gpt-6-luna,10,3,0,,3,我本来想买那件jacket，结果发现online的价格便宜了不少。
+gpt-6-luna,10,3,0,,4,收到你的email了，我会把updated version今晚发给你。
+gpt-6-luna,10,3,0,,5,这道题的关键是先找出pattern，再一步步推导。
+gpt-6-luna,10,3,0,,6,周末我们去hiking吧，天气forecast说会放晴。
+gpt-6-luna,10,3,0,,7,新来的manager特别patient，愿意花时间听大家的意见。
+gpt-6-luna,10,3,0,,8,请大家记得submit作业之前检查一下file name。
+gpt-6-luna,10,3,0,,9,这部电影的ending有点unexpected，不过整体节奏很不错。
+gpt-6-luna,10,3,0,,10,我已经把budget和timeline整理好，等你approve之后就可以启动project。
+gpt-6-luna,10,4,0,,1,这份报告的deadline是周五下午，麻烦大家提前把数据整理好。
+gpt-6-luna,10,4,0,,2,如果你今天下班后有空，我们可以去新开的café坐坐。
+gpt-6-luna,10,4,0,,3,我妈说这个recipe太复杂了，还是照着视频一步一步做比较稳妥。
+gpt-6-luna,10,4,0,,4,各位同学请注意，明天的workshop改到图书馆二楼举行。
+gpt-6-luna,10,4,0,,5,他刚才给我发了个message，说航班delay了，可能要晚点到。
+gpt-6-luna,10,4,0,,6,这个设计看起来很简洁，不过我觉得font size还可以再大一点。
+gpt-6-luna,10,4,0,,7,您方便的时候请review一下附件，有任何问题都欢迎随时联系我。
+gpt-6-luna,10,4,0,,8,别急着下结论，先把这个bug复现出来，再讨论怎么fix。
+gpt-6-luna,10,4,0,,9,周末我们打算带孩子去park野餐，记得准备点水果和水。
+gpt-6-luna,10,4,0,,10,她的presentation讲得很清楚，尤其是最后那个case study特别有说服力。
+gpt-6-luna,10,5,0,,1,这家咖啡店的Wi-Fi很稳定，适合一边开会一边赶报告。
+gpt-6-luna,10,5,0,,2,我本来想早点出门，结果traffic太堵，还是迟到了十分钟。
+gpt-6-luna,10,5,0,,3,请把最新版的合同发我一下，我会在今天下班前review完。
+gpt-6-luna,10,5,0,,4,她讲话很有感染力，整个presentation听起来一点都不boring。
+gpt-6-luna,10,5,0,,5,周末我们去hiking吧，天气预报说山上的view会特别好。
+gpt-6-luna,10,5,0,,6,这个bug看起来很小，但可能会影响整个checkout流程。
+gpt-6-luna,10,5,0,,7,妈，我已经到家啦，晚饭不用等我，我先把这封email回掉。
+gpt-6-luna,10,5,0,,8,为了避免不必要的误会，最好先和project manager确认一下deadline。
+gpt-6-luna,10,5,0,,9,虽然这次面试没有拿到offer，但我觉得自己的回答比上次confident多了。
+gpt-6-luna,10,5,0,,10,各位同学，请在周五之前上传final draft，文件名记得按课程要求命名。

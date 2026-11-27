@@ -1,0 +1,205 @@
+{
+  "run_name": "pilot_groups_1_3_repeat_1",
+  "slurm_job_id": "8790045",
+  "requests": [
+    {
+      "model": "gemma3:4b",
+      "group_id": 1,
+      "repeat_id": 1,
+      "seed": 2026,
+      "status": "validation_issues",
+      "sentence_count": 0,
+      "issues": [
+        "Invalid JSON: Expecting value: line 1 column 1 (char 0)"
+      ],
+      "gpu_size_vram": 2876191538,
+      "done_reason": "stop",
+      "prompt_eval_count": 255,
+      "eval_count": 225
+    },
+    {
+      "model": "gemma3:4b",
+      "group_id": 2,
+      "repeat_id": 1,
+      "seed": 2031,
+      "status": "validation_issues",
+      "sentence_count": 0,
+      "issues": [
+        "Invalid JSON: Expecting value: line 1 column 1 (char 0)"
+      ],
+      "gpu_size_vram": 2876191538,
+      "done_reason": "stop",
+      "prompt_eval_count": 234,
+      "eval_count": 197
+    },
+    {
+      "model": "gemma3:4b",
+      "group_id": 3,
+      "repeat_id": 1,
+      "seed": 2036,
+      "status": "validation_issues",
+      "sentence_count": 0,
+      "issues": [
+        "Invalid JSON: Expecting value: line 1 column 1 (char 0)"
+      ],
+      "gpu_size_vram": 2876191538,
+      "done_reason": "stop",
+      "prompt_eval_count": 242,
+      "eval_count": 206
+    },
+    {
+      "model": "qwen3:8b",
+      "group_id": 1,
+      "repeat_id": 1,
+      "seed": 2026,
+      "status": "valid",
+      "sentence_count": 10,
+      "issues": [],
+      "gpu_size_vram": 5578204118,
+      "done_reason": "stop",
+      "prompt_eval_count": 246,
+      "eval_count": 136
+    },
+    {
+      "model": "qwen3:8b",
+      "group_id": 2,
+      "repeat_id": 1,
+      "seed": 2031,
+      "status": "valid",
+      "sentence_count": 10,
+      "issues": [],
+      "gpu_size_vram": 5578204118,
+      "done_reason": "stop",
+      "prompt_eval_count": 224,
+      "eval_count": 152
+    },
+    {
+      "model": "qwen3:8b",
+      "group_id": 3,
+      "repeat_id": 1,
+      "seed": 2036,
+      "status": "validation_issues",
+      "sentence_count": 10,
+      "issues": [
+        "Sentence 2 does not contain both Han characters and Latin letters",
+        "Sentence 3 does not contain both Han characters and Latin letters",
+        "Sentence 4 does not contain both Han characters and Latin letters",
+        "Sentence 5 does not contain both Han characters and Latin letters",
+        "Sentence 6 does not contain both Han characters and Latin letters",
+        "Sentence 7 does not contain both Han characters and Latin letters",
+        "Sentence 8 does not contain both Han characters and Latin letters",
+        "Sentence 9 does not contain both Han characters and Latin letters",
+        "Sentence 10 does not contain both Han characters and Latin letters"
+      ],
+      "gpu_size_vram": 5578204118,
+      "done_reason": "stop",
+      "prompt_eval_count": 231,
+      "eval_count": 221
+    },
+    {
+      "model": "llama3:8b",
+      "group_id": 1,
+      "repeat_id": 1,
+      "seed": 2026,
+      "status": "validation_issues",
+      "sentence_count": 0,
+      "issues": [
+        "Invalid JSON: Expecting value: line 1 column 1 (char 0)"
+      ],
+      "gpu_size_vram": 5012193279,
+      "done_reason": "stop",
+      "prompt_eval_count": 268,
+      "eval_count": 582
+    },
+    {
+      "model": "llama3:8b",
+      "group_id": 2,
+      "repeat_id": 1,
+      "seed": 2031,
+      "status": "validation_issues",
+      "sentence_count": 0,
+      "issues": [
+        "Invalid JSON: Expecting value: line 1 column 1 (char 0)"
+      ],
+      "gpu_size_vram": 5012193279,
+      "done_reason": "stop",
+      "prompt_eval_count": 235,
+      "eval_count": 192
+    },
+    {
+      "model": "llama3:8b",
+      "group_id": 3,
+      "repeat_id": 1,
+      "seed": 2036,
+      "status": "validation_issues",
+      "sentence_count": 0,
+      "issues": [
+        "Invalid JSON: Expecting value: line 1 column 1 (char 0)"
+      ],
+      "gpu_size_vram": 5012193279,
+      "done_reason": "stop",
+      "prompt_eval_count": 239,
+      "eval_count": 172
+    },
+    {
+      "model": "deepseek-llm:7b",
+      "group_id": 1,
+      "repeat_id": 1,
+      "seed": 2026,
+      "status": "validation_issues",
+      "sentence_count": 10,
+      "issues": [
+        "Sentence 1 does not contain both Han characters and Latin letters",
+        "Sentence 2 does not contain both Han characters and Latin letters",
+        "Sentence 3 does not contain both Han characters and Latin letters",
+        "Sentence 4 does not contain both Han characters and Latin letters",
+        "Sentence 5 does not contain both Han characters and Latin letters",
+        "Sentence 6 does not contain both Han characters and Latin letters",
+        "Sentence 7 does not contain both Han characters and Latin letters",
+        "Sentence 8 does not contain both Han characters and Latin letters",
+        "Sentence 9 does not contain both Han characters and Latin letters",
+        "Sentence 10 does not contain both Han characters and Latin letters"
+      ],
+      "gpu_size_vram": 5870421277,
+      "done_reason": "stop",
+      "prompt_eval_count": 253,
+      "eval_count": 160
+    },
+    {
+      "model": "deepseek-llm:7b",
+      "group_id": 2,
+      "repeat_id": 1,
+      "seed": 2031,
+      "status": "validation_issues",
+      "sentence_count": 10,
+      "issues": [
+        "Sentence 1 does not contain both Han characters and Latin letters",
+        "Sentence 10 does not contain both Han characters and Latin letters"
+      ],
+      "gpu_size_vram": 5870421277,
+      "done_reason": "stop",
+      "prompt_eval_count": 230,
+      "eval_count": 167
+    },
+    {
+      "model": "deepseek-llm:7b",
+      "group_id": 3,
+      "repeat_id": 1,
+      "seed": 2036,
+      "status": "validation_issues",
+      "sentence_count": 0,
+      "issues": [
+        "Response is not an array of strings"
+      ],
+      "gpu_size_vram": 5870421277,
+      "done_reason": "stop",
+      "prompt_eval_count": 239,
+      "eval_count": 500
+    }
+  ],
+  "finished_requests": 12,
+  "valid_requests": 2,
+  "parsed_sentences": 50,
+  "updated_at_utc": "2026-11-26T22:52:50+00:00",
+  "all_12_requests_finished": true
+}

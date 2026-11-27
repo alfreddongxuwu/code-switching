@@ -1,0 +1,501 @@
+﻿model,group_id,repeat_id,attempt_id,seed,sentence_id,sentence
+qwen3:32b,1,1,0,2026,1,这个app功能太basic了，我要找一个更user-friendly的。
+qwen3:32b,1,1,0,2026,2,他在会议上突然switch到Cantonese，大家都不太跟得上。
+qwen3:32b,1,1,0,2026,3,这个brand的衣服都挺fashionable，但价格也不便宜。
+qwen3:32b,1,1,0,2026,4,你可以try一下那家新开的café，他们的latte艺术感很强。
+qwen3:32b,1,1,0,2026,5,她说话老是code-switch，让人有点跟不上节奏。
+qwen3:32b,1,1,0,2026,6,我已经install好所有necessary的software，可以开始work了。
+qwen3:32b,1,1,0,2026,7,这栋楼的security system是很advanced，但有时候会误报。
+qwen3:32b,1,1,0,2026,8,这门课是关于neural network的，但大部分讲义都是用中文解释的。
+qwen3:32b,1,1,0,2026,9,你们的service quality比last year好太多了，keep it up！
+qwen3:32b,1,1,0,2026,10,他写文章喜欢混用汉字和拼音，看起来有点不standard。
+qwen3:32b,1,2,0,2027,1,这个app的界面很user-friendly。
+qwen3:32b,1,2,0,2027,2,他总是用emoji来express他的情绪。
+qwen3:32b,1,2,0,2027,3,我昨天在YouTube上看了一部documentary。
+qwen3:32b,1,2,0,2027,4,你觉得这个project的deadline合理吗？
+qwen3:32b,1,2,0,2027,5,我每天早上都会做stretching。
+qwen3:32b,1,2,0,2027,6,她现在在做PhD research on climate change。
+qwen3:32b,1,2,0,2027,7,这个菜有点too spicy for my taste。
+qwen3:32b,1,2,0,2027,8,我们周末可以一起去hike吗？
+qwen3:32b,1,2,0,2027,9,你的简历需要更professional一点。
+qwen3:32b,1,2,0,2027,10,这部电影的rating在IMDb上很高。
+qwen3:32b,1,3,0,2028,1,这个app真的very convenient，每天都用。
+qwen3:32b,1,3,0,2028,2,明天的meeting我可能会迟到一点，堵车太严重。
+qwen3:32b,1,3,0,2028,3,这本书的英文部分有点难，我需要多查dictionary。
+qwen3:32b,1,3,0,2028,4,他刚刚发来的email里说要改时间。
+qwen3:32b,1,3,0,2028,5,周末我们去hiking怎么样？天气预报说会很晴朗。
+qwen3:32b,1,3,0,2028,6,这部电影的dialogue写得很有深度，值得看。
+qwen3:32b,1,3,0,2028,7,你能不能帮我解释一下这个financial report里的数据？
+qwen3:32b,1,3,0,2028,8,她做的presentation非常good，老师都点头了。
+qwen3:32b,1,3,0,2028,9,这个product description写得很清楚，不需要再问客服。
+qwen3:32b,1,3,0,2028,10,我们宿舍有Wi-Fi，但有时候会很slow。
+qwen3:32b,1,4,0,2029,1,这个app真的very user-friendly，操作起来很简单。
+qwen3:32b,1,4,0,2029,2,我最近在学machine learning，感觉还挺有意思的。
+qwen3:32b,1,4,0,2029,3,那个dining hall的午餐选项不是很多，不过还可以。
+qwen3:32b,1,4,0,2029,4,她把所有资料都整理好了，just need to print out。
+qwen3:32b,1,4,0,2029,5,这间公寓靠近subway station，交通很便利。
+qwen3:32b,1,4,0,2029,6,你们有谁懂Python？这个code有点难debug。
+qwen3:32b,1,4,0,2029,7,他讲得很快，而且half in English，half in Chinese，听得很累。
+qwen3:32b,1,4,0,2029,8,这个会议十点开始，记得提前arrive哦。
+qwen3:32b,1,4,0,2029,9,我们下周五movie night，有想看什么类型的movie？
+qwen3:32b,1,4,0,2029,10,你要是找不到方向，可以follow这个map走。
+qwen3:32b,1,5,0,2030,1,这个app真的很有用，它的user interface设计得很直观。
+qwen3:32b,1,5,0,2030,2,他总是用crazy这个字来形容他的想法，我觉得有点夸张了。
+qwen3:32b,1,5,0,2030,3,图书馆的quiet zone只能待两小时，之后就得出来。
+qwen3:32b,1,5,0,2030,4,那个movie我看了三遍，剧情还是没看懂。
+qwen3:32b,1,5,0,2030,5,这个product的manual写得太简单了，看不懂怎么组装。
+qwen3:32b,1,5,0,2030,6,我跟她说了很多次，但她还是不听，真是个stubborn person。
+qwen3:32b,1,5,0,2030,7,老师让我们用mind map来整理文章的结构。
+qwen3:32b,1,5,0,2030,8,这个app的notification太烦了，我干脆关掉了。
+qwen3:32b,1,5,0,2030,9,他有一个very strong accent，刚开始听不太懂他在说什么。
+qwen3:32b,1,5,0,2030,10,我们决定用Google Translate来帮忙翻译合同里的technical terms。
+qwen3:32b,2,1,0,2031,1,这个app真的super方便，每天都要用。
+qwen3:32b,2,1,0,2031,2,他刚从abroad回来，整个人都light up了。
+qwen3:32b,2,1,0,2031,3,价格很reasonable，但是quality真的有待提升。
+qwen3:32b,2,1,0,2031,4,我们约在café见面，比较chill一点。
+qwen3:32b,2,1,0,2031,5,这间公寓有two bedrooms，但只招女生。
+qwen3:32b,2,1,0,2031,6,老师说考试会有open book的部分，大家放心一点。
+qwen3:32b,2,1,0,2031,7,这个方案需要quick decision，不能拖太久。
+qwen3:32b,2,1,0,2031,8,她会做很多homemade cookies，每次来都带一点。
+qwen3:32b,2,1,0,2031,9,这间办公室有natural light，感觉很open。
+qwen3:32b,2,1,0,2031,10,如果你觉得bored，可以随时来找我聊天。
+qwen3:32b,2,2,0,2032,1,这个app真的太方便了，完全改变了我的daily routine。
+qwen3:32b,2,2,0,2032,2,他家的dog特别友好，看到任何人都会摇尾巴。
+qwen3:32b,2,2,0,2032,3,我最喜欢的咖啡店最近开了家branch在市中心。
+qwen3:32b,2,2,0,2032,4,这栋楼的layout设计得很合理，每个房间都有natural light。
+qwen3:32b,2,2,0,2032,5,你们有看到最新的team update邮件吗？里面有很多重要信息。
+qwen3:32b,2,2,0,2032,6,这个菜系太辣了，我完全hold不住。
+qwen3:32b,2,2,0,2032,7,她刚做完一个big project，现在正在休息。
+qwen3:32b,2,2,0,2032,8,这个视频的view count已经破百万了，太厉害了。
+qwen3:32b,2,2,0,2032,9,我家的Wi-Fi有时候会很lag，让人很烦。
+qwen3:32b,2,2,0,2032,10,他现在正在做一个market research，需要很多data support。
+qwen3:32b,2,3,0,2033,1,这件衣服的设计很fashionable，适合日常穿搭。
+qwen3:32b,2,3,0,2033,2,他刚搬来这儿，还在适应这里的social圈子。
+qwen3:32b,2,3,0,2033,3,这栋公寓的security系统非常advanced。
+qwen3:32b,2,3,0,2033,4,她工作很认真，总是on time完成任务。
+qwen3:32b,2,3,0,2033,5,我们需要一个big的箱子来装这些书。
+qwen3:32b,2,3,0,2033,6,周末去camping怎么样？天气预报说会很好。
+qwen3:32b,2,3,0,2033,7,请确认你的payment方式，我们接受credit card。
+qwen3:32b,2,3,0,2033,8,他英语说得很流利，几乎没accent。
+qwen3:32b,2,3,0,2033,9,这个app的操作有点complicated，需要时间熟悉。
+qwen3:32b,2,3,0,2033,10,我家后面有个quiet的小花园，很适合relax。
+qwen3:32b,2,4,0,2034,1,这个app真的太方便了，完全改变了我的daily routine。
+qwen3:32b,2,4,0,2034,2,他说话总是很direct，有时让人觉得有点不给面子。
+qwen3:32b,2,4,0,2034,3,今天作业好多啊，我已经做了一半，但还有half to go。
+qwen3:32b,2,4,0,2034,4,她刚做完一个big project，现在需要一点time off放松一下。
+qwen3:32b,2,4,0,2034,5,别担心，这个药just in case，如果没问题就不用吃。
+qwen3:32b,2,4,0,2034,6,我最喜欢的季节是fall，天气凉爽又有那种金黄色的叶子。
+qwen3:32b,2,4,0,2034,7,这道题对我来说有点hard，你能帮我解释一下吗？
+qwen3:32b,2,4,0,2034,8,我们计划下个月去trip，地点还没决定，maybe是海边。
+qwen3:32b,2,4,0,2034,9,这个音箱的sound quality真的很棒，比我之前买的强太多了。
+qwen3:32b,2,4,0,2034,10,他总是give me the vibe，好像想告诉我什么重要的事。
+qwen3:32b,2,5,0,2035,1,这个app真的super方便，每天都要用。
+qwen3:32b,2,5,0,2035,2,他今天心情不太好，maybe是因为天气太热了。
+qwen3:32b,2,5,0,2035,3,我家附近有个big超市，买东西很轻松。
+qwen3:32b,2,5,0,2035,4,如果你觉得tired，就先休息一下。
+qwen3:32b,2,5,0,2035,5,这本书内容很deep，读起来有点挑战性。
+qwen3:32b,2,5,0,2035,6,我们约在central park见面，那边空气好。
+qwen3:32b,2,5,0,2035,7,这个方案看起来okay，但还需要进一步讨论。
+qwen3:32b,2,5,0,2035,8,她会弹piano，也懂一点Chinese古典音乐。
+qwen3:32b,2,5,0,2035,9,这个job要求你经常travel，适合喜欢冒险的人。
+qwen3:32b,2,5,0,2035,10,他虽然年纪小，但是很confident。
+qwen3:32b,3,1,0,2036,1,这个app真的超级easy to use，几分钟就学会了。
+qwen3:32b,3,1,0,2036,2,meeting结束后，请大家directly回到办公室准备汇报。
+qwen3:32b,3,1,0,2036,3,她刚刚拿到了MIT的offer，我们都超级excited。
+qwen3:32b,3,1,0,2036,4,这个菜馆的service quality非常high，强烈推荐。
+qwen3:32b,3,1,0,2036,5,他总是能在deadline前完成任务，效率super high。
+qwen3:32b,3,1,0,2036,6,我们决定在trip结束前去visit一下附近的古迹。
+qwen3:32b,3,1,0,2036,7,她每次化妆都用这个brand的粉底，效果很好。
+qwen3:32b,3,1,0,2036,8,这个project需要team合作，每个人都要contribute。
+qwen3:32b,3,1,0,2036,9,他每天都坚持exercise，现在body shape超级好。
+qwen3:32b,3,1,0,2036,10,如果你们有任何疑问，欢迎随时email我或者call我。
+qwen3:32b,3,2,0,2037,1,这个app的功能特别好用，就是interface有点复杂。
+qwen3:32b,3,2,0,2037,2,他刚拿到MIT的offer，真是让人羡慕。
+qwen3:32b,3,2,0,2037,3,我们点了三个dim sum，还有汤和炒饭。
+qwen3:32b,3,2,0,2037,4,请把这份report翻译成中文，明天要开会。
+qwen3:32b,3,2,0,2037,5,地铁的line plan我看不太懂，谁能帮我看看？
+qwen3:32b,3,2,0,2037,6,这道菜是我们的house special，你一定要尝尝。
+qwen3:32b,3,2,0,2037,7,她中文流利，还会在句子中自然地switch语言。
+qwen3:32b,3,2,0,2037,8,这台laptop的battery life特别长，适合学生用。
+qwen3:32b,3,2,0,2037,9,展览的时间从Monday到Sunday，上午10点到晚上8点。
+qwen3:32b,3,2,0,2037,10,这个course内容很实用，而且professor超级nice。
+qwen3:32b,3,3,1,2088,1,这个app的功能实在太cool了，我每天都用。
+qwen3:32b,3,3,1,2088,2,她just发了一条微博说要办个小型party。
+qwen3:32b,3,3,1,2088,3,这个菜谱的步骤写得很清楚，但有些ingredient找不到。
+qwen3:32b,3,3,1,2088,4,他好像对这个project没兴趣，总是很lazy。
+qwen3:32b,3,3,1,2088,5,这个package太大了，快递送不上楼，得自己去取。
+qwen3:32b,3,3,1,2088,6,老师说midterm考试的重点在chapter 3到chapter 5之间。
+qwen3:32b,3,3,1,2088,7,他们家的dog很friendly，会主动和你打招呼。
+qwen3:32b,3,3,1,2088,8,这个电视剧的结局太sad了，看完后我很down。
+qwen3:32b,3,3,1,2088,9,我正在写那篇due next week的paper，有点卡住了。
+qwen3:32b,3,3,1,2088,10,这个app的界面设计很user-friendly，新手也能很快上手。
+qwen3:32b,3,4,0,2039,1,这个app真的太方便了，每天都要用很多次。
+qwen3:32b,3,4,0,2039,2,你有没有试过这个新出的smartphone，拍照超清晰。
+qwen3:32b,3,4,0,2039,3,我们可以在library附近碰面，那里很安静。
+qwen3:32b,3,4,0,2039,4,这间hotel的位置太棒了，步行五分钟到地铁站。
+qwen3:32b,3,4,0,2039,5,他总是do his own thing，不太在意别人怎么说。
+qwen3:32b,3,4,0,2039,6,这个movie的剧情超级反转，我完全没预料到。
+qwen3:32b,3,4,0,2039,7,我需要在家work from home，所以希望房间隔音好一点。
+qwen3:32b,3,4,0,2039,8,她讲中文时突然switch to English，听起来很自然。
+qwen3:32b,3,4,0,2039,9,这栋building的结构设计得挺合理的，采光很好。
+qwen3:32b,3,4,0,2039,10,那个brand的衣服质量不错，我经常买来穿。
+qwen3:32b,3,5,0,2040,1,这个app真的太方便了，每天我都要用它来check email。
+qwen3:32b,3,5,0,2040,2,她现在的工作是做data analysis，但dream job还是想做导演。
+qwen3:32b,3,5,0,2040,3,我的final paper已经submit了，现在就等feedback。
+qwen3:32b,3,5,0,2040,4,他英语口语很棒，但一紧张就会不自觉地用中文说个stop。
+qwen3:32b,3,5,0,2040,5,这个brand的衣服质量不错，而且价钱很reasonable。
+qwen3:32b,3,5,0,2040,6,"一间带view的studio apartment，价格是$1,200一个月。"
+qwen3:32b,3,5,0,2040,7,这个快递要track一下，可能被海关hold住了。
+qwen3:32b,3,5,0,2040,8,我刚刚install了一个新的software，现在电脑变得super fast。
+qwen3:32b,3,5,0,2040,9,这个小区有gym和pool，对health-conscious的人来说很perfect。
+qwen3:32b,3,5,0,2040,10,她说她想搬到另一个city，因为这里的生活cost太高了。
+qwen3:32b,4,1,1,2091,1,这个app真的super useful，每天都要用。
+qwen3:32b,4,1,1,2091,2,他工作态度很专业，但有时候too serious。
+qwen3:32b,4,1,1,2091,3,今天天气不错，可以去park里走走。
+qwen3:32b,4,1,1,2091,4,这道题有点hard，我还没搞懂。
+qwen3:32b,4,1,1,2091,5,她唱歌很好听，尤其是英文song。
+qwen3:32b,4,1,1,2091,6,这个project deadline快到了，得赶紧完成。
+qwen3:32b,4,1,1,2091,7,老板说我们team表现很好，但还可以更efficient。
+qwen3:32b,4,1,1,2091,8,这间room布局很合理，空间利用super好。
+qwen3:32b,4,1,1,2091,9,我最近在学machine learning，感觉挺有意思的。
+qwen3:32b,4,1,1,2091,10,他们家的environment很温馨，让人觉得很home。
+qwen3:32b,4,2,0,2042,1,这个app真的super方便，每天都要用。
+qwen3:32b,4,2,0,2042,2,他刚从abroad回来，整个人都还很jet lag。
+qwen3:32b,4,2,0,2042,3,房价最近跌得有点unexpected，我们都吓了一跳。
+qwen3:32b,4,2,0,2042,4,老板说这个project需要high priority处理。
+qwen3:32b,4,2,0,2042,5,我们楼下新开了一家café，环境特别cozy。
+qwen3:32b,4,2,0,2042,6,面试的时候别太nervous，保持自然就好。
+qwen3:32b,4,2,0,2042,7,这间room layout设计得非常functional。
+qwen3:32b,4,2,0,2042,8,她爸妈都是professor，家里书多得像library。
+qwen3:32b,4,2,0,2042,9,这个deal看起来有点too good to be true。
+qwen3:32b,4,2,0,2042,10,他英语讲得像native speaker一样流利。
+qwen3:32b,4,3,0,2043,1,这个app真的super方便，每天都离不开。
+qwen3:32b,4,3,0,2043,2,老师要求我们写一篇关于climate change的essay。
+qwen3:32b,4,3,0,2043,3,她新买的bag是Gucci的，design很独特。
+qwen3:32b,4,3,0,2043,4,这道数学题我完全没头绪，感觉像在说chinese to me。
+qwen3:32b,4,3,0,2043,5,这套公寓有两间bedroom和一个很大的living room。
+qwen3:32b,4,3,0,2043,6,他刚从California搬回来，说那边的生活cost太高了。
+qwen3:32b,4,3,0,2043,7,这个movie的结局真的太surprising了，我完全没预料到。
+qwen3:32b,4,3,0,2043,8,老板说我们要在deadline前完成这个project。
+qwen3:32b,4,3,0,2043,9,孩子们在park里玩得很开心，完全没注意到time飞逝。
+qwen3:32b,4,3,0,2043,10,这个菜的味道太sweet了，我觉得应该放少点sugar。
+qwen3:32b,4,4,0,2044,1,这间房子的view特别好，能看到whole city。
+qwen3:32b,4,4,0,2044,2,他每天早上都去gym，然后才吃breakfast。
+qwen3:32b,4,4,0,2044,3,这个app用起来不太smooth，有时候会crash。
+qwen3:32b,4,4,0,2044,4,我最喜欢的band是Coldplay，他们的音乐很有feel。
+qwen3:32b,4,4,0,2044,5,那个manager对员工很strict，大家都觉得他太hardcore了。
+qwen3:32b,4,4,0,2044,6,这件衣服的设计很fashionable，但价格有点high。
+qwen3:32b,4,4,0,2044,7,我们公司最近在做一个big project，压力挺大的。
+qwen3:32b,4,4,0,2044,8,她刚做完operation，还在recovery阶段。
+qwen3:32b,4,4,0,2044,9,这部电影的plot很twist，看得人一头雾水。
+qwen3:32b,4,4,0,2044,10,这个dish的味道很authentic，像在local market吃的一样。
+qwen3:32b,4,5,0,2045,1,这个app真的太方便了，尤其是它的user interface设计。
+qwen3:32b,4,5,0,2045,2,他刚拿了硕士学位，major是经济学。
+qwen3:32b,4,5,0,2045,3,请把这份report交给manager之前先校对一遍。
+qwen3:32b,4,5,0,2045,4,昨天晚上我梦见自己在纽约的Central Park散步。
+qwen3:32b,4,5,0,2045,5,房间的decor是北欧风格，感觉很chic。
+qwen3:32b,4,5,0,2045,6,这个project的deadline是下周五，我们需要尽快start。
+qwen3:32b,4,5,0,2045,7,老师说这个assignment要写英文摘要，不能只是中文。
+qwen3:32b,4,5,0,2045,8,她工作能力很强，大家都说她是team的backbone。
+qwen3:32b,4,5,0,2045,9,这家餐厅的service非常专业，环境也很cozy。
+qwen3:32b,4,5,0,2045,10,这个proposition听起来不错，但我们得check所有细节。
+qwen3:32b,5,1,0,2046,1,这个app真的太方便了，完全改变了我的生活习惯。
+qwen3:32b,5,1,0,2046,2,我觉得他态度有点too serious，应该放松一点。
+qwen3:32b,5,1,0,2046,3,快递还没到，tracking number显示在路上。
+qwen3:32b,5,1,0,2046,4,她刚做完brainstorming，现在需要休息一下。
+qwen3:32b,5,1,0,2046,5,这道题好high level，完全听不懂。
+qwen3:32b,5,1,0,2046,6,明天得早点去bank办手续，别迟到了。
+qwen3:32b,5,1,0,2046,7,这种天气真的超not cool，热死了。
+qwen3:32b,5,1,0,2046,8,他说的这个plan不够solid，还得再想想。
+qwen3:32b,5,1,0,2046,9,我要去grab coffee，谁要一起？
+qwen3:32b,5,1,0,2046,10,这个project好intense，我都快burn out了。
+qwen3:32b,5,2,0,2047,1,这个app的功能真的super方便，大家都应该试试。
+qwen3:32b,5,2,0,2047,2,他今天心情bad到不行，千万别去惹他。
+qwen3:32b,5,2,0,2047,3,这个research area我还不算很熟，得去找professor问问。
+qwen3:32b,5,2,0,2047,4,咱们组的project进度有点lag，得加快节奏了。
+qwen3:32b,5,2,0,2047,5,她英语说得so自然，完全看不出是学的。
+qwen3:32b,5,2,0,2047,6,老板最近特别strict，大家小心点。
+qwen3:32b,5,2,0,2047,7,这间apartment的location真的好，靠近地铁。
+qwen3:32b,5,2,0,2047,8,这个问题需要更deep的分析，不能只是surface level。
+qwen3:32b,5,2,0,2047,9,那个面试的feedback我还没看完，等我处理完email再说。
+qwen3:32b,5,2,0,2047,10,你这想法too idealistic，实际操作会有问题。
+qwen3:32b,5,3,0,2048,1,这个app真的很方便，特别是它的user interface。
+qwen3:32b,5,3,0,2048,2,别担心，我一定会cover你今晚的shift。
+qwen3:32b,5,3,0,2048,3,他处理问题的方式太passive了，一点都不主动。
+qwen3:32b,5,3,0,2048,4,这个research topic需要更多数据支持。
+qwen3:32b,5,3,0,2048,5,周末party你一定要来，不然大家都很sad。
+qwen3:32b,5,3,0,2048,6,我们老板最近好strict，千万别惹他。
+qwen3:32b,5,3,0,2048,7,这个package要先check一下内容是否完整。
+qwen3:32b,5,3,0,2048,8,她英语说得超流利，完全看不出是non-native speaker。
+qwen3:32b,5,3,0,2048,9,记得把这份report打印出来，明天meeting要用。
+qwen3:32b,5,3,0,2048,10,这种high-context的沟通方式我们这边不太习惯。
+qwen3:32b,5,4,0,2049,1,这个app的功能还挺user-friendly的。
+qwen3:32b,5,4,0,2049,2,他说话太直接，有点too straightforward了。
+qwen3:32b,5,4,0,2049,3,租房合同里的clause要仔细看清楚。
+qwen3:32b,5,4,0,2049,4,周末要不要一起去coffee shop坐坐？
+qwen3:32b,5,4,0,2049,5,这个project的deadline快到了，得赶紧start。
+qwen3:32b,5,4,0,2049,6,她讲笑话总是能hit the point。
+qwen3:32b,5,4,0,2049,7,这道菜的味道太overwhelming了，完全吃不惯。
+qwen3:32b,5,4,0,2049,8,快递还没到，tracking number也查不到。
+qwen3:32b,5,4,0,2049,9,这个solution太naive了，完全没考虑实际情况。
+qwen3:32b,5,4,0,2049,10,网上报名的time slot已经抢光了。
+qwen3:32b,5,5,0,2050,1,这个app的功能超乎想象，简直是life saver。
+qwen3:32b,5,5,0,2050,2,我问他why that movie is so popular，他说因为特效太赞。
+qwen3:32b,5,5,0,2050,3,刚收到快递，包装很secure，完全没破损。
+qwen3:32b,5,5,0,2050,4,在找一份remote job，不想每天挤地铁。
+qwen3:32b,5,5,0,2050,5,她做的蛋糕味道好到incredible，大家都惊呆了。
+qwen3:32b,5,5,0,2050,6,这个research topic太冷门，我找不到参考资料。
+qwen3:32b,5,5,0,2050,7,他说这是last minute change，搞得我们措手不及。
+qwen3:32b,5,5,0,2050,8,想买airpod pro但预算不够，纠结中。
+qwen3:32b,5,5,0,2050,9,他那个theory太疯狂，简直像科幻小说。
+qwen3:32b,5,5,0,2050,10,看到那家新开的café，决定下班后go there relax一下。
+qwen3:32b,6,1,0,2051,1,我今天在写论文的时候，突然想查一下literature review的格式。
+qwen3:32b,6,1,0,2051,2,这间公寓最多可以住两个人，no pets allowed。
+qwen3:32b,6,1,0,2051,3,这个餐厅的招牌菜是红烧肉，但service非常good。
+qwen3:32b,6,1,0,2051,4,买菜的时候记得带环保袋，环保又eco-friendly。
+qwen3:32b,6,1,0,2051,5,周末有空吗？想去爬mountain，你来吗？
+qwen3:32b,6,1,0,2051,6,她做的蛋糕超好吃，简直是baker界的天才。
+qwen3:32b,6,1,0,2051,7,这个课只有graduate student能选，本科生不行。
+qwen3:32b,6,1,0,2051,8,新搬来的邻居很客气，给我们送了chips和饮料。
+qwen3:32b,6,1,0,2051,9,请把房间保持干净，no smoking在里面哦。
+qwen3:32b,6,1,0,2051,10,这本书是限量版，目前只在China和USA有售。
+qwen3:32b,6,2,0,2052,1,这个app真的super方便，大家都要试试。
+qwen3:32b,6,2,0,2052,2,我的论文topic是关于climate change的社会影响。
+qwen3:32b,6,2,0,2052,3,他刚刚搬去了一个有pool的house。
+qwen3:32b,6,2,0,2052,4,请尽快回复这个email，deadline在明天。
+qwen3:32b,6,2,0,2052,5,这间studio apartment的位置太perfect了。
+qwen3:32b,6,2,0,2052,6,我们小组的project需要更多data support。
+qwen3:32b,6,2,0,2052,7,这件外套是wool的，穿起来很warm。
+qwen3:32b,6,2,0,2052,8,她刚拿到offer，正在找place to stay。
+qwen3:32b,6,2,0,2052,9,这个recipe的steps写得特别clear。
+qwen3:32b,6,2,0,2052,10,周末一起去hiking怎么样？空气super好。
+qwen3:32b,6,3,0,2053,1,这个app真的太convenient了，每天都在用。
+qwen3:32b,6,3,0,2053,2,我昨天刚买了台新的laptop，性价比超高。
+qwen3:32b,6,3,0,2053,3,谁有空可以帮忙看一下这个database吗？
+qwen3:32b,6,3,0,2053,4,这栋公寓的location太好了，靠近地铁。
+qwen3:32b,6,3,0,2053,5,他讲中文的时候总是夹杂一些English words。
+qwen3:32b,6,3,0,2053,6,你们有没有听说过那个popular的podcast？
+qwen3:32b,6,3,0,2053,7,这件外套虽然贵，但是quality真的很棒。
+qwen3:32b,6,3,0,2053,8,明天的meeting需要提前准备presentation。
+qwen3:32b,6,3,0,2053,9,我最喜欢的song是周杰伦的〈七里香〉。
+qwen3:32b,6,3,0,2053,10,这个菜的taste有点奇怪，不是正宗川菜。
+qwen3:32b,6,4,0,2054,1,这个app真的太方便了，我每天都要用它来check email。
+qwen3:32b,6,4,0,2054,2,我最喜欢的dinner是妈妈做的红烧肉。
+qwen3:32b,6,4,0,2054,3,这间公寓有两个bathroom，不过位置有点偏。
+qwen3:32b,6,4,0,2054,4,他刚刚发来的消息是：let's meet at 7。
+qwen3:32b,6,4,0,2054,5,我正在找一个可以做yoga的quiet place。
+qwen3:32b,6,4,0,2054,6,这辆车是2015 model，跑了大概五万公里。
+qwen3:32b,6,4,0,2054,7,你喜欢喝coffee还是tea？我两个都可以。
+qwen3:32b,6,4,0,2054,8,这个package太大了，我们需要两个人一起搬。
+qwen3:32b,6,4,0,2054,9,老师说下周要交一份research proposal。
+qwen3:32b,6,4,0,2054,10,他会不会来还有待观察，不过我已经准备了welcome gift。
+qwen3:32b,6,5,0,2055,1,这个位置super central，靠近地铁和超市。
+qwen3:32b,6,5,0,2055,2,我需要一个能放laptop的桌子，最好是木头的。
+qwen3:32b,6,5,0,2055,3,房东说pets are not allowed，但可以申请。
+qwen3:32b,6,5,0,2055,4,价格有点expensive，不过装修挺新的。
+qwen3:32b,6,5,0,2055,5,附近很多cafe和餐馆，生活很方便。
+qwen3:32b,6,5,0,2055,6,租期最好能签一年以上，long term更划算。
+qwen3:32b,6,5,0,2055,7,房间朝南，阳光很好，size大概20平米。
+qwen3:32b,6,5,0,2055,8,房东要求提供reference letter，这个怎么处理？
+qwen3:32b,6,5,0,2055,9,这个area治安不错，出门就是公园。
+qwen3:32b,6,5,0,2055,10,押金是两个月租金，advance payment要提前付。
+qwen3:32b,7,1,0,2056,1,我覺得這個app真的super方便，特別是對外來工作的人。
+qwen3:32b,7,1,0,2056,2,他講話總是半中半英，讓人有點 confuse。
+qwen3:32b,7,1,0,2056,3,如果明天不下雨，我們就go out for a walk。
+qwen3:32b,7,1,0,2056,4,這個研究結果還蠻impressive的，不過還需要更多數據支持。
+qwen3:32b,7,1,0,2056,5,請問你有bring your ID嗎？這是進門的必需品。
+qwen3:32b,7,1,0,2056,6,她說這間店的service很好，所以我建議你也可以go check out。
+qwen3:32b,7,1,0,2056,7,這個case我們已經follow了三個月，現在終於有progress了。
+qwen3:32b,7,1,0,2056,8,這本書內容真的很deep，讀完會讓你rethink很多事。
+qwen3:32b,7,1,0,2056,9,今天課堂上老師用了好多professional terms，我有點跟不上。
+qwen3:32b,7,1,0,2056,10,雖然我很like這個plan，但還是建議再做一次risk assessment。
+qwen3:32b,7,2,0,2057,1,这个app真的很好用，特别是它的user interface。
+qwen3:32b,7,2,0,2057,2,我最喜欢的band是Coldplay，他们的音乐很有感觉。
+qwen3:32b,7,2,0,2057,3,那个movie太感人了，我看到一半就哭了。
+qwen3:32b,7,2,0,2057,4,你可以直接call我，不用发email。
+qwen3:32b,7,2,0,2057,5,她今天穿了一件很漂亮的dress，大家看了都羡慕。
+qwen3:32b,7,2,0,2057,6,这台laptop的battery life真的很长，可以撑一整天。
+qwen3:32b,7,2,0,2057,7,如果你要study abroad，记得先申请student visa。
+qwen3:32b,7,2,0,2057,8,这部电视剧的plot twist太惊人了，完全想不到。
+qwen3:32b,7,2,0,2057,9,我很喜欢他的management style，很open和supportive。
+qwen3:32b,7,2,0,2057,10,我们plan下个月去旅行，目的地是near Beijing的山区。
+qwen3:32b,7,3,0,2058,1,我觉得这个program真的很有help，尤其是对初学者来说。
+qwen3:32b,7,3,0,2058,2,她太selfish了，完全不考虑别人的感受。
+qwen3:32b,7,3,0,2058,3,这个app的user interface设计得非常intuitive。
+qwen3:32b,7,3,0,2058,4,如果能拿到这个offer，我就可以cover所有学费了。
+qwen3:32b,7,3,0,2058,5,他总是on time，从来没有迟到过。
+qwen3:32b,7,3,0,2058,6,我最喜欢的movie是《星际穿越》，因为它的storyline太棒了。
+qwen3:32b,7,3,0,2058,7,这个brand的服装质量非常好，我穿了好久都没坏。
+qwen3:32b,7,3,0,2058,8,上次的meeting我们已经决定好接下来的plan了。
+qwen3:32b,7,3,0,2058,9,这种attitude会让人觉得很unprofessional。
+qwen3:32b,7,3,0,2058,10,你可以试试这个method，可能会很effective。
+qwen3:32b,7,4,0,2059,1,这个app真的super方便，每天都要用。
+qwen3:32b,7,4,0,2059,2,如果你有任何medical issue，最好先去看医生。
+qwen3:32b,7,4,0,2059,3,我们公司现在在招intern，有兴趣的可以发简历到HR邮箱。
+qwen3:32b,7,4,0,2059,4,他说话总是很直接，一点都不婉转，简直像用的all English。
+qwen3:32b,7,4,0,2059,5,网上订的room service要等很久才会送到，有点不ok。
+qwen3:32b,7,4,0,2059,6,这栋楼的security system很先进，晚上回家要刷两次卡。
+qwen3:32b,7,4,0,2059,7,请把这份document翻译成Mandarin，明天开会要用。
+qwen3:32b,7,4,0,2059,8,她刚拿到US visa，准备下周就fly过去。
+qwen3:32b,7,4,0,2059,9,这个project的deadline快到了，大家要加快进度。
+qwen3:32b,7,4,0,2059,10,别担心，这个package会由快递直接送到你家门口。
+qwen3:32b,7,5,0,2060,1,这个app真的super方便，随时随地都能查信息。
+qwen3:32b,7,5,0,2060,2,如果明天rain的话，我们就改线上会议吧。
+qwen3:32b,7,5,0,2060,3,他中文说得很好，但语法有时候还是有点issue。
+qwen3:32b,7,5,0,2060,4,我最喜欢的food是麻辣烫，加点牛肉最好吃。
+qwen3:32b,7,5,0,2060,5,别担心，这次的project完全由你来lead没问题。
+qwen3:32b,7,5,0,2060,6,那家店的service quality真的高，值得推荐。
+qwen3:32b,7,5,0,2060,7,你们这个小组需要一个strong leader来管理进度。
+qwen3:32b,7,5,0,2060,8,"她每次说话都half in Chinese, half in English，我们都很习惯。"
+qwen3:32b,7,5,0,2060,9,这栋building的design太现代了，完全不像老小区。
+qwen3:32b,7,5,0,2060,10,我正在考虑要不要apply那个master program next year。
+qwen3:32b,8,1,0,2061,1,这个app真的很难用，用户体验很bad。
+qwen3:32b,8,1,0,2061,2,她家的狗特别cute，看到就想抱。
+qwen3:32b,8,1,0,2061,3,考试前一定要好好review，别临时抱佛脚。
+qwen3:32b,8,1,0,2061,4,这道菜味道很authentic，完全像在四川吃的一样。
+qwen3:32b,8,1,0,2061,5,他总是很late，让人很生气。
+qwen3:32b,8,1,0,2061,6,这部电影的plot很复杂，看得我头大。
+qwen3:32b,8,1,0,2061,7,想要减肥的话，饮食要control好，不能随便吃。
+qwen3:32b,8,1,0,2061,8,这里的交通很convenient，出门什么都很近。
+qwen3:32b,8,1,0,2061,9,我决定换个工作，因为之前那份太stressful。
+qwen3:32b,8,1,0,2061,10,这个品牌的quality真的很好，用起来很放心。
+qwen3:32b,8,2,0,2062,1,这个app真的super方便，每天都在用。
+qwen3:32b,8,2,0,2062,2,他太overqualified了，我们根本聘不起。
+qwen3:32b,8,2,0,2062,3,我最近在学machine learning，感觉很challenging。
+qwen3:32b,8,2,0,2062,4,那家餐厅service太好，我们应该经常go那里。
+qwen3:32b,8,2,0,2062,5,这个project需要team合作，还有点time pressure。
+qwen3:32b,8,2,0,2062,6,我昨天dream到我在太空walk，超现实的。
+qwen3:32b,8,2,0,2062,7,她说话太direct，有时候让人有点uncomfortable。
+qwen3:32b,8,2,0,2062,8,衣服都干clean了，你可以直接pack一下。
+qwen3:32b,8,2,0,2062,9,这个theory听起来合理，但需要data support。
+qwen3:32b,8,2,0,2062,10,我跟他讲了很多次，但他还是不listen仔细。
+qwen3:32b,8,3,0,2063,1,这个app真的super方便，我每天都用。
+qwen3:32b,8,3,0,2063,2,他刚搬到北京，还在找一个quiet的apartment。
+qwen3:32b,8,3,0,2063,3,这道菜是traditional Chinese recipe，但用英文菜名更吸引人。
+qwen3:32b,8,3,0,2063,4,我们周末去hike吧，天气这么好。
+qwen3:32b,8,3,0,2063,5,她讲中文的时候总喜欢drop一些English words。
+qwen3:32b,8,3,0,2063,6,这个project已经on track，不用担心deadline。
+qwen3:32b,8,3,0,2063,7,地铁站附近有好多café，环境都挺cozy。
+qwen3:32b,8,3,0,2063,8,我最喜欢的band要在纽约开演唱会，ticket很难抢。
+qwen3:32b,8,3,0,2063,9,这个brand的衣服质量不错，价格也合理。
+qwen3:32b,8,3,0,2063,10,老师说这次的assignment不要太academic，用点casual语言。
+qwen3:32b,8,4,0,2064,1,这个app真的super方便，每天都用。
+qwen3:32b,8,4,0,2064,2,"他讲笑话的时候总是用half Mandarin, half English，很搞笑。"
+qwen3:32b,8,4,0,2064,3,那部movie的soundtrack太感人了，我都哭了。
+qwen3:32b,8,4,0,2064,4,我们约在星巴克，因为那里有free Wi-Fi。
+qwen3:32b,8,4,0,2064,5,她做的蛋糕简直like a professional baker做的。
+qwen3:32b,8,4,0,2064,6,这个exercise每天只要十分钟，很简单。
+qwen3:32b,8,4,0,2064,7,我的电脑又blue screen了，烦死了。
+qwen3:32b,8,4,0,2064,8,他是个big fan of basketball，每天都看NBA。
+qwen3:32b,8,4,0,2064,9,这个app store里的游戏都太上瘾了。
+qwen3:32b,8,4,0,2064,10,她中文讲得越来越好，已经almost fluent了。
+qwen3:32b,8,5,0,2065,1,这个app真的super好用，每天都在用。
+qwen3:32b,8,5,0,2065,2,She always speaks very clearly，让人听得懂。
+qwen3:32b,8,5,0,2065,3,看电影的时候，我最喜欢那部sci-fi的。
+qwen3:32b,8,5,0,2065,4,他做的food太delicious了，我都吃光了。
+qwen3:32b,8,5,0,2065,5,我用YouTube学了很多英文，进步很快。
+qwen3:32b,8,5,0,2065,6,这个case需要你尽快处理，别拖。
+qwen3:32b,8,5,0,2065,7,做完这个project，我可以有三天的vacation吗？
+qwen3:32b,8,5,0,2065,8,她的English发音很标准，像native speaker。
+qwen3:32b,8,5,0,2065,9,这个brand的鞋子quality很好，穿起来舒服。
+qwen3:32b,8,5,0,2065,10,我们约在café见，时间和地点都固定了。
+qwen3:32b,9,1,0,2066,1,这个apartment靠近地铁站，而且有24小时security。
+qwen3:32b,9,1,0,2066,2,她会说一点English，但大部分时间用Mandarin聊天。
+qwen3:32b,9,1,0,2066,3,这个area很quiet，周末经常能看见family散步。
+qwen3:32b,9,1,0,2066,4,我正在找一个有 balcony 的房子，最好是靠近University。
+qwen3:32b,9,1,0,2066,5,这房子的internet speed很慢，有时候根本上不了。
+qwen3:32b,9,1,0,2066,6,他不喜欢做饭，所以prefer一间带microwave的房间。
+qwen3:32b,9,1,0,2066,7,这栋building有elevator，搬大件东西很方便。
+qwen3:32b,9,1,0,2066,8,这个roommate policy只允许两个人住，不能加人。
+qwen3:32b,9,1,0,2066,9,最近这一带的crime rate有点高，需要注意安全。
+qwen3:32b,9,1,0,2066,10,房东说如果要搬出去，必须提前一个月notify。
+qwen3:32b,9,2,0,2067,1,这套公寓在市中心，靠近地铁，而且walking distance to all shops。
+qwen3:32b,9,2,0,2067,2,房东说可以养宠物，但must keep them quiet and well-behaved。
+qwen3:32b,9,2,0,2067,3,这个小区有24小时security，晚上出门也放心。
+qwen3:32b,9,2,0,2067,4,家具都是全新的，包括sofa和bed，不需要自己买。
+qwen3:32b,9,2,0,2067,5,因为是阳光房，所以夏天可能会很hot，不过有AC没问题。
+qwen3:32b,9,2,0,2067,6,虽然有点old，但是location非常好，附近有好多cafe。
+qwen3:32b,9,2,0,2067,7,lease term是12个月，如果想提前搬走需要找人接手。
+qwen3:32b,9,2,0,2067,8,有一个大阳台，view很赞，可以看city skyline。
+qwen3:32b,9,2,0,2067,9,房子带furniture，不过不带dishwasher，这点要注意。
+qwen3:32b,9,2,0,2067,10,prefer情侣入住，不接受party或者熬夜的人。
+qwen3:32b,9,3,0,2068,1,这个小区绿化很棒，环境super安静。
+qwen3:32b,9,3,0,2068,2,他工作很忙，平时就喜欢在家看电影，或者打打game。
+qwen3:32b,9,3,0,2068,3,今天我去bank办了点事情，顺便去超市买了菜。
+qwen3:32b,9,3,0,2068,4,你这个solution太复杂了，能不能想一个easy一点的方法？
+qwen3:32b,9,3,0,2068,5,我室友是美国人，所以我们平时会混用English和中文聊天。
+qwen3:32b,9,3,0,2068,6,这个app用起来很smooth，用户体验很好。
+qwen3:32b,9,3,0,2068,7,她会弹piano，还会一点guitar，音乐方面很有天赋。
+qwen3:32b,9,3,0,2068,8,这道菜的味道很地道，完全是authentic川菜的感觉。
+qwen3:32b,9,3,0,2068,9,我下周要去Seattle出差，计划在那边stay几天。
+qwen3:32b,9,3,0,2068,10,他虽然学的是business，但一直对art很感兴趣。
+qwen3:32b,9,4,0,2069,1,这个apartment的location特别好，walkable到地铁站，而且附近有很多cafe。
+qwen3:32b,9,4,0,2069,2,房东说房子是fully furnished，但是没有包括microwave。
+qwen3:32b,9,4,0,2069,3,如果想找个study buddy一起复习，可以加我WeChat。
+qwen3:32b,9,4,0,2069,4,房间有大窗户，采光很好，但夏天会比较hot。
+qwen3:32b,9,4,0,2069,5,附近有24/7 open的grocery store，买菜很方便。
+qwen3:32b,9,4,0,2069,6,这个小区是gated community，安全性很高，适合家庭居住。
+qwen3:32b,9,4,0,2069,7,洗衣房是coin-operated的，投硬币就能用洗衣机和 dryer。
+qwen3:32b,9,4,0,2069,8,prefer不要养pet的朋友，不然押金可能会受影响。
+qwen3:32b,9,4,0,2069,9,公共区域有shared kitchen和living room，大家要保持clean哦。
+qwen3:32b,9,4,0,2069,10,房子靠近university，平时学生很多，氛围很vibrant。
+qwen3:32b,9,5,0,2070,1,这个apartment有很棒的natural light，特别适合拍照发Instagram。
+qwen3:32b,9,5,0,2070,2,房东说要提前一个月通知，不然押金可能不退，不过他挺nice的。
+qwen3:32b,9,5,0,2070,3,附近有个很火的café，周末去的话大概要等table。
+qwen3:32b,9,5,0,2070,4,一楼是open kitchen，采光好，空间感也强。
+qwen3:32b,9,5,0,2070,5,小区环境安静，绿化好，适合喜欢walk的people。
+qwen3:32b,9,5,0,2070,6,lease是12个月，不过可以商量短租，但需要签additional agreement。
+qwen3:32b,9,5,0,2070,7,浴室是walk-in style，没有浴缸，但热水很充足。
+qwen3:32b,9,5,0,2070,8,虽然价格有点high，但location太方便了，出门就是地铁站。
+qwen3:32b,9,5,0,2070,9,prefer会英语的室友，因为平时沟通都用English。
+qwen3:32b,9,5,0,2070,10,房子整体condition很好，没有major repair的问题。
+qwen3:32b,10,1,0,2071,1,这个app真的太方便了，尤其是它的notification功能。
+qwen3:32b,10,1,0,2071,2,他刚刚说的那句I love you让我感动得不得了。
+qwen3:32b,10,1,0,2071,3,你们知道吗，我昨天刚在YouTube看了一个超火的Mandarin rap视频。
+qwen3:32b,10,1,0,2071,4,这栋building的location真的很赞，就在地铁站旁边。
+qwen3:32b,10,1,0,2071,5,我需要一点time来process这个突如其来的好消息。
+qwen3:32b,10,1,0,2071,6,她的PPT做得非常专业，尤其是那些data visualizations。
+qwen3:32b,10,1,0,2071,7,下个月我要去一次Shanghai做business trip，顺便想看看Great Wall。
+qwen3:32b,10,1,0,2071,8,这个event的ticket price有点high，但内容真的很值。
+qwen3:32b,10,1,0,2071,9,他一直在强调teamwork的重要性，这点我非常agree。
+qwen3:32b,10,1,0,2071,10,别担心，这个assignment的deadline还很far away。
+qwen3:32b,10,2,0,2072,1,这个app真的super方便，每天都要用。
+qwen3:32b,10,2,0,2072,2,他现在在做PhD research，主题是人工智能。
+qwen3:32b,10,2,0,2072,3,今晚的dinner是中西合璧的，大家快来吃。
+qwen3:32b,10,2,0,2072,4,这间hotel的service好到不像在中国。
+qwen3:32b,10,2,0,2072,5,我刚刚用wechat pay付了电费，超级快。
+qwen3:32b,10,2,0,2072,6,那个老师讲得太快，我完全跟不上他的logic。
+qwen3:32b,10,2,0,2072,7,我们打算搬去一个quiet一点的neighborhood。
+qwen3:32b,10,2,0,2072,8,这道菜的味道很ok，但价格有点high。
+qwen3:32b,10,2,0,2072,9,她有点shy，不太敢在public讲话。
+qwen3:32b,10,2,0,2072,10,这个project需要你有basic的coding skill。
+qwen3:32b,10,3,0,2073,1,这个app真的很好用，特别方便。
+qwen3:32b,10,3,0,2073,2,我今天要去bank办点事，顺便买杯coffee。
+qwen3:32b,10,3,0,2073,3,他说的那件事听起来有点fishy。
+qwen3:32b,10,3,0,2073,4,这间apartment的view超级棒，就在river旁边。
+qwen3:32b,10,3,0,2073,5,老师讲课的时候经常code-switch，我觉得这样更容易理解。
+qwen3:32b,10,3,0,2073,6,那家café的蛋糕是homemade的，味道很特别。
+qwen3:32b,10,3,0,2073,7,我正在考虑要不要申请那个full-time的position。
+qwen3:32b,10,3,0,2073,8,这个topic我们之前讨论过，记得吗？
+qwen3:32b,10,3,0,2073,9,他总是把所有事情都弄得complicated。
+qwen3:32b,10,3,0,2073,10,明天有storm，记得带umbrella和雨衣。
+qwen3:32b,10,4,0,2074,1,这个app真的super helpful，特别是对新手来说。
+qwen3:32b,10,4,0,2074,2,今天天气真好，阳光像California的夏天一样。
+qwen3:32b,10,4,0,2074,3,我的论文还在waiting for review，好焦虑啊。
+qwen3:32b,10,4,0,2074,4,他讲得太快了，我根本跟不上his point。
+qwen3:32b,10,4,0,2074,5,那家餐厅的service quality真的很top notch。
+qwen3:32b,10,4,0,2074,6,I just can't understand为什么你总是这么晚才回消息。
+qwen3:32b,10,4,0,2074,7,这个brand new的耳机竟然没声音，太失望了。
+qwen3:32b,10,4,0,2074,8,我们明天是不是要讨论那个project proposal？
+qwen3:32b,10,4,0,2074,9,我最喜欢的movie genre是科幻，因为它充满想象力。
+qwen3:32b,10,4,0,2074,10,他的演讲very impressive，全班都被感动了。
+qwen3:32b,10,5,0,2075,1,这个app真的太方便了，特别是它的GPS功能。
+qwen3:32b,10,5,0,2075,2,虽然天气不好，但我还是决定去那家新开的café坐坐。
+qwen3:32b,10,5,0,2075,3,他工作态度很认真，大家对他的feedback都很好。
+qwen3:32b,10,5,0,2075,4,你们那边的快递系统是不是有问题？我的package还没送到。
+qwen3:32b,10,5,0,2075,5,今天下午我要去一个workshop，内容是关于跨文化沟通的。
+qwen3:32b,10,5,0,2075,6,这个沙发是IKEA买的，组装起来有点tricky。
+qwen3:32b,10,5,0,2075,7,她英语口语很棒，但有时候还是会犯一些grammar mistakes。
+qwen3:32b,10,5,0,2075,8,你可以在wechat里找我，或者直接发email到我的inbox。
+qwen3:32b,10,5,0,2075,9,这个电影在Netflix上可以看，我昨天刚看完。
+qwen3:32b,10,5,0,2075,10,如果你需要帮助的话，随时可以call我或者发message过来。

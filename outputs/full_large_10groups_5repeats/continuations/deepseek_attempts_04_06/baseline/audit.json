@@ -1,0 +1,41 @@
+{
+  "checked_at_utc": "2026-11-27T02:31:07.943731+00:00",
+  "models": [
+    {
+      "model": "gemma3:27b",
+      "initial_accepted_batches": 50,
+      "rerun_requests": 0,
+      "accepted_sentences": 500,
+      "unresolved_batches": 0
+    },
+    {
+      "model": "qwen3:32b",
+      "initial_accepted_batches": 48,
+      "rerun_requests": 2,
+      "accepted_sentences": 500,
+      "unresolved_batches": 0
+    },
+    {
+      "model": "llama3:70b",
+      "initial_accepted_batches": 43,
+      "rerun_requests": 8,
+      "accepted_sentences": 500,
+      "unresolved_batches": 0
+    },
+    {
+      "model": "deepseek-llm:67b",
+      "initial_accepted_batches": 13,
+      "rerun_requests": 74,
+      "accepted_sentences": 390,
+      "unresolved_batches": 11
+    }
+  ],
+  "total_requests": 284,
+  "total_accepted_sentences": 1890,
+  "latest_initial_response_utc": "2026-11-27T00:02:04+00:00",
+  "earliest_repair_request_utc": "2026-11-27T00:03:12+00:00",
+  "phase_order_verified": true,
+  "first_success_selection_verified": true,
+  "max_three_reruns_verified": true,
+  "gpu_use_verified_for_all_requests": true
+}

@@ -1,0 +1,14 @@
+{
+  "model": "deepseek-llm:67b",
+  "family": "deepseek",
+  "updated_at_utc": "2026-11-27T03:15:24+00:00",
+  "initial_finished": true,
+  "initial_requests": 50,
+  "initial_accepted_batches": 13,
+  "dispatched_requests": 151,
+  "rerun_requests": 101,
+  "accepted_batches": 50,
+  "accepted_sentences": 500,
+  "repair_finished": true,
+  "unresolved": []
+}

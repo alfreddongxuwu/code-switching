@@ -1,0 +1,101 @@
+{
+  "config": {
+    "cluster": "ascend",
+    "hostname": "ascend.osc.edu",
+    "username": "YOUR_USERNAME",
+    "account": "YOUR_ACCOUNT",
+    "project_dir": "/path/to/code-switching",
+    "ollama_models_dir": "/path/to/code-switching/ollama_models",
+    "model_inventory_dir": "outputs/model_downloads_large",
+    "download_min_free_gib": 150,
+    "pilot_run_name": "pilot_large_groups_1_3_repeat_1",
+    "experiment": {
+      "groups": 10,
+      "repeats_per_group": 5,
+      "sentences_per_request": 10
+    },
+    "models": [
+      {
+        "family": "gemma",
+        "provider": "ollama",
+        "model": "gemma3:27b"
+      },
+      {
+        "family": "qwen",
+        "provider": "ollama",
+        "model": "qwen3:32b"
+      },
+      {
+        "family": "llama",
+        "provider": "ollama",
+        "model": "llama3:70b"
+      },
+      {
+        "family": "deepseek",
+        "provider": "ollama",
+        "model": "deepseek-llm:67b"
+      },
+      {
+        "family": "gpt",
+        "provider": "openai",
+        "model": "gpt-6-luna"
+      }
+    ]
+  },
+  "generation": {
+    "options": {
+      "temperature": 0.8,
+      "top_p": 1.0,
+      "top_k": 0,
+      "min_p": 0.0,
+      "frequency_penalty": 0.0,
+      "presence_penalty": 0.0,
+      "repeat_penalty": 1.0,
+      "num_predict": 2048,
+      "num_ctx": 4096
+    },
+    "seed_rule": {
+      "base_seed": 2026,
+      "repeats_per_group": 5,
+      "formula": "base_seed + repeats_per_group * (group_id - 1) + (repeat_id - 1)"
+    },
+    "qwen3_think": false,
+    "conversation_history": false,
+    "expected_sentences_per_response": 10,
+    "request_timeout_seconds": 900
+  },
+  "policy": {
+    "run_name": "full_large_10groups_5repeats",
+    "groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "repeats_per_group": 5,
+    "max_reruns_per_batch": 3,
+    "retry_seed_stride": 50,
+    "batch_size": 10,
+    "retry_unit": "whole_batch",
+    "selection": "first_accepted_attempt",
+    "history": false,
+    "format_handling": "Extract a unique JSON string array without rewriting sentence contents; retain all raw output.",
+    "language_screen": "Every item must contain at least one Han character and at least one ASCII Latin letter; this is a character-level screen, not semantic language identification.",
+    "phase_order": "Finish all four models' initial requests before any repair generation."
+  },
+  "file_sha256": {
+    "configs/osc.json": "1aa85d067d7ad9f65f27b45efaaa8d52a591d25ef5d34880d595dfa1cb0ebd79",
+    "configs/generation.json": "d2baafb095a528a386e7d34615a8b58ac9cc1ba91a5e7f919bb70e09162fd38f",
+    "configs/full_run.json": "dcee76c68aaff670ad051e0f8416d58bcda953b2fd42e6b9af8beb9d9ae6df4e",
+    "data/prompts.jsonl": "3863081169bfcd610cef12e073026cf8d8d7914ba1f4c4a0837613ae504af101",
+    "scripts/run_full_ollama.py": "fe2a446d655c503211c71c4a359379be66e907edb099bf334cb4ff7a0d830ea1",
+    "scripts/run_ollama_pilot.py": "48ac15b1c97d942a509f4cd26f609fe30729436b1afa555f45e7451b67cc75d9",
+    "run/full_large_array.sbatch": "39c64e2689996bae6a7b8fbc668b5a0fa333aa77c1b2f1a13e9c54eb7924c582"
+  }
+}

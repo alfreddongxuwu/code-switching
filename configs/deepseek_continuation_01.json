@@ -1,0 +1,13 @@
+{
+  "continuation_id": "deepseek_attempts_04_06",
+  "run_name": "full_large_10groups_5repeats",
+  "model": "deepseek-llm:67b",
+  "first_attempt_id": 4,
+  "last_attempt_id": 6,
+  "additional_reruns_per_batch": 3,
+  "expected_prior_requests": 124,
+  "expected_prior_accepted_batches": 39,
+  "target_slots": [[1,1],[1,2],[2,4],[2,5],[4,3],[6,4],[7,4],[8,2],[8,3],[8,4],[9,5]],
+  "maximum_new_requests": 33,
+  "authorization": "User requested continuing DeepSeek with the same whole-batch, new-seed, first-success logic; one additional block of at most three reruns per remaining batch."
+}

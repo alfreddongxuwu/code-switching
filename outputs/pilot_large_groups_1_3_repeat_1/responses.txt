@@ -1,0 +1,218 @@
+MODEL: gemma3:27b | GROUP: 1 | REPEAT: 1 | SEED: 2026
+
+```json
+[
+  "我觉得这个apartment挺好的，但是rent有点贵。",
+  "我们一起去吃火锅吧，I'm craving for it!",
+  "这个周末我需要finish一个project，时间很tight。",
+  "他昨天去见了landlord，谈了lease的事情。",
+  "我感觉这个roommate有点noisy，总是play music。",
+  "这件衣服的design很unique，你觉得怎么样？",
+  "我们可以在附近的小超市买菜，it's very convenient.",
+  "我需要找一个quiet的地方study，图书馆人太多了。",
+  "她对这门课很感兴趣，wants to get a good grade.",
+  "这栋楼的security很好，有24-hour surveillance."
+]
+```
+
+========================================================================
+
+MODEL: gemma3:27b | GROUP: 2 | REPEAT: 1 | SEED: 2031
+
+```json
+[
+  "我觉得这个电影 really boring, 没什么意思。",
+  "今天 meeting 要 discuss 关于新项目的 details。",
+  "我周末想去 Chinatown 逛逛，看看有没有 good deals。",
+  "这个app太方便了，可以直接 order 外卖 and pay with WeChat Pay。",
+  "他虽然很忙, but he always finds time to help others.",
+  "我的电脑 suddenly crashed, 需要找人 fix it ASAP。",
+  "我们一起去吃饭吧，你想吃 Chinese food 还是 Western food?",
+  "这件衣服的 quality 很不错，而且 the price is reasonable.",
+  "我每天早上都要喝一杯咖啡，otherwise I can't focus.",
+  "她对这个城市很熟悉，can show you around easily."
+]
+```
+
+========================================================================
+
+MODEL: gemma3:27b | GROUP: 3 | REPEAT: 1 | SEED: 2036
+
+```json
+[
+  "我昨天去shopping，买了一个很cute的包。",
+  "这个project deadline快到了，要不要一起work on it？",
+  "你知道吗？这家餐厅的food真的很好吃，especially他们的dim sum.",
+  "我妈说我房间太messy了，要我clean up ASAP.",
+  "周末我们去hiking吧，我想去一个scenic的地方。",
+  "他虽然很busy，但还是try his best帮我。",
+  "这个app很有用，可以help you learn Mandarin.",
+  "我需要book一个flight，去LA，最好是direct flight.",
+  "今天的weather有点cold，你最好穿一件warm coat.",
+  "这件衣服的quality很好，但是price有点high。"
+]
+```
+
+========================================================================
+
+MODEL: qwen3:32b | GROUP: 1 | REPEAT: 1 | SEED: 2026
+
+```json
+[
+  "这个app功能太basic了，我要找一个更user-friendly的。",
+  "他在会议上突然switch到Cantonese，大家都不太跟得上。",
+  "这个brand的衣服都挺fashionable，但价格也不便宜。",
+  "你可以try一下那家新开的café，他们的latte艺术感很强。",
+  "她说话老是code-switch，让人有点跟不上节奏。",
+  "我已经install好所有necessary的software，可以开始work了。",
+  "这栋楼的security system是很advanced，但有时候会误报。",
+  "这门课是关于neural network的，但大部分讲义都是用中文解释的。",
+  "你们的service quality比last year好太多了，keep it up！",
+  "他写文章喜欢混用汉字和拼音，看起来有点不standard。"
+]
+```
+
+========================================================================
+
+MODEL: qwen3:32b | GROUP: 2 | REPEAT: 1 | SEED: 2031
+
+```json
+[
+  "这个app真的super方便，每天都要用。",
+  "他刚从abroad回来，整个人都light up了。",
+  "价格很reasonable，但是quality真的有待提升。",
+  "我们约在café见面，比较chill一点。",
+  "这间公寓有two bedrooms，但只招女生。",
+  "老师说考试会有open book的部分，大家放心一点。",
+  "这个方案需要quick decision，不能拖太久。",
+  "她会做很多homemade cookies，每次来都带一点。",
+  "这间办公室有natural light，感觉很open。",
+  "如果你觉得bored，可以随时来找我聊天。"
+]
+```
+
+========================================================================
+
+MODEL: qwen3:32b | GROUP: 3 | REPEAT: 1 | SEED: 2036
+
+```json
+[
+  "这个app真的超级easy to use，几分钟就学会了。",
+  "meeting结束后，请大家directly回到办公室准备汇报。",
+  "她刚刚拿到了MIT的offer，我们都超级excited。",
+  "这个菜馆的service quality非常high，强烈推荐。",
+  "他总是能在deadline前完成任务，效率super high。",
+  "我们决定在trip结束前去visit一下附近的古迹。",
+  "她每次化妆都用这个brand的粉底，效果很好。",
+  "这个project需要team合作，每个人都要contribute。",
+  "他每天都坚持exercise，现在body shape超级好。",
+  "如果你们有任何疑问，欢迎随时email我或者call我。"
+]
+```
+
+========================================================================
+
+MODEL: llama3:70b | GROUP: 1 | REPEAT: 1 | SEED: 2026
+
+Here are ten new Mandarin–English code-switched sentences:
+
+[
+  "我想找一个有gym的房子。",
+  "请带自己的water bottle来减少塑料废料。",
+  "这是个非常nice的neighborhood，附近有很多restaurant。",
+  "我需要一个可以surf internet的房间。",
+  "这个project的deadline是下周five o'clock。",
+  "我想参加这个summer camp，因为它很fun。",
+  "这个电话号码是 Extensions 1234，请don't forget。",
+  "这个房子有三个bedroom，两个bathroom。",
+  "我需要一个可以print文件的打印机。",
+  "这个中国餐厅的food非常delicious，值得一试。"
+]
+
+========================================================================
+
+MODEL: llama3:70b | GROUP: 2 | REPEAT: 1 | SEED: 2031
+
+[
+  "我订购了一个新的laptop，屏幕很大。",
+  "这个project的deadlin是明天，需要赶工。",
+  "我不喜欢这个房子的layout，太挤。",
+  "如果你需要帮助，please contact我。",
+  "我认为这个菜式的taste非常好。",
+  "我已经寄出了申请表单，waiting for回复。",
+  "这个城市的交通很方便，有很多bus routes。",
+  "我非常喜欢这个设计的style，很modern。",
+  "我需要一个好的investment建议，谁可以提供？",
+  "这个英语讲座的difficulty level太高了，我需要降级。"
+]
+
+========================================================================
+
+MODEL: llama3:70b | GROUP: 3 | REPEAT: 1 | SEED: 2036
+
+Here are ten new Mandarin-English code-switched sentences:
+
+[
+"我们公司的mission statement是to be the best in the industry。",
+"这个产品的功能包括automatic translation和语音识别。",
+"我朋友的birthday party是在Friday晚上7点at the downtown bar。",
+"这个项目的目标audience是年轻白领和学生。",
+"我们需要一个强大的marketing strategy来推广这个新产品。",
+"我的兴趣爱好包括playing basketball和watching American movies。",
+"这个房子的价格是每平方米1500块，包括两个car parks。",
+"我们公司的Core Values是innovation、teamwork和customer satisfaction。",
+"这个课程的内容包括Introduction to Python和数据分析。",
+"这个城市的交通系统包括subway、bus和taxi services。"
+]
+
+========================================================================
+
+MODEL: deepseek-llm:67b | GROUP: 1 | REPEAT: 1 | SEED: 2026
+
+[
+	"Keep a safe distance and don't touch me.",
+	"I'm not a bad person, just misunderstood.",
+	"Sorry, I can't understand you. Please speak more slowly.",
+	"I'm sorry, I didn't mean to offend you. It was just a joke.",
+	"What are you doing? Can you please explain?",
+	"I need to go to the bathroom. Can we continue this conversation later?",
+	"I'm sorry, I can't do that. It's against my principles.",
+	"I'm not feeling well right now. Can we talk about this later?",
+	"I don't know what you're talking about. Can you please explain?",
+	"I'm sorry, I can't do that. It's illegal.",
+	"I'm sorry, I can't do that. It's not allowed."
+]
+
+========================================================================
+
+MODEL: deepseek-llm:67b | GROUP: 2 | REPEAT: 1 | SEED: 2031
+
+[
+"得买票，看电影去不？",
+"跟老外讲英语可以的。",
+"这个班太难了，得补习。",
+"去健身房练肌肉。",
+"这家餐厅太贵，去别家吃。",
+"这个会议很重要，一定要去。",
+"这个项目要加班，明天再来。",
+"这个软件有问题，得修。",
+"这个合同有漏洞，得改。",
+"这个报告要再改改。"
+]
+
+========================================================================
+
+MODEL: deepseek-llm:67b | GROUP: 3 | REPEAT: 1 | SEED: 2036
+
+[
+  "房间里面有空调，外面有garden。",
+  "我住在这个house，里面有三个bedroom，每个卧室都有desk。",
+  "我很喜欢这个apartment，里面有living room和kitchen。",
+  "这个room里面有bed，外面有balcony，可以看风景。",
+  "我的roommates来自不同的国家，我们会share食物。",
+  "这个building里面有很多office，每个office都有computer。",
+  "我很喜欢在这里工作，因为这里有cafe和parking。",
+  "这个neighborhood很安全，有很多supermarket和restaurant。",
+  "我每天都会去gym，里面有很多exercise machine。",
+  "我很喜欢这个community，因为这里有很多family和friend。"
+]

@@ -1,0 +1,27 @@
+{
+  "run_name": "full_gpt6_luna_10groups_5repeats",
+  "endpoint": "https://api.openai.com/v1/responses",
+  "model": "gpt-6-luna",
+  "groups": [1,2,3,4,5,6,7,8,9,10],
+  "repeats_per_group": 5,
+  "batch_size": 10,
+  "max_reruns_per_batch": 3,
+  "retry_unit": "whole_batch",
+  "selection": "first_accepted_attempt",
+  "history": false,
+  "seed": null,
+  "retry_randomness": "A fresh independent API invocation; seed is not exposed by the Responses API.",
+  "parameters": {
+    "temperature": 0.8,
+    "top_p": 1.0,
+    "max_output_tokens": 2048,
+    "reasoning": {"effort": "none"},
+    "store": false,
+    "truncation": "disabled"
+  },
+  "phase_order": "Complete all 50 initial requests before attempting repairs.",
+  "language_screen": "Each of the ten strings must contain at least one Han character and at least one ASCII Latin letter. This is character screening, not semantic language identification.",
+  "operational_errors": "Record the dispatched attempt and stop on HTTP or connection errors. Never automatically resend the same request.",
+  "pilot_included": false,
+  "authorization": "User explicitly accepted independent random calls without controlled seeds and approved the full 10-group, 5-repeat GPT run with at most three whole-batch reruns."
+}

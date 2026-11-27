@@ -1,0 +1,186 @@
+{
+  "run_name": "pilot_groups_1_3_repeat_1",
+  "started_at_utc": "2026-11-26T22:49:40+00:00",
+  "slurm_job_id": "8790045",
+  "hostname": "a0154.ten.osc.edu",
+  "cuda_visible_devices": "0",
+  "ollama_version": "0.32.0",
+  "generation": {
+    "options": {
+      "temperature": 0.8,
+      "top_p": 1.0,
+      "top_k": 0,
+      "min_p": 0.0,
+      "frequency_penalty": 0.0,
+      "presence_penalty": 0.0,
+      "repeat_penalty": 1.0,
+      "num_predict": 2048,
+      "num_ctx": 4096
+    },
+    "seed_rule": {
+      "base_seed": 2026,
+      "repeats_per_group": 5,
+      "formula": "base_seed + repeats_per_group * (group_id - 1) + (repeat_id - 1)"
+    },
+    "qwen3_think": false,
+    "conversation_history": false,
+    "expected_sentences_per_response": 10,
+    "request_timeout_seconds": 900
+  },
+  "groups": [
+    1,
+    2,
+    3
+  ],
+  "repeat_id": 1,
+  "expected_generation_requests": 12,
+  "response_format": "Existing prompt instruction only; no constrained decoding",
+  "file_sha256": {
+    "configs/osc.json": "24be50385fdf773de22e37ddaa7dd78fff419193842c5ab53ed4cc5b92df0e3e",
+    "configs/generation.json": "d2baafb095a528a386e7d34615a8b58ac9cc1ba91a5e7f919bb70e09162fd38f",
+    "data/prompts.jsonl": "3863081169bfcd610cef12e073026cf8d8d7914ba1f4c4a0837613ae504af101",
+    "scripts/run_ollama_pilot.py": "e912bd98c086e1bcfa2d46cd502933951487971cb329a41ab8cc7390fd44708c"
+  },
+  "nvidia_smi": "0, GPU-fc15588b-16df-6f93-8cee-a7164dd7087c, NVIDIA A100-PCIE-40GB, 40960 MiB",
+  "models": [
+    {
+      "model": "gemma3:4b",
+      "details": {
+        "parent_model": "dhiltgen/gemma3:4b-it-q4_K_M-llamacpp",
+        "format": "gguf",
+        "family": "gemma3",
+        "families": [
+          "gemma3",
+          "clip"
+        ],
+        "parameter_size": "3.9B",
+        "quantization_level": "Q4_K_M"
+      },
+      "parameters": "temperature                    1\ntop_k                          64\ntop_p                          0.95\nstop                           \"<end_of_turn>\"",
+      "template": "{{- range $i, $_ := .Messages }}\n{{- $last := eq (len (slice $.Messages $i)) 1 }}\n{{- if or (eq .Role \"user\") (eq .Role \"system\") }}<start_of_turn>user\n{{ .Content }}<end_of_turn>\n{{ if $last }}<start_of_turn>model\n{{ end }}\n{{- else if eq .Role \"assistant\" }}<start_of_turn>model\n{{ .Content }}{{ if not $last }}<end_of_turn>\n{{ end }}\n{{- end }}\n{{- end }}",
+      "system": null,
+      "loaded_model": {
+        "name": "gemma3:4b",
+        "model": "gemma3:4b",
+        "size": 2876191538,
+        "digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+        "details": {
+          "parent_model": "",
+          "format": "gguf",
+          "family": "gemma3",
+          "families": [
+            "gemma3",
+            "clip"
+          ],
+          "parameter_size": "3.9B",
+          "quantization_level": "Q4_K_M"
+        },
+        "expires_at": "2026-11-26T17:55:22.602803027-05:00",
+        "size_vram": 2876191538,
+        "context_length": 4096
+      }
+    },
+    {
+      "model": "qwen3:8b",
+      "details": {
+        "parent_model": "",
+        "format": "gguf",
+        "family": "qwen3",
+        "families": [
+          "qwen3"
+        ],
+        "parameter_size": "8.2B",
+        "quantization_level": "Q4_K_M"
+      },
+      "parameters": "repeat_penalty                 1\nstop                           \"<|im_start|>\"\nstop                           \"<|im_end|>\"\ntemperature                    0.6\ntop_k                          20\ntop_p                          0.95",
+      "template": "\n{{- $lastUserIdx := -1 -}}\n{{- range $idx, $msg := .Messages -}}\n{{- if eq $msg.Role \"user\" }}{{ $lastUserIdx = $idx }}{{ end -}}\n{{- end }}\n{{- if or .System .Tools }}<|im_start|>system\n{{ if .System }}\n{{ .System }}\n{{- end }}\n{{- if .Tools }}\n\n# Tools\n\nYou may call one or more functions to assist with the user query.\n\nYou are provided with function signatures within <tools></tools> XML tags:\n<tools>\n{{- range .Tools }}\n{\"type\": \"function\", \"function\": {{ .Function }}}\n{{- end }}\n</tools>\n\nFor each function call, return a json object with function name and arguments within <tool_call></tool_call> XML tags:\n<tool_call>\n{\"name\": <function-name>, \"arguments\": <args-json-object>}\n</tool_call>\n{{- end -}}\n<|im_end|>\n{{ end }}\n{{- range $i, $_ := .Messages }}\n{{- $last := eq (len (slice $.Messages $i)) 1 -}}\n{{- if eq .Role \"user\" }}<|im_start|>user\n{{ .Content }}\n{{- if and $.IsThinkSet (eq $i $lastUserIdx) }}\n   {{- if $.Think -}}\n      {{- \" \"}}/think\n   {{- else -}}\n      {{- \" \"}}/no_think\n   {{- end -}}\n{{- end }}<|im_end|>\n{{ else if eq .Role \"assistant\" }}<|im_start|>assistant\n{{ if (and $.IsThinkSet (and .Thinking (or $last (gt $i $lastUserIdx)))) -}}\n<think>{{ .Thinking }}</think>\n{{ end -}}\n{{ if .Content }}{{ .Content }}\n{{- else if .ToolCalls }}<tool_call>\n{{ range .ToolCalls }}{\"name\": \"{{ .Function.Name }}\", \"arguments\": {{ .Function.Arguments }}}\n{{ end }}</tool_call>\n{{- end }}{{ if not $last }}<|im_end|>\n{{ end }}\n{{- else if eq .Role \"tool\" }}<|im_start|>user\n<tool_response>\n{{ .Content }}\n</tool_response><|im_end|>\n{{ end }}\n{{- if and (ne .Role \"assistant\") $last }}<|im_start|>assistant\n{{ if and $.IsThinkSet (not $.Think) -}}\n<think>\n\n</think>\n\n{{ end -}}\n{{ end }}\n{{- end }}",
+      "system": null,
+      "loaded_model": {
+        "name": "qwen3:8b",
+        "model": "qwen3:8b",
+        "size": 5578204118,
+        "digest": "500a1f067a9f782620b40bee6f7b0c89e17ae61f686b92c24933e4ca4b2b8b41",
+        "details": {
+          "parent_model": "",
+          "format": "gguf",
+          "family": "qwen3",
+          "families": [
+            "qwen3"
+          ],
+          "parameter_size": "8.2B",
+          "quantization_level": "Q4_K_M"
+        },
+        "expires_at": "2026-11-26T17:56:25.906510096-05:00",
+        "size_vram": 5578204118,
+        "context_length": 4096
+      }
+    },
+    {
+      "model": "llama3:8b",
+      "details": {
+        "parent_model": "",
+        "format": "gguf",
+        "family": "llama",
+        "families": [
+          "llama"
+        ],
+        "parameter_size": "8.0B",
+        "quantization_level": "Q4_0"
+      },
+      "parameters": "num_keep                       24\nstop                           \"<|start_header_id|>\"\nstop                           \"<|end_header_id|>\"\nstop                           \"<|eot_id|>\"",
+      "template": "{{ if .System }}<|start_header_id|>system<|end_header_id|>\n\n{{ .System }}<|eot_id|>{{ end }}{{ if .Prompt }}<|start_header_id|>user<|end_header_id|>\n\n{{ .Prompt }}<|eot_id|>{{ end }}<|start_header_id|>assistant<|end_header_id|>\n\n{{ .Response }}<|eot_id|>",
+      "system": null,
+      "loaded_model": {
+        "name": "llama3:8b",
+        "model": "llama3:8b",
+        "size": 5012193279,
+        "digest": "365c0bd3c000a25d28ddbf732fe1c6add414de7275464c4e4d1c3b5fcb5d8ad1",
+        "details": {
+          "parent_model": "",
+          "format": "gguf",
+          "family": "llama",
+          "families": [
+            "llama"
+          ],
+          "parameter_size": "8.0B",
+          "quantization_level": "Q4_0"
+        },
+        "expires_at": "2026-11-26T17:57:00.339544411-05:00",
+        "size_vram": 5012193279,
+        "context_length": 4096
+      }
+    },
+    {
+      "model": "deepseek-llm:7b",
+      "details": {
+        "parent_model": "",
+        "format": "gguf",
+        "family": "llama",
+        "families": null,
+        "parameter_size": "7B",
+        "quantization_level": "Q4_0"
+      },
+      "parameters": "num_ctx                        4096",
+      "template": "{{ .System }}\nUser: {{ .Prompt }}\n\nAssistant:",
+      "system": null,
+      "loaded_model": {
+        "name": "deepseek-llm:7b",
+        "model": "deepseek-llm:7b",
+        "size": 5870421277,
+        "digest": "9aab369a853bb12b8187d14eca701385f0a564cd2ae938fb4cbdb31bf2d43fc2",
+        "details": {
+          "parent_model": "",
+          "format": "gguf",
+          "family": "llama",
+          "families": null,
+          "parameter_size": "7B",
+          "quantization_level": "Q4_0"
+        },
+        "expires_at": "2026-11-26T17:57:32.497281678-05:00",
+        "size_vram": 5870421277,
+        "context_length": 4096
+      }
+    }
+  ],
+  "finished_at_utc": "2026-11-26T22:52:50+00:00"
+}

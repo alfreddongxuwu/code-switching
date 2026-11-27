@@ -1,0 +1,237 @@
+{
+  "schema_version": 1,
+  "policy": {
+    "third_language": "Entire row NA, including identified third-language content written in Latin script.",
+    "english_categories": "Named entities, brands, abbreviations and loanwords count as English and may form the only English content of a valid bilingual row.",
+    "misspellings": "Recognizable English misspellings and concatenations count as English without rewriting or retokenizing the original sentence.",
+    "uncertain_forms": "Ask the user for an explicit row-specific decision before inclusion.",
+    "contact_strings": "Preserve existing English tokenization, including em in em@160 and one token for pn-19.",
+    "sentence_summary_sd_ddof": 0,
+    "burstiness_sd_ddof": 0,
+    "welch_test": "Retain the usual Welch t-test variance definition; descriptive SD ddof=0 does not change the test."
+  },
+  "review_scope": "Assistant review of all distinct Latin/alphanumeric surface word forms across six corpora, plus original sentence contexts for exceptional forms and all 500 Llama rows. This is a frozen lexical review, not an automatic semantic language identifier.",
+  "reviewed_latin_word_forms": 1969,
+  "source_sha256": {
+    "data/human_baseline.csv": "36692f5cf1620caea5fe8debff3567ab1b32699f3a578177e6a549335147395e",
+    "outputs/full_large_10groups_5repeats/models/gemma/accepted.csv": "9b7f337ea3bea5224866b50bc97b2e1d1668e2f91430fb643182fb798601b078",
+    "outputs/full_large_10groups_5repeats/models/qwen/accepted.csv": "e5d9eec0a8c70b23c9c0f0b54ca657d0e01436a05b3eaf96ba6a793aabca2f55",
+    "outputs/full_large_10groups_5repeats/models/llama/accepted.csv": "fb2ff4fb41934d123e7e9b7bb100ffc9c5d5704645c425891a0f23f276433f44",
+    "outputs/full_large_10groups_5repeats/models/deepseek/accepted.csv": "245604d9bf0b00a99bc650de560f1590e70d9bde38a03e7f97638a7266df4342",
+    "outputs/full_gpt6_luna_10groups_5repeats/models/gpt/accepted.csv": "c5b82101944203beb65dfcf79ad240592a6c464c191e3ec42ef6282e0a2ebf66"
+  },
+  "decisions": [
+    {
+      "family": "llama",
+      "data_row": 52,
+      "sentence": "这个project的deadlin是明天，需要赶工。",
+      "decision": "keep_english",
+      "excerpt": "deadlin",
+      "basis": "recognizable_english_misspelling",
+      "note": "Recognizable deadline misspelling; retain the original one-token form.",
+      "reference": ""
+    },
+    {
+      "family": "llama",
+      "data_row": 75,
+      "sentence": "这个课程的prerequisite是 lapsus的基础知识。",
+      "decision": "keep_english",
+      "excerpt": "lapsus",
+      "basis": "english_loanword",
+      "note": "English dictionary entry; count as English regardless of contextual naturalness.",
+      "reference": "https://www.collinsdictionary.com/dictionary/english/lapsus"
+    },
+    {
+      "family": "llama",
+      "data_row": 94,
+      "sentence": "我想在这个暑假去美国旅游，访问尼agara Falls。",
+      "decision": "keep_english",
+      "excerpt": "agara Falls",
+      "basis": "recognizable_name_fragment",
+      "note": "Recognizable Niagara Falls name fragment; retain original token boundaries.",
+      "reference": ""
+    },
+    {
+      "family": "llama",
+      "data_row": 111,
+      "sentence": "我想找一个 Ekim 的 roommate。",
+      "decision": "keep_english",
+      "excerpt": "Ekim",
+      "basis": "user_adjudication",
+      "note": "User explicitly confirmed English for this form in this sentence.",
+      "reference": ""
+    },
+    {
+      "family": "llama",
+      "data_row": 143,
+      "sentence": "我的 dejtingsajt profile 里面写着我喜欢traveling和烹饪。",
+      "decision": "non_chinese_english",
+      "excerpt": "dejtingsajt",
+      "basis": "lexical_reference_and_context",
+      "note": "Swedish dating-site word modifying profile; exclude the entire sentence.",
+      "reference": "https://svenska.se/?activeTab=alla&q=dejtingsajt"
+    },
+    {
+      "family": "llama",
+      "data_row": 161,
+      "sentence": "这个project的budget还是蛮高的，需要考虑urchase一些设备。",
+      "decision": "keep_english",
+      "excerpt": "urchase",
+      "basis": "recognizable_english_misspelling",
+      "note": "Recognizable purchase fragment; retain the original one-token form.",
+      "reference": ""
+    },
+    {
+      "family": "llama",
+      "data_row": 174,
+      "sentence": "我刚刚看了最新的CSIppv，真的很thrilling。",
+      "decision": "keep_english",
+      "excerpt": "CSIppv",
+      "basis": "user_adjudication",
+      "note": "User explicitly confirmed English for this form in this sentence.",
+      "reference": ""
+    },
+    {
+      "family": "llama",
+      "data_row": 200,
+      "sentence": "这个 flattenedmanagement结构让我们感觉非常agile和flexible。",
+      "decision": "keep_english",
+      "excerpt": "flattenedmanagement",
+      "basis": "recognizable_english_concatenation",
+      "note": "Recognizable flattened/management concatenation; retain the original one-token form.",
+      "reference": ""
+    },
+    {
+      "family": "llama",
+      "data_row": 205,
+      "sentence": "这个项目的deadlinewas yesterday，所以我们需要赶工。",
+      "decision": "keep_english",
+      "excerpt": "deadlinewas",
+      "basis": "recognizable_english_concatenation",
+      "note": "Recognizable deadline/was concatenation; retain the original one-token form.",
+      "reference": ""
+    },
+    {
+      "family": "llama",
+      "data_row": 242,
+      "sentence": "aucoup de同学都喜欢在 星期六go shopping。",
+      "decision": "non_chinese_english",
+      "excerpt": "aucoup de",
+      "basis": "sentence_context",
+      "note": "French fragment corresponding to beaucoup de; exclude the entire sentence without correcting the text.",
+      "reference": ""
+    },
+    {
+      "family": "llama",
+      "data_row": 271,
+      "sentence": "我想買一個新的laptop，因為我的 cũ的不能用了。",
+      "decision": "non_chinese_english",
+      "excerpt": "cũ",
+      "basis": "lexical_reference_and_context",
+      "note": "Vietnamese word meaning old in the laptop context; exclude the entire sentence.",
+      "reference": "https://unicode.org/irg/docs/n2445r-VSourceGlyphChanges.pdf"
+    },
+    {
+      "family": "llama",
+      "data_row": 281,
+      "sentence": "我想吃一碗np-style早午餐。",
+      "decision": "keep_english",
+      "excerpt": "np-style",
+      "basis": "approved_abbreviation_policy",
+      "note": "Keep abbreviation plus style as one English token under the approved category and hyphen rules.",
+      "reference": ""
+    },
+    {
+      "family": "llama",
+      "data_row": 285,
+      "sentence": "请问这个room的rent是多少dolllar一个月?",
+      "decision": "keep_english",
+      "excerpt": "dolllar",
+      "basis": "recognizable_english_misspelling",
+      "note": "Recognizable dollar misspelling; retain the original one-token form.",
+      "reference": ""
+    },
+    {
+      "family": "llama",
+      "data_row": 290,
+      "sentence": "我喜欢这个cake的taste，特别是strawberry的avor。",
+      "decision": "keep_english",
+      "excerpt": "avor",
+      "basis": "recognizable_english_misspelling",
+      "note": "Recognizable flavor fragment in the cake/taste context; retain original form.",
+      "reference": ""
+    },
+    {
+      "family": "llama",
+      "data_row": 312,
+      "sentence": "ovatel传来的信件已经确认过了payment。",
+      "decision": "keep_english",
+      "excerpt": "ovatel",
+      "basis": "user_adjudication",
+      "note": "User explicitly confirmed English for this form in this sentence.",
+      "reference": ""
+    },
+    {
+      "family": "llama",
+      "data_row": 325,
+      "sentence": "我昨天晚上ANNER的flight被delay了两个小时。",
+      "decision": "keep_english",
+      "excerpt": "ANNER",
+      "basis": "user_adjudication",
+      "note": "User explicitly confirmed English for this form in this sentence.",
+      "reference": ""
+    },
+    {
+      "family": "llama",
+      "data_row": 353,
+      "sentence": "我需要一个assistant来help我avec这个project。",
+      "decision": "non_chinese_english",
+      "excerpt": "avec",
+      "basis": "sentence_context",
+      "note": "French avec in the help-with context; exclude the entire sentence.",
+      "reference": ""
+    },
+    {
+      "family": "llama",
+      "data_row": 430,
+      "sentence": "这个ficourse的难度level真的很高，需要很多practice。",
+      "decision": "keep_english",
+      "excerpt": "ficourse",
+      "basis": "recognizable_english_misspelling",
+      "note": "Recognizable course with a spurious prefix in the course-difficulty context; retain original form.",
+      "reference": ""
+    },
+    {
+      "family": "llama",
+      "data_row": 437,
+      "sentence": "我认为这个课程的难度太high了，所以我需要找一个utor。",
+      "decision": "keep_english",
+      "excerpt": "utor",
+      "basis": "recognizable_english_misspelling",
+      "note": "Recognizable tutor fragment in the course-help context; retain original form.",
+      "reference": ""
+    },
+    {
+      "family": "llama",
+      "data_row": 454,
+      "sentence": "我们 firmy 的文化是encourage 创新和teamwork。",
+      "decision": "keep_english",
+      "excerpt": "firmy",
+      "basis": "user_adjudication",
+      "note": "User explicitly confirmed English despite the alternative third-language reading.",
+      "reference": ""
+    },
+    {
+      "family": "llama",
+      "data_row": 138,
+      "sentence": "请把文件发送到我的email地址：person.name@example.com。",
+      "decision": "keep_english",
+      "excerpt": "person.name@example.com",
+      "basis": "public_contact_redaction",
+      "note": "Reserved example-domain contact placeholder; preserves four English tokens and original punctuation boundaries.",
+      "reference": ""
+    }
+  ],
+  "private_original_reviewed_latin_word_forms": 1970,
+  "public_contact_redaction_applied": true
+}

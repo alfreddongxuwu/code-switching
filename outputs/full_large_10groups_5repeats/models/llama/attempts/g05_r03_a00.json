@@ -1,0 +1,70 @@
+{
+  "request": {
+    "model": "llama3:70b",
+    "group_id": 5,
+    "repeat_id": 3,
+    "attempt_id": 0,
+    "seed": 2048,
+    "started_at_utc": "2026-11-26T23:54:18+00:00",
+    "payload": {
+      "model": "llama3:70b",
+      "prompt": "Code-switching refers to the alternation between two or more languages within a single utterance or discourse.\n\nBelow are ten examples of naturally occurring Mandarin–English code-switching:\n\n<examples>\n可以询问下applied linguistics的老师和同学，留心广告\n校医院有专门针对抑郁情绪的心理辅导，保险cover的\n我希望找妹子火速去office商量这件事。\n而且还有一些签证等paperwork需要提前处理。\n说话这么mean\napt是三居室，住的都是女生。\n不开party！\n物品的availability以google drive为准，欢迎询问。\nfully furnished拎包入住\n大家住过house就知道房东有多重要了！\n</examples>\n\nGenerate ten new Mandarin–English code-switched sentences in a range of linguistic styles, registers, and code-switching patterns. Each sentence should contain both Mandarin and English. Do not copy or closely paraphrase the examples. Return only a JSON array of ten strings, without explanations, translations, or annotations.\n",
+      "stream": false,
+      "keep_alive": "10m",
+      "options": {
+        "temperature": 0.8,
+        "top_p": 1.0,
+        "top_k": 0,
+        "min_p": 0.0,
+        "frequency_penalty": 0.0,
+        "presence_penalty": 0.0,
+        "repeat_penalty": 1.0,
+        "num_predict": 2048,
+        "num_ctx": 4096,
+        "seed": 2048
+      }
+    },
+    "slurm_job_id": "8790567",
+    "array_job_id": "8790508",
+    "array_task_id": "2"
+  },
+  "response": {
+    "model": "llama3:70b",
+    "created_at": "2026-11-26T23:54:20.13882258Z",
+    "response": "Here are ten new Mandarin–English code-switched sentences:\n\n```\n[\n  \"我觉得这个proposal需要更多的data analysis。\",\n  \"我们班上有很多interesting people，包括那个来自英国的exchange student。\",\n  \"我明天就要去",
+    "done": false
+  },
+  "accepted": false,
+  "sentences": [],
+  "packaging": "unparsed",
+  "issues": [
+    {
+      "type": "parse_error",
+      "detail": "No unique JSON string array could be extracted"
+    },
+    {
+      "type": "incomplete_generation",
+      "done_reason": null
+    }
+  ],
+  "loaded_model": {
+    "name": "llama3:70b",
+    "model": "llama3:70b",
+    "size": 40943736585,
+    "digest": "786f3184aec0e907952488b865362bdaa38180739a9881a8190d85bad8cab893",
+    "details": {
+      "parent_model": "",
+      "format": "gguf",
+      "family": "llama",
+      "families": [
+        "llama"
+      ],
+      "parameter_size": "70.6B",
+      "quantization_level": "Q4_0"
+    },
+    "expires_at": "2026-11-26T19:04:20.175027831-05:00",
+    "size_vram": 40943736585,
+    "context_length": 4096
+  },
+  "finished_at_utc": "2026-11-26T23:54:20+00:00"
+}

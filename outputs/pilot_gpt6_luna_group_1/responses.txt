@@ -1,0 +1,12 @@
+[
+  "这份报告的deadline是周五中午，大家别忘了提前提交。",
+  "我刚把presentation的slides发到群里了，麻烦你们看一下有没有需要修改的地方。",
+  "这个咖啡店氛围不错，wifi也很稳定，适合带电脑来赶project。",
+  "师傅，麻烦把空调调低一点，the room is getting too warm。",
+  "申请表已经填好了，不过还需要upload一份护照的扫描件。",
+  "她说今天的meeting可能会delay十分钟，我们先把议程过一遍吧。",
+  "这家餐厅的服务挺friendly的，但菜单上的vegetarian options不太多。",
+  "别担心，I’ll handle the booking，你只要告诉我大概几点到就行。",
+  "经过几轮讨论，团队终于决定把这个feature放到下一个release里。",
+  "看到你发来的照片了，the colors look amazing，周末我们也去那边拍一组吧。"
+]

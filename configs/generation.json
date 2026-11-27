@@ -1,0 +1,22 @@
+{
+  "options": {
+    "temperature": 0.8,
+    "top_p": 1.0,
+    "top_k": 0,
+    "min_p": 0.0,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "repeat_penalty": 1.0,
+    "num_predict": 2048,
+    "num_ctx": 4096
+  },
+  "seed_rule": {
+    "base_seed": 2026,
+    "repeats_per_group": 5,
+    "formula": "base_seed + repeats_per_group * (group_id - 1) + (repeat_id - 1)"
+  },
+  "qwen3_think": false,
+  "conversation_history": false,
+  "expected_sentences_per_response": 10,
+  "request_timeout_seconds": 900
+}

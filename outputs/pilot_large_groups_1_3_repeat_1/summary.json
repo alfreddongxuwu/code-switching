@@ -1,0 +1,207 @@
+{
+  "run_name": "pilot_large_groups_1_3_repeat_1",
+  "slurm_job_id": "8790084",
+  "requests": [
+    {
+      "model": "gemma3:27b",
+      "group_id": 1,
+      "repeat_id": 1,
+      "seed": 2026,
+      "status": "validation_issues",
+      "sentence_count": 0,
+      "issues": [
+        "Invalid JSON: Expecting value: line 1 column 1 (char 0)"
+      ],
+      "gpu_size_vram": 17489691934,
+      "done_reason": "stop",
+      "prompt_eval_count": 255,
+      "eval_count": 171
+    },
+    {
+      "model": "gemma3:27b",
+      "group_id": 2,
+      "repeat_id": 1,
+      "seed": 2031,
+      "status": "validation_issues",
+      "sentence_count": 0,
+      "issues": [
+        "Invalid JSON: Expecting value: line 1 column 1 (char 0)"
+      ],
+      "gpu_size_vram": 17489691934,
+      "done_reason": "stop",
+      "prompt_eval_count": 234,
+      "eval_count": 171
+    },
+    {
+      "model": "gemma3:27b",
+      "group_id": 3,
+      "repeat_id": 1,
+      "seed": 2036,
+      "status": "validation_issues",
+      "sentence_count": 0,
+      "issues": [
+        "Invalid JSON: Expecting value: line 1 column 1 (char 0)"
+      ],
+      "gpu_size_vram": 17489691934,
+      "done_reason": "stop",
+      "prompt_eval_count": 242,
+      "eval_count": 172
+    },
+    {
+      "model": "qwen3:32b",
+      "group_id": 1,
+      "repeat_id": 1,
+      "seed": 2026,
+      "status": "validation_issues",
+      "sentence_count": 0,
+      "issues": [
+        "Invalid JSON: Expecting value: line 1 column 1 (char 0)"
+      ],
+      "gpu_size_vram": 21030670171,
+      "done_reason": "stop",
+      "prompt_eval_count": 246,
+      "eval_count": 180
+    },
+    {
+      "model": "qwen3:32b",
+      "group_id": 2,
+      "repeat_id": 1,
+      "seed": 2031,
+      "status": "validation_issues",
+      "sentence_count": 0,
+      "issues": [
+        "Invalid JSON: Expecting value: line 1 column 1 (char 0)"
+      ],
+      "gpu_size_vram": 21030670171,
+      "done_reason": "stop",
+      "prompt_eval_count": 224,
+      "eval_count": 143
+    },
+    {
+      "model": "qwen3:32b",
+      "group_id": 3,
+      "repeat_id": 1,
+      "seed": 2036,
+      "status": "validation_issues",
+      "sentence_count": 0,
+      "issues": [
+        "Invalid JSON: Expecting value: line 1 column 1 (char 0)"
+      ],
+      "gpu_size_vram": 21030670171,
+      "done_reason": "stop",
+      "prompt_eval_count": 231,
+      "eval_count": 149
+    },
+    {
+      "model": "llama3:70b",
+      "group_id": 1,
+      "repeat_id": 1,
+      "seed": 2026,
+      "status": "validation_issues",
+      "sentence_count": 0,
+      "issues": [
+        "Invalid JSON: Expecting value: line 1 column 1 (char 0)"
+      ],
+      "gpu_size_vram": 40943736585,
+      "done_reason": "stop",
+      "prompt_eval_count": 268,
+      "eval_count": 156
+    },
+    {
+      "model": "llama3:70b",
+      "group_id": 2,
+      "repeat_id": 1,
+      "seed": 2031,
+      "status": "valid",
+      "sentence_count": 10,
+      "issues": [],
+      "gpu_size_vram": 40943736585,
+      "done_reason": "stop",
+      "prompt_eval_count": 235,
+      "eval_count": 146
+    },
+    {
+      "model": "llama3:70b",
+      "group_id": 3,
+      "repeat_id": 1,
+      "seed": 2036,
+      "status": "validation_issues",
+      "sentence_count": 0,
+      "issues": [
+        "Invalid JSON: Expecting value: line 1 column 1 (char 0)"
+      ],
+      "gpu_size_vram": 40943736585,
+      "done_reason": "stop",
+      "prompt_eval_count": 239,
+      "eval_count": 170
+    },
+    {
+      "model": "deepseek-llm:67b",
+      "group_id": 1,
+      "repeat_id": 1,
+      "seed": 2026,
+      "status": "validation_issues",
+      "sentence_count": 11,
+      "issues": [
+        "Expected 10 strings, received 11",
+        "Sentence 1 does not contain both Han characters and Latin letters",
+        "Sentence 2 does not contain both Han characters and Latin letters",
+        "Sentence 3 does not contain both Han characters and Latin letters",
+        "Sentence 4 does not contain both Han characters and Latin letters",
+        "Sentence 5 does not contain both Han characters and Latin letters",
+        "Sentence 6 does not contain both Han characters and Latin letters",
+        "Sentence 7 does not contain both Han characters and Latin letters",
+        "Sentence 8 does not contain both Han characters and Latin letters",
+        "Sentence 9 does not contain both Han characters and Latin letters",
+        "Sentence 10 does not contain both Han characters and Latin letters",
+        "Sentence 11 does not contain both Han characters and Latin letters"
+      ],
+      "gpu_size_vram": 39459991059,
+      "done_reason": "stop",
+      "prompt_eval_count": 253,
+      "eval_count": 194
+    },
+    {
+      "model": "deepseek-llm:67b",
+      "group_id": 2,
+      "repeat_id": 1,
+      "seed": 2031,
+      "status": "validation_issues",
+      "sentence_count": 10,
+      "issues": [
+        "Sentence 1 does not contain both Han characters and Latin letters",
+        "Sentence 2 does not contain both Han characters and Latin letters",
+        "Sentence 3 does not contain both Han characters and Latin letters",
+        "Sentence 4 does not contain both Han characters and Latin letters",
+        "Sentence 5 does not contain both Han characters and Latin letters",
+        "Sentence 6 does not contain both Han characters and Latin letters",
+        "Sentence 7 does not contain both Han characters and Latin letters",
+        "Sentence 8 does not contain both Han characters and Latin letters",
+        "Sentence 9 does not contain both Han characters and Latin letters",
+        "Sentence 10 does not contain both Han characters and Latin letters"
+      ],
+      "gpu_size_vram": 39459991059,
+      "done_reason": "stop",
+      "prompt_eval_count": 230,
+      "eval_count": 113
+    },
+    {
+      "model": "deepseek-llm:67b",
+      "group_id": 3,
+      "repeat_id": 1,
+      "seed": 2036,
+      "status": "valid",
+      "sentence_count": 10,
+      "issues": [],
+      "gpu_size_vram": 39459991059,
+      "done_reason": "stop",
+      "prompt_eval_count": 239,
+      "eval_count": 168
+    }
+  ],
+  "finished_requests": 12,
+  "valid_requests": 2,
+  "parsed_sentences": 41,
+  "updated_at_utc": "2026-11-26T23:16:17+00:00",
+  "all_12_requests_finished": true
+}

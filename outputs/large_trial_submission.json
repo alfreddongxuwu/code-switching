@@ -1,0 +1,47 @@
+{
+  "checked_at_utc": "2026-11-26T23:16:44.716867+00:00",
+  "small_model_archive": "archives/small_models_trial_job_8790045_20261126.tar.gz",
+  "download_job_id": "8790068",
+  "trial_job_id": "8790084",
+  "dependency": "afterok:8790068",
+  "trial_run_dir": "/path/to/code-switching/outputs/pilot_large_groups_1_3_repeat_1",
+  "download_inventory": "/path/to/code-switching/outputs/model_downloads_large/inventory.json",
+  "models": [
+    "gemma3:27b",
+    "qwen3:32b",
+    "llama3:70b",
+    "deepseek-llm:67b"
+  ],
+  "groups": [
+    1,
+    2,
+    3
+  ],
+  "repeat_id": 1,
+  "seeds": [
+    2026,
+    2031,
+    2036
+  ],
+  "expected_generation_requests": 12,
+  "gpu_partition": "debug-quad",
+  "gpus": 1,
+  "gpu_memory_gb": 80,
+  "generation_config": "configs/generation.json",
+  "all_large_models_verified": true,
+  "scheduler_status": {
+    "8790068": {
+      "state": "COMPLETED",
+      "exit_code": "0:0",
+      "elapsed": "00:06:43"
+    },
+    "8790084": {
+      "state": "COMPLETED",
+      "exit_code": "0:0",
+      "elapsed": "00:05:41"
+    }
+  },
+  "gpu_queue_at_check": "",
+  "trial_all_12_requests_finished": true,
+  "trial_valid_requests": 2
+}

@@ -1,0 +1,73 @@
+{
+  "config": {
+    "run_name": "full_gpt6_luna_10groups_5repeats",
+    "endpoint": "https://api.openai.com/v1/responses",
+    "model": "gpt-6-luna",
+    "groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "repeats_per_group": 5,
+    "batch_size": 10,
+    "max_reruns_per_batch": 3,
+    "retry_unit": "whole_batch",
+    "selection": "first_accepted_attempt",
+    "history": false,
+    "seed": null,
+    "retry_randomness": "A fresh independent API invocation; seed is not exposed by the Responses API.",
+    "parameters": {
+      "temperature": 0.8,
+      "top_p": 1.0,
+      "max_output_tokens": 2048,
+      "reasoning": {
+        "effort": "none"
+      },
+      "store": false,
+      "truncation": "disabled"
+    },
+    "phase_order": "Complete all 50 initial requests before attempting repairs.",
+    "language_screen": "Each of the ten strings must contain at least one Han character and at least one ASCII Latin letter. This is character screening, not semantic language identification.",
+    "operational_errors": "Record the dispatched attempt and stop on HTTP or connection errors. Never automatically resend the same request.",
+    "pilot_included": false,
+    "authorization": "User explicitly accepted independent random calls without controlled seeds and approved the full 10-group, 5-repeat GPT run with at most three whole-batch reruns."
+  },
+  "generation": {
+    "options": {
+      "temperature": 0.8,
+      "top_p": 1.0,
+      "top_k": 0,
+      "min_p": 0.0,
+      "frequency_penalty": 0.0,
+      "presence_penalty": 0.0,
+      "repeat_penalty": 1.0,
+      "num_predict": 2048,
+      "num_ctx": 4096
+    },
+    "seed_rule": {
+      "base_seed": 2026,
+      "repeats_per_group": 5,
+      "formula": "base_seed + repeats_per_group * (group_id - 1) + (repeat_id - 1)"
+    },
+    "qwen3_think": false,
+    "conversation_history": false,
+    "expected_sentences_per_response": 10,
+    "request_timeout_seconds": 900
+  },
+  "file_sha256": {
+    "configs/openai_full_run.json": "1c98319edbdeb42888c4d20e02d3b787dc420939a75eb946ff662bae0bba9648",
+    "configs/generation.json": "d2baafb095a528a386e7d34615a8b58ac9cc1ba91a5e7f919bb70e09162fd38f",
+    "data/prompts.jsonl": "3863081169bfcd610cef12e073026cf8d8d7914ba1f4c4a0837613ae504af101",
+    "scripts/run_full_openai.py": "a1b6f598b70633f1010c733e8b8fbab87f0a8ba1ab8adc34a6aa10405513a362",
+    "scripts/run_full_ollama.py": "fe2a446d655c503211c71c4a359379be66e907edb099bf334cb4ff7a0d830ea1",
+    "scripts/run_ollama_pilot.py": "48ac15b1c97d942a509f4cd26f609fe30729436b1afa555f45e7451b67cc75d9",
+    "run/openai_full.sbatch": "26c1bd0405efb2f21691f35f7b0e24df5b5a4cd082343e52ec4f3f56aa5e14f1"
+  }
+}

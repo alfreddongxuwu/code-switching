@@ -1,0 +1,43 @@
+{
+  "model": "llama3:70b",
+  "phase": "repair",
+  "started_at_utc": "2026-11-27T00:03:41+00:00",
+  "slurm_job_id": "8790624",
+  "array_job_id": "8790510",
+  "array_task_id": "2",
+  "hostname": "a0011.ten.osc.edu",
+  "cuda_visible_devices": "0",
+  "ollama_version": "0.32.0",
+  "loaded_model": {
+    "name": "llama3:70b",
+    "model": "llama3:70b",
+    "size": 40943736585,
+    "digest": "786f3184aec0e907952488b865362bdaa38180739a9881a8190d85bad8cab893",
+    "details": {
+      "parent_model": "",
+      "format": "gguf",
+      "family": "llama",
+      "families": [
+        "llama"
+      ],
+      "parameter_size": "70.6B",
+      "quantization_level": "Q4_0"
+    },
+    "expires_at": "2026-11-26T19:13:41.348095128-05:00",
+    "size_vram": 40943736585,
+    "context_length": 4096
+  },
+  "model_details": {
+    "parent_model": "",
+    "format": "gguf",
+    "family": "llama",
+    "families": [
+      "llama"
+    ],
+    "parameter_size": "70.6B",
+    "quantization_level": "Q4_0"
+  },
+  "template": "{{ if .System }}<|start_header_id|>system<|end_header_id|>\n\n{{ .System }}<|eot_id|>{{ end }}{{ if .Prompt }}<|start_header_id|>user<|end_header_id|>\n\n{{ .Prompt }}<|eot_id|>{{ end }}<|start_header_id|>assistant<|end_header_id|>\n\n{{ .Response }}<|eot_id|>",
+  "system": null,
+  "model_parameters": "num_keep                       24\nstop                           \"<|start_header_id|>\"\nstop                           \"<|end_header_id|>\"\nstop                           \"<|eot_id|>\""
+}

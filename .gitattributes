@@ -1,0 +1,12 @@
+# Keep corpus bytes stable for checksums and reproducible sampling.
+*.csv -text
+*.pdf binary
+*.jsonl text eol=lf
+*.py text eol=lf
+*.txt text eol=lf
+*.sbatch text eol=lf
+*.sha256 text eol=lf
+
+# Preserve exact bytes of experiment metadata and checksummed artifacts.
+/configs/** -text
+/outputs/** -text

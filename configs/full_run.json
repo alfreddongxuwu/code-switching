@@ -1,0 +1,14 @@
+{
+  "run_name": "full_large_10groups_5repeats",
+  "groups": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+  "repeats_per_group": 5,
+  "max_reruns_per_batch": 3,
+  "retry_seed_stride": 50,
+  "batch_size": 10,
+  "retry_unit": "whole_batch",
+  "selection": "first_accepted_attempt",
+  "history": false,
+  "format_handling": "Extract a unique JSON string array without rewriting sentence contents; retain all raw output.",
+  "language_screen": "Every item must contain at least one Han character and at least one ASCII Latin letter; this is a character-level screen, not semantic language identification.",
+  "phase_order": "Finish all four models' initial requests before any repair generation."
+}

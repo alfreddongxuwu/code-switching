@@ -1,0 +1,17 @@
+{
+  "started_at_utc": "2026-11-27T02:48:23+00:00",
+  "slurm_job_id": "8791618",
+  "hostname": "a0024.ten.osc.edu",
+  "model": "gpt-6-luna",
+  "seed_controlled": false,
+  "parameters": {
+    "temperature": 0.8,
+    "top_p": 1.0,
+    "max_output_tokens": 2048,
+    "reasoning": {
+      "effort": "none"
+    },
+    "store": false,
+    "truncation": "disabled"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "checked_at_utc": "2026-11-27T03:26:59+00:00",
+  "models": [
+    {
+      "model": "gemma3:27b",
+      "initial_accepted_batches": 50,
+      "rerun_requests": 0,
+      "accepted_sentences": 500,
+      "dispatched_requests": 50
+    },
+    {
+      "model": "qwen3:32b",
+      "initial_accepted_batches": 48,
+      "rerun_requests": 2,
+      "accepted_sentences": 500,
+      "dispatched_requests": 52
+    },
+    {
+      "model": "llama3:70b",
+      "initial_accepted_batches": 43,
+      "rerun_requests": 8,
+      "accepted_sentences": 500,
+      "dispatched_requests": 58
+    },
+    {
+      "model": "deepseek-llm:67b",
+      "initial_accepted_batches": 13,
+      "rerun_requests": 101,
+      "accepted_sentences": 500,
+      "dispatched_requests": 151
+    }
+  ],
+  "total_requests": 311,
+  "total_accepted_sentences": 2000,
+  "deepseek_continuation_new_requests": 23,
+  "deepseek_continuation_new_sentences": 90,
+  "effective_max_reruns_per_batch": {
+    "gemma": 3,
+    "qwen": 3,
+    "llama": 3,
+    "deepseek": 9
+  },
+  "prior_deepseek_raw_records_unchanged": true,
+  "other_three_model_corpora_unchanged": true,
+  "first_success_selection_verified": true,
+  "gpu_use_verified_for_all_ollama_requests": true,
+  "deepseek_second_continuation_new_requests": 4,
+  "deepseek_second_continuation_new_sentences": 20,
+  "all_ollama_models_have_500": true,
+  "all_five_models_total_accepted_sentences": 2500
+}

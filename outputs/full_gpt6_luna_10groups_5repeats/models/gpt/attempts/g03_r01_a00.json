@@ -1,0 +1,145 @@
+{
+  "request": {
+    "model": "gpt-6-luna",
+    "group_id": 3,
+    "repeat_id": 1,
+    "attempt_id": 0,
+    "seed": null,
+    "independent_call_id": "eb19771276d840fc9a2e66ce8a351f5d",
+    "started_at_utc": "2026-11-27T02:48:49+00:00",
+    "endpoint": "https://api.openai.com/v1/responses",
+    "payload": {
+      "temperature": 0.8,
+      "top_p": 1.0,
+      "max_output_tokens": 2048,
+      "reasoning": {
+        "effort": "none"
+      },
+      "store": false,
+      "truncation": "disabled",
+      "model": "gpt-6-luna",
+      "input": "Code-switching refers to the alternation between two or more languages within a single utterance or discourse.\n\nBelow are ten examples of naturally occurring Mandarin–English code-switching:\n\n<examples>\n多个卧室出租：价格：900-1250 / month。\nmaster要毕业的同学看过来~\n里面有三个卧室：bedroom 1.\n居住情况：有衣帽间，两人share一个卫生间。\nbathroom:二楼和地下室各有一个卫生间\n欢迎email或者电话咨询信息照片\n在家就可打印各种final考试资料。\nhouse中的一个最大房间，租金为：399$ /月。\n海尔洗衣机portable 1.\n两房中的一房现在出租，月租$450加utility。\n</examples>\n\nGenerate ten new Mandarin–English code-switched sentences in a range of linguistic styles, registers, and code-switching patterns. Each sentence should contain both Mandarin and English. Do not copy or closely paraphrase the examples. Return only a JSON array of ten strings, without explanations, translations, or annotations.\n"
+    },
+    "slurm_job_id": "8791618"
+  },
+  "response": {
+    "access_programs": null,
+    "background": false,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1795747731,
+    "created_at": 1795747729,
+    "error": null,
+    "frequency_penalty": 0.0,
+    "id": "resp_00bee89a0d81ff79016b08ef919a6887d1a20aaa3ce0bb3552",
+    "image": {
+      "context_compression": "disabled"
+    },
+    "incomplete_details": null,
+    "input_transformations": [],
+    "instructions": null,
+    "max_output_tokens": 2048,
+    "max_tool_calls": null,
+    "model": "gpt-6-luna",
+    "moderation": null,
+    "object": "response",
+    "output": [
+      {
+        "content": [
+          {
+            "annotations": [],
+            "logprobs": [],
+            "text": "[\n  \"周末去海边的话，记得带上 sunscreen 和一件薄外套。\",\n  \"这份报告我已经 revise 过了，你有空帮我 check 一下吗？\",\n  \"请各位同学在 Friday 之前提交 final version，逾期不候。\",\n  \"他刚搬到上海，还在 figuring out 怎么用地铁通勤。\",\n  \"感谢您联系我们，我们会尽快 follow up 并提供进一步的协助。\",\n  \"奶奶一听到那首 old song，就开始讲她年轻时的故事。\",\n  \"今天的会议 agenda 有点满，大家尽量 keep it short，好吗？\",\n  \"如果你不确定怎么填表，可以先 read the instructions，再问我。\",\n  \"这家小店的氛围很 chill，适合点杯咖啡慢慢 catch up。\",\n  \"导演用黑白画面营造了一种 nostalgic feeling，让整部电影更有层次。\"\n]",
+            "type": "output_text"
+          }
+        ],
+        "id": "msg_00bee89a0d81ff79016b08ef91e62087d18d72bed680eec489",
+        "phase": "final_answer",
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0.0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "none",
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "store": false,
+    "temperature": 0.8,
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    },
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1.0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 230,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cache_write_tokens_details": {
+          "ttl_12h_tokens": 0,
+          "ttl_30m_tokens": 0
+        },
+        "cached_tokens": 0
+      },
+      "output_tokens": 214,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 444
+    },
+    "user": null,
+    "metadata": {}
+  },
+  "api_request_id": "req_4796556ec14c4208bf7bc68c3a5dd173",
+  "accepted": true,
+  "sentences": [
+    "周末去海边的话，记得带上 sunscreen 和一件薄外套。",
+    "这份报告我已经 revise 过了，你有空帮我 check 一下吗？",
+    "请各位同学在 Friday 之前提交 final version，逾期不候。",
+    "他刚搬到上海，还在 figuring out 怎么用地铁通勤。",
+    "感谢您联系我们，我们会尽快 follow up 并提供进一步的协助。",
+    "奶奶一听到那首 old song，就开始讲她年轻时的故事。",
+    "今天的会议 agenda 有点满，大家尽量 keep it short，好吗？",
+    "如果你不确定怎么填表，可以先 read the instructions，再问我。",
+    "这家小店的氛围很 chill，适合点杯咖啡慢慢 catch up。",
+    "导演用黑白画面营造了一种 nostalgic feeling，让整部电影更有层次。"
+  ],
+  "packaging": "plain_json",
+  "issues": [],
+  "finished_at_utc": "2026-11-27T02:48:51+00:00"
+}

@@ -1,0 +1,338 @@
+MODEL: gemma3:4b | GROUP: 1 | REPEAT: 1 | SEED: 2026
+
+```json
+[
+  "我需要一个像样的wifi，最好是fiber optic，然后room service 也挺重要的。",
+  "Actually, the location is pretty convenient, close to the university library, you know?",
+  "这个公寓很适合短期居住，而且有健身房，简直太棒了。",
+  "我希望可以找到一个安静的地方，可以focus, 最好是靠近窗户。",
+  "我需要一个大的bathroom，至少两个卫生间，或者一个full bathroom and a half bathroom。",
+  "Just let me know if you need anything, okay?  Don’t hesitate to contact me.",
+  "我需要一个可以做饭的厨房，而且最好是equipped with all the appliances。",
+  "The price is negotiable, of course, but I’m hoping it’s within my budget, you understand?",
+  "I’m looking for a place with good ventilation, especially in the summer, seriously!",
+  "Can you show me the gym facilities?  And is there free wifi available?"
+]
+```
+
+========================================================================
+
+MODEL: gemma3:4b | GROUP: 2 | REPEAT: 1 | SEED: 2031
+
+```json
+[
+  "我需要一个bigger monitor, 这样可以更好地看视频。",
+  "这个软件挺好用的，但是interface有点复杂，需要重新设计。",
+  "今天天气不错，我们去海边放松一下吧，或者just chill。",
+  "我正在努力学习英语，希望下次考试能考到更高分。",
+  "这个项目 deadline 很紧，需要大家一起努力，don't slack off。",
+  "他总是喜欢用英文说一些很奇怪的词，有点意思。",
+  "虽然有点贵，但是这个东西质量很好，worth the price。",
+  "我需要一个好一点的 laptop, 至少要 16GB RAM。",
+  "他昨天说他要去旅行，可能去了很多地方，真的太酷了。",
+  "我今天感觉很累，需要好好休息一下， maybe just sleep a little longer."
+]
+```
+
+========================================================================
+
+MODEL: gemma3:4b | GROUP: 3 | REPEAT: 1 | SEED: 2036
+
+```json
+[
+  "我们今天要讨论一下 market trends，然后看看客户反馈。",
+  "This apartment is super convenient, close to the subway station, 真的。",
+  "请大家注意安全，尤其是下雨天，一定要 wear a raincoat。",
+  "The sales team needs to focus on increasing revenue, 还有，优化客户体验。",
+  "Okay, so the delivery time is usually around 3-5 days, 别着急。",
+  "This property offers stunning city views, 绝对不容错过。",
+  "Just confirm the booking details and send us a screenshot, 确认一下支付信息。",
+  "Let's schedule a meeting to discuss the project timeline, 并且，制定详细的行动计划。",
+  "The new kitchen appliances are energy-efficient, 节能环保，非常棒。",
+  "Don't forget to check the terms and conditions before signing the contract, 务必仔细阅读。"
+]
+```
+
+========================================================================
+
+MODEL: qwen3:8b | GROUP: 1 | REPEAT: 1 | SEED: 2026
+
+[
+  "这个位置靠近地铁，walk to station only 5 mins.",
+  "设备齐全，有wifi，TV，和free internet。",
+  "适合带小孩的家庭，child-friendly，安全。",
+  "可以提前预订，book now，保证有房。",
+  "房间有private bathroom，和queen size bed。",
+  "附近有grocery store，walk 10 mins可达。",
+  "现在有special offer，折扣30%。",
+  "提供免费breakfast，每天早上7点开始。",
+  "位置central，方便去shopping和entertainment。",
+  "可以选住单间或者double room，根据需求。"
+]
+
+========================================================================
+
+MODEL: qwen3:8b | GROUP: 2 | REPEAT: 1 | SEED: 2031
+
+[
+  "这个app界面很clean，操作起来很smooth。",
+  "如果需要帮忙，随时call我，我这边随时available。",
+  "周末去野餐，带点snack和water，别忘啦。",
+  "系统更新后，性能提升不少，运行起来更fluid。",
+  "今天天气不错，适合出去walk，air quality也挺好。",
+  "这个项目需要teamwork，大家合作才能完成。",
+  "记得设置好alarm，别迟到，work schedule很紧。",
+  "餐厅的service很quick，食物也fresh，推荐试试。",
+  "健身卡已经activate，可以随时去gyms锻炼。",
+  "明天会议时间是10am，记得confirm你的attendance。"
+]
+
+========================================================================
+
+MODEL: qwen3:8b | GROUP: 3 | REPEAT: 1 | SEED: 2036
+
+[
+  "这个公寓有两间卧室，其中一间是主卧，另一间可以作为guest room使用。",
+  "快递送到后，请记得在包裹上写上你的英文名，方便快递员识别。",
+  "今天天气不错，适合去公园野餐，记得带好防晒霜和遮阳帽。",
+  "我在找一份兼职工作，最好是远程的，这样可以在家工作，节省通勤时间。",
+  "这款手机性价比很高，价格只有$300，但是性能却很强大。",
+  "学习中文的时候，我觉得用拼音辅助记忆会更有效，尤其是声调部分。",
+  "餐厅的菜单上有几个特别推荐的菜，比如宫保鸡丁和麻婆豆腐，都是经典中式料理。",
+  "我最近在学做蛋糕，虽然还不太熟练，但已经能做出基本的海绵蛋糕了。",
+  "这个周末我要去参加一个英语角活动，希望可以多练习口语。",
+  "购物时如果遇到折扣，记得用优惠券，这样可以省下不少钱。"
+]
+
+========================================================================
+
+MODEL: llama3:8b | GROUP: 1 | REPEAT: 1 | SEED: 2026
+
+Here are ten new examples of Mandarin-English code-switching:
+
+[
+"Wǒ de new phone wǒò 500 yuan, /**
+
+jīngjīng dàibiàn
+(fair price) yǒu yī jiàng yǒu ",
+
+
+
+"tāmen miànjiàng dào le wǒde lǎoshī, /**
+
+he's a professor at Harvard University,
+
+
+zhōngguó rén hěn hǎo le tāmen de jiào yù",
+
+
+
+"wǒ kěyǐ wánquán Fànguó 5 jīniàn de jiāoyù lǐxíng, /**
+
+and I can finish my master's degree in 5 years,
+
+
+qínguò wǒ bìng bù xūyào fāngkù le ",
+
+
+
+"nǐ kěyǐ kāiche gòu chē zài zhōngguó, /**
+
+you can drive a car in China,
+
+
+dàn nǐ bù kěyǐ yóu yī gè zhōngguó rén de dònghù",
+
+
+
+"tāmen de gèrén xìngxīng chénggōng, /**
+
+they have a very high level of social skills,
+
+
+dàn wǒ bù kěyì yóu tāmen de húhún",
+
+
+
+"mōfāng de gōngsī xiāng kěyǐ, /**
+
+Apple company is great,
+
+
+dàn wǒ bù xīnghé tāmen de xīnxīn",
+
+
+
+"jīnzhèng de lǚxué rén yǒu 5 wǒ 6 wèi, /**
+
+the average age of the students is 5 or 6 years old,
+
+
+dàn wǒ bù xīnghé tāmen de xīnxīn",
+
+
+
+"mìngtiān de fāngxiàng jiàngshǎ, /**
+
+the future is very uncertain,
+
+
+dàn wǒ kěyǐ bù yóu tāmen de xiǎngxiǎng",
+
+
+
+"nǐ kěyǐ kǎishēng yī jiàn gōngsī, /**
+
+you can start your own company,
+
+
+dàn nǐ bù kěyì yóu tāmen de jiǎngnǐng",
+
+
+
+"zūyè de rénmen hěn xīnghé, /**
+
+every person is very competitive,
+
+
+dàn wǒ bù xīnghé tāmen de xīnxīn"
+]
+
+========================================================================
+
+MODEL: llama3:8b | GROUP: 2 | REPEAT: 1 | SEED: 2031
+
+Here are ten new Mandarin-English code-switched sentences:
+
+[
+"我想watch some old movies, have a big-screen weekend.",
+"她说'我很忙'，然后就去buy some last-minute gifts.",
+"他讨论了China的经济发展，后来分享了some interesting stats.",
+"这个app有很多cool features, but the interface is quite buggy.",
+"他说'我喜欢travel'，然后计划了一个around-the-world trip.",
+"我们需要find a reliable taxi service, so we can get to the airport on time.",
+"她分享了一个userId和password，claiming it was for 'testing purposes only'.",
+"他们计划在周末去play some golf, then watch the Sunday NFL game.",
+"这个新项目需要很多hard work, but the benefits will be huge.",
+"我需要返回to my hometown for New Year's, but it's a long way to go."
+]
+
+========================================================================
+
+MODEL: llama3:8b | GROUP: 3 | REPEAT: 1 | SEED: 2036
+
+Here are ten new Mandarin-English code-switched sentences:
+
+[
+"想去加拿大旅游，我已经预订了机票！",
+"这个app真的很好用，我每天都使用一次。",
+"我朋友说他想找个合适的 Python 教学方法。",
+"这个新手机真的太快了！我买的游戏有一点慢。",
+"我爱吃这个中国小吃，但外国人可能不太喜欢。",
+"我的家庭电影院已经建好，壁挂电视很cool！",
+"这个新项目需要我学习很多新的技术和语言。",
+"我家人说他们将到中国来visit我一个月。",
+"这个快递公司说他们将快速 deliver我的包裹。",
+"这个大城市真的太吵了！我需要一个小镇生活。"
+]
+
+========================================================================
+
+MODEL: deepseek-llm:7b | GROUP: 1 | REPEAT: 1 | SEED: 2026
+
+[
+    "The weather is great, let's go outside!",
+    "I'm so excited about this weekend, what about you?",
+    "Can you help me with this math problem? Thanks in advance!",
+    "I love this song, it's so catchy!",
+    "This restaurant has the best food, you have to try it!",
+    "I can't wait for the new movie to come out!",
+    "I need a break, let's take a walk instead!",
+    "I'm so happy for you, you deserve this!",
+    "I can't stop thinking about my vacation last year!",
+    "I'm so proud of you, you've come so far!"
+]
+
+========================================================================
+
+MODEL: deepseek-llm:7b | GROUP: 2 | REPEAT: 1 | SEED: 2031
+
+[
+  "骑自行车去学校需要15-18分钟，然后可以坐校园环线方便到达校园任何地方。",
+  "可以给新老生提供chase的信用卡referral。",
+  "因为share卫生间问题，限男生一名。",
+  "同时住的安静，不想social也可以过一个安静祥和的暑假。",
+  "车况非常好，clean title，无事故，省心省油。",
+  "什么size?",
+  "后院：deck。",
+  "如果感兴趣，请通过email联系em@11。",
+  "停车有很大的室内garage。",
+  "骑自行车去学校需要15-18分钟，然后坐校园环线方便到达校园任何地方。"
+]
+
+========================================================================
+
+MODEL: deepseek-llm:7b | GROUP: 3 | REPEAT: 1 | SEED: 2036
+
+[
+  {
+    "sentence": "你今日有空吗？",
+    "style": "casual",
+    "register": "neutral",
+    "code-switching": "Mandarin-English"
+  },
+  {
+    "sentence": "我会去参加明天的会议。",
+    "style": "informal",
+    "register": "neutral",
+    "code-switching": "Mandarin-English"
+  },
+  {
+    "sentence": "我收到你的邮件了。",
+    "style": "formal",
+    "register": "neutral",
+    "code-switching": "Mandarin-English"
+  },
+  {
+    "sentence": "你今天晚上有空吗？",
+    "style": "casual",
+    "register": "neutral",
+    "code-switching": "Mandarin-English"
+  },
+  {
+    "sentence": "我觉得这个方案很不错。",
+    "style": "informal",
+    "register": "neutral",
+    "code-switching": "Mandarin-English"
+  },
+  {
+    "sentence": "经理，我明天能请假吗？",
+    "style": "semi-formal",
+    "register": "neutral",
+    "code-switching": "Mandarin-English"
+  },
+  {
+    "sentence": "我们明天下午2点开会。",
+    "style": "formal",
+    "register": "neutral",
+    "code-switching": "Mandarin-English"
+  },
+  {
+    "sentence": "关于这个项目，我们需要讨论一下。",
+    "style": "informal",
+    "register": "neutral",
+    "code-switching": "Mandarin-English"
+  },
+  {
+    "sentence": "这个周末你有空吗？",
+    "style": "casual",
+    "register": "neutral",
+    "code-switching": "Mandarin-English"
+  },
+  {
+    "sentence": "我们下周一起去旅行吧。",
+    "style": "informal",
+    "register": "neutral",
+    "code-switching": "Mandarin-English"
+  }
+]

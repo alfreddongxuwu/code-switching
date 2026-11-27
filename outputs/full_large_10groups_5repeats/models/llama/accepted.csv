@@ -1,0 +1,501 @@
+﻿model,group_id,repeat_id,attempt_id,seed,sentence_id,sentence
+llama3:70b,1,1,0,2026,1,我想找一个有gym的房子。
+llama3:70b,1,1,0,2026,2,请带自己的water bottle来减少塑料废料。
+llama3:70b,1,1,0,2026,3,这是个非常nice的neighborhood，附近有很多restaurant。
+llama3:70b,1,1,0,2026,4,我需要一个可以surf internet的房间。
+llama3:70b,1,1,0,2026,5,这个project的deadline是下周five o'clock。
+llama3:70b,1,1,0,2026,6,我想参加这个summer camp，因为它很fun。
+llama3:70b,1,1,0,2026,7,这个电话号码是 Extensions 1234，请don't forget。
+llama3:70b,1,1,0,2026,8,这个房子有三个bedroom，两个bathroom。
+llama3:70b,1,1,0,2026,9,我需要一个可以print文件的打印机。
+llama3:70b,1,1,0,2026,10,这个中国餐厅的food非常delicious，值得一试。
+llama3:70b,1,2,0,2027,1,我喜欢看rom-com电影，尤其是当Hugh Grant出现。
+llama3:70b,1,2,0,2027,2,这个project的deadline是下周五，请注意。
+llama3:70b,1,2,0,2027,3,我的favorite food是pizza，特别是加了pepperoni的。
+llama3:70b,1,2,0,2027,4,我们公司的hr department会组织annual party。
+llama3:70b,1,2,0,2027,5,这个房子有三个living room，非常适合大的家庭。
+llama3:70b,1,2,0,2027,6,我正在读一本关于marketing的书籍，很有趣。
+llama3:70b,1,2,0,2027,7,这个城市的public transportation非常方便，可以使用credit card付款。
+llama3:70b,1,2,0,2027,8,我喜欢在weekend去hiking，感到非常relaxed。
+llama3:70b,1,2,0,2027,9,这个restaurant的服务态度非常friendly，推荐大家尝试。
+llama3:70b,1,2,0,2027,10,我需要买一个新的laptop，因为我的旧电脑已经很slow了。
+llama3:70b,1,3,1,2078,1,我明天要去sign up班，希望可以get a good spot。
+llama3:70b,1,3,1,2078,2,这个项目的goal是提高student engagement和motivation。
+llama3:70b,1,3,1,2078,3,我们公司的_core value是团队合作和创新。
+llama3:70b,1,3,1,2078,4,我喜欢这个城市的lifestyle，非常relaxed。
+llama3:70b,1,3,1,2078,5,这个产品的feature包括wireless charging和long battery life。
+llama3:70b,1,3,1,2078,6,我需要一个能够提供technical support的agent。
+llama3:70b,1,3,1,2078,7,这个酒店的amenities包括fitness center和outdoor pool。
+llama3:70b,1,3,1,2078,8,我认为这个项目的vision非常forward-thinking。
+llama3:70b,1,3,1,2078,9,这个课程的prerequisite是passed the entrance exam。
+llama3:70b,1,3,1,2078,10,我喜欢这个餐厅的ambiance，非常romantic。
+llama3:70b,1,4,0,2029,1,我喜欢喝coffee，因为它能提神。
+llama3:70b,1,4,0,2029,2,这个软件的interface非常friendly。
+llama3:70b,1,4,0,2029,3,我朋友的birthday party是在Friday晚上 seven o'clock。
+llama3:70b,1,4,0,2029,4,我们公司的 mission statement是strive for excellence。
+llama3:70b,1,4,0,2029,5,这个城市的public transportation非常convenient。
+llama3:70b,1,4,0,2029,6,我最喜欢的_subject是math，因为它很logic。
+llama3:70b,1,4,0,2029,7,这个新式的restaurant的decorations非常 fancy。
+llama3:70b,1,4,0,2029,8,我们需要更好的communication skills来avoid misunderstanding。
+llama3:70b,1,4,0,2029,9,这个研究project的objective是to explore新的technology。
+llama3:70b,1,4,0,2029,10,我最喜欢的hobby是playing basketball，因为它很exciting。
+llama3:70b,1,5,0,2030,1,我想找一个靠近school的房子，preferably with a backyard。
+llama3:70b,1,5,0,2030,2,这个项目的investment return rate蛮高的，around 12% per annum。
+llama3:70b,1,5,0,2030,3,我朋友的老婆是一个successful businesswoman，拥有多家restaurant。
+llama3:70b,1,5,0,2030,4,这个课程的 prerequisites包括(calculus 和 statistics)。
+llama3:70b,1,5,0,2030,5,我们需要一个有经验的project manager来handle这个项目。
+llama3:70b,1,5,0,2030,6,我喜欢这个城市的lifestyle，非常适合young professionals。
+llama3:70b,1,5,0,2030,7,"这个房子的rental income蛮高的，每月可以earn around 2,000块钱。"
+llama3:70b,1,5,0,2030,8,这个公司的employee benefits包括(gym membership 和free lunch)。
+llama3:70b,1,5,0,2030,9,我认为这个股票的market value蛮高的，现在是good time to invest。
+llama3:70b,1,5,0,2030,10,这个neighborhood的security蛮好的，有many police officers巡逻。
+llama3:70b,2,1,0,2031,1,我订购了一个新的laptop，屏幕很大。
+llama3:70b,2,1,0,2031,2,这个project的deadlin是明天，需要赶工。
+llama3:70b,2,1,0,2031,3,我不喜欢这个房子的layout，太挤。
+llama3:70b,2,1,0,2031,4,如果你需要帮助，please contact我。
+llama3:70b,2,1,0,2031,5,我认为这个菜式的taste非常好。
+llama3:70b,2,1,0,2031,6,我已经寄出了申请表单，waiting for回复。
+llama3:70b,2,1,0,2031,7,这个城市的交通很方便，有很多bus routes。
+llama3:70b,2,1,0,2031,8,我非常喜欢这个设计的style，很modern。
+llama3:70b,2,1,0,2031,9,我需要一个好的investment建议，谁可以提供？
+llama3:70b,2,1,0,2031,10,这个英语讲座的difficulty level太高了，我需要降级。
+llama3:70b,2,2,1,2082,1,我喜欢的品牌是Nike，因为它的quality很好。
+llama3:70b,2,2,1,2082,2,这所学校的教育模式很modern，强调(project-based)学习。
+llama3:70b,2,2,1,2082,3,我们需要一个strong的团队来完成这个task。
+llama3:70b,2,2,1,2082,4,我的兴趣爱好包括playing basketball、listening to music和reading novels。
+llama3:70b,2,2,1,2082,5,这个room的设施包括air conditioner、热水器和free Wi-Fi。
+llama3:70b,2,2,1,2082,6,我不喜欢这个movie，因为plot太复杂了。
+llama3:70b,2,2,1,2082,7,我们需要更多的funding来支持这个project。
+llama3:70b,2,2,1,2082,8,这个词典对我的学习非常有帮助，因为它有很多clear的解释。
+llama3:70b,2,2,1,2082,9,我喜欢这个restaurant，因为它的food非常delicious。
+llama3:70b,2,2,1,2082,10,这个城市的交通很convenient，坐地铁很方便到达市中心。
+llama3:70b,2,3,0,2033,1,我想吃一個美味的breakfast，例如scrambled eggs和sausage。
+llama3:70b,2,3,0,2033,2,我们的新产品将提供free shipping和包装服务。
+llama3:70b,2,3,0,2033,3,这个项目的mission是帮助disadvantaged青少年。
+llama3:70b,2,3,0,2033,4,我喜欢在週末去beach relax一下。
+llama3:70b,2,3,0,2033,5,这个课程的prerequisite是 lapsus的基础知识。
+llama3:70b,2,3,0,2033,6,我认为这个问题的key point是communication。
+llama3:70b,2,3,0,2033,7,我们的公司提供了many benefits，包括401k和health insurance。
+llama3:70b,2,3,0,2033,8,我建议你去visit博物馆，展覽的topic是ancient civilizations。
+llama3:70b,2,3,0,2033,9,这个new policy的目的是为了increase transparency。
+llama3:70b,2,3,0,2033,10,我认为这个项目的outcome是非常positive的。
+llama3:70b,2,4,1,2084,1,我昨天看到一个很cool的电影trailer。
+llama3:70b,2,4,1,2084,2,我们的company需要一个新的marketing strategy。
+llama3:70b,2,4,1,2084,3,我想去bar里喝一个coffee，but他们不让我们smoke。
+llama3:70b,2,4,1,2084,4,这个project的budget是多少money?
+llama3:70b,2,4,1,2084,5,我很喜欢这个城市的lifestyle，但房租太expensive。
+llama3:70b,2,4,1,2084,6,我昨天-бought一个新的laptop，processor是intel的。
+llama3:70b,2,4,1,2084,7,我们的teacher让我们写一篇关于climate change的essay。
+llama3:70b,2,4,1,2084,8,我昨天去gym锻炼身体，now我很tired。
+llama3:70b,2,4,1,2084,9,这个restaurant的food quality是很high的，我很喜欢他们的service。
+llama3:70b,2,4,1,2084,10,我想去beach游泳，但weather预报说会下雨。
+llama3:70b,2,5,0,2035,1,我喜欢的运动是hiking，因为可以接近大自然。
+llama3:70b,2,5,0,2035,2,这个礼物适合给任何一个好友作为birthday礼物。
+llama3:70b,2,5,0,2035,3,老师说我们需要更多的practice来提高英语口语。
+llama3:70b,2,5,0,2035,4,我想在这个暑假去美国旅游，访问尼agara Falls。
+llama3:70b,2,5,0,2035,5,我们公司的mission是提供高质量的customer service。
+llama3:70b,2,5,0,2035,6,这个专业的研究方向是machine learning和人工智能。
+llama3:70b,2,5,0,2035,7,我喜欢的音乐类型是rock music，因为很激励。
+llama3:70b,2,5,0,2035,8,我们的宿舍楼有一个大的common room供大家social。
+llama3:70b,2,5,0,2035,9,这个城市的交通很便利，有很多bus routes和bike lanes。
+llama3:70b,2,5,0,2035,10,我最喜欢的餐厅是pizza hut，因为他们的pizza很美味。
+llama3:70b,3,1,0,2036,1,我们公司的mission statement是to be the best in the industry。
+llama3:70b,3,1,0,2036,2,这个产品的功能包括automatic translation和语音识别。
+llama3:70b,3,1,0,2036,3,我朋友的birthday party是在Friday晚上7点at the downtown bar。
+llama3:70b,3,1,0,2036,4,这个项目的目标audience是年轻白领和学生。
+llama3:70b,3,1,0,2036,5,我们需要一个强大的marketing strategy来推广这个新产品。
+llama3:70b,3,1,0,2036,6,我的兴趣爱好包括playing basketball和watching American movies。
+llama3:70b,3,1,0,2036,7,这个房子的价格是每平方米1500块，包括两个car parks。
+llama3:70b,3,1,0,2036,8,我们公司的Core Values是innovation、teamwork和customer satisfaction。
+llama3:70b,3,1,0,2036,9,这个课程的内容包括Introduction to Python和数据分析。
+llama3:70b,3,1,0,2036,10,这个城市的交通系统包括subway、bus和taxi services。
+llama3:70b,3,2,0,2037,1,我想找一个 Ekim 的 roommate。
+llama3:70b,3,2,0,2037,2,请注意，this Saturday 的 party 开始时间是 8 点。
+llama3:70b,3,2,0,2037,3,我家里的 WiFi密码是 my name。
+llama3:70b,3,2,0,2037,4,这个月的房租是 1200 块，加上 utilities 的话。
+llama3:70b,3,2,0,2037,5,我不喜欢这个 neighborhood，因为交通很 inconvenient。
+llama3:70b,3,2,0,2037,6,如果你需要帮助，just give me a call。
+llama3:70b,3,2,0,2037,7,我很喜欢这个 coffee shop，因为他们有很多种类的咖啡。
+llama3:70b,3,2,0,2037,8,我明天要去 Bank of America 领取现金。
+llama3:70b,3,2,0,2037,9,这个礼物我想送给我的 best friend。
+llama3:70b,3,2,0,2037,10,我喜欢这个城市，因为这里有很多娱乐活动，like hiking 和 camping。
+llama3:70b,3,3,0,2038,1,我的电脑出了问题，需要跑去Best Buy修理。
+llama3:70b,3,3,0,2038,2,这个项目的deadline 是下周Friday，所以要快点。
+llama3:70b,3,3,0,2038,3,我刚刚看完了那本novel，感觉很 Touching。
+llama3:70b,3,3,0,2038,4,这个房子有三个bathroom，挺方便的。
+llama3:70b,3,3,0,2038,5,我老师说这个course很难，所以我要好好准备。
+llama3:70b,3,3,0,2038,6,在台北的那个restaurant，food是非常delicious的。
+llama3:70b,3,3,0,2038,7,我的好友邀请我去看电影，演的是关于social justice的。
+llama3:70b,3,3,0,2038,8,这个公司的文化很open，允许员工wear casual clothes。
+llama3:70b,3,3,0,2038,9,我喜欢这个neighborhood，因为这里有很多trees和parks。
+llama3:70b,3,3,0,2038,10,我们班上的group project得了highest score，大家都很high的。
+llama3:70b,3,4,0,2039,1,我喜欢这个neighborhood，因为这里有很多restaurant。
+llama3:70b,3,4,0,2039,2,请注意，考试时间是next Friday morning。
+llama3:70b,3,4,0,2039,3,"这个项目的budget大约是$10,000 USD。"
+llama3:70b,3,4,0,2039,4,如果你需要帮助，请 contact 我的assistant。
+llama3:70b,3,4,0,2039,5,"我们家的地址是123 Main St., Apt. 3B。"
+llama3:70b,3,4,0,2039,6,我不喜欢这个movie，因为ending太 projector。
+llama3:70b,3,4,0,2039,7,这个课程的难度level是advanced，所以需要很多practice。
+llama3:70b,3,4,0,2039,8,请把文件发送到我的email地址：person.name@example.com。
+llama3:70b,3,4,0,2039,9,这个公寓的设施包括gym、swimming pool和tennis court。
+llama3:70b,3,4,0,2039,10,这是一个非常好的investment机会，因为这stack的股票价格会上涨。
+llama3:70b,3,5,0,2040,1,我昨天晚上看了电影The Shawshank Redemption。
+llama3:70b,3,5,0,2040,2,我们公司的 Dress Code 是-business casual。
+llama3:70b,3,5,0,2040,3,我的 dejtingsajt profile 里面写着我喜欢traveling和烹饪。
+llama3:70b,3,5,0,2040,4,如果你需要help，我可以给你提供一些suggestions。
+llama3:70b,3,5,0,2040,5,我最喜欢的食物是pizza和fried chicken，尤其是肯德基。
+llama3:70b,3,5,0,2040,6,我们的team leader要求我们每周提交weekly report。
+llama3:70b,3,5,0,2040,7,我已经读完了三本书，包括To Kill a Mockingbird。
+llama3:70b,3,5,0,2040,8,这个房子有三个bedrooms和两个bathrooms，很适合family living。
+llama3:70b,3,5,0,2040,9,如果你想了解更多关于我们的产品信息，请点击website。
+llama3:70b,3,5,0,2040,10,我们需要报名参加这个seminar，因为它对我们的career development很重要。
+llama3:70b,4,1,0,2041,1,我在office里面设了一个private workspace。
+llama3:70b,4,1,0,2041,2,这个project的budget是三十万块左右，需要报给accountant。
+llama3:70b,4,1,0,2041,3,如果你需要technical support，请联系我们的客服team。
+llama3:70b,4,1,0,2041,4,我们公司的mission是提供高quality的服务和产品。
+llama3:70b,4,1,0,2041,5,这个particular model的价格是二十五万元，包括free shipping。
+llama3:70b,4,1,0,2041,6,我喜欢这个neighborhood，因为这里有很多trendy的小店。
+llama3:70b,4,1,0,2041,7,我们的公司文化非常emphasize团队合作和communication。
+llama3:70b,4,1,0,2041,8,这个course的syllabus包括项目管理、市场营销和financial analysis。
+llama3:70b,4,1,0,2041,9,如果你需要help，请call我手机号码138-xxxx-xxxx。
+llama3:70b,4,1,0,2041,10,这个apartment的decorations都是由专业的interior designer设计的。
+llama3:70b,4,2,0,2042,1,这个project的budget还是蛮高的，需要考虑urchase一些设备。
+llama3:70b,4,2,0,2042,2,我弟弟在美国读的书都很interesting，我想借来看看。
+llama3:70b,4,2,0,2042,3,我们公司的culture非常open，鼓励大家分享idea。
+llama3:70b,4,2,0,2042,4,这个房子离city centre只有十五分钟的车程，非常方便。
+llama3:70b,4,2,0,2042,5,我的朋友是lawyer，帮我review了合同，没问题。
+llama3:70b,4,2,0,2042,6,我感冒了，需要买些medicine，请你代我去药店。
+llama3:70b,4,2,0,2042,7,这个课程的curriculum设计得非常好，值得推荐。
+llama3:70b,4,2,0,2042,8,我喜欢这个设计的style，非常modern和fashion。
+llama3:70b,4,2,0,2042,9,我们需要更换新的Switch，否则网络会很慢。
+llama3:70b,4,2,0,2042,10,这个餐厅的food是 authentic的中国菜，非常好吃。
+llama3:70b,4,3,0,2043,1,我们学校的computer lab很advanced，里面有很多台Mac。
+llama3:70b,4,3,0,2043,2,我最喜欢的运动是hiking，因为可以享受大自然。
+llama3:70b,4,3,0,2043,3,这个project的deadline是下周五，请大家尽量早点完成。
+llama3:70b,4,3,0,2043,4,我刚刚看了最新的CSIppv，真的很thrilling。
+llama3:70b,4,3,0,2043,5,如果你需要help，可以随时找到我，因为我office就在楼下。
+llama3:70b,4,3,0,2043,6,我的favorite food是pizza， especially那家新开的店。
+llama3:70b,4,3,0,2043,7,我们公司的goal是达到annual sales的一百万美元。
+llama3:70b,4,3,0,2043,8,我很喜欢听music，especially classic的那種。
+llama3:70b,4,3,0,2043,9,这个城市的交通非常convenient，有很多种选择。
+llama3:70b,4,3,0,2043,10,我们家附近有一个非常nice的gym，设施很complete。
+llama3:70b,4,4,0,2044,1,我喜欢这个brand的新款式，especially the color。
+llama3:70b,4,4,0,2044,2,我们公司的mission statement是让客户感到happy和满意。
+llama3:70b,4,4,0,2044,3,这个项目的进度已经delay了三个month，我很frustrated。
+llama3:70b,4,4,0,2044,4,我uesday要去gym健身，需要穿 ورزشیshoes。
+llama3:70b,4,4,0,2044,5,这个新员工的performance真的很outstanding。
+llama3:70b,4,4,0,2044,6,我最喜欢的meal是意大利面加cheese和bacon。
+llama3:70b,4,4,0,2044,7,我们的团队需要一个strong leader来带领我们。
+llama3:70b,4,4,0,2044,8,我喜欢在desktop上工作，因为可以更好地organize我的文件。
+llama3:70b,4,4,0,2044,9,这个新的政策对环境的impact真的很huge。
+llama3:70b,4,4,0,2044,10,我需要一个assistant来help我处理这些emails。
+llama3:70b,4,5,0,2045,1,这个项目的pitch非常professional，让我们感觉很靠谱。
+llama3:70b,4,5,0,2045,2,我_TODO_list上面有很多任务需要check off。
+llama3:70b,4,5,0,2045,3,我们公司的reputation非常好，在industry里面很有名气。
+llama3:70b,4,5,0,2045,4,请注意这个offer的expiration date是明天。
+llama3:70b,4,5,0,2045,5,这个neighborhood的security非常好，有很多巡逻的police。
+llama3:70b,4,5,0,2045,6,我去年在纽约的trip非常HIGHlights，是我最喜欢的travel经历。
+llama3:70b,4,5,0,2045,7,这个course的difficulty level非常高，需要很多努力。
+llama3:70b,4,5,0,2045,8,我们的teamlead非常encouraging，让我们感觉很motivated。
+llama3:70b,4,5,0,2045,9,这个.Threading的技术非常advanced，可以实现很多parallel processing。
+llama3:70b,4,5,0,2045,10,这个 flattenedmanagement结构让我们感觉非常agile和flexible。
+llama3:70b,5,1,0,2046,1,我需要检查一下today's schedule再决定行程。
+llama3:70b,5,1,0,2046,2,这个软件的interface真的很user-friendly。
+llama3:70b,5,1,0,2046,3,我们需要讨论一下business plan然后决定投资。
+llama3:70b,5,1,0,2046,4,我前天看到一个很cool的展览just outside the city。
+llama3:70b,5,1,0,2046,5,这个项目的deadlinewas yesterday，所以我们需要赶工。
+llama3:70b,5,1,0,2046,6,我朋友的公司正在招聘sales manager，很适合你。
+llama3:70b,5,1,0,2046,7,这个房子的rental fee包括所有的utility bills。
+llama3:70b,5,1,0,2046,8,我喜欢在parking lot旁边的café，因为可以看到整个city。
+llama3:70b,5,1,0,2046,9,我们需要review一下这份报告find out some mistakes。
+llama3:70b,5,1,0,2046,10,这个课程的prerequisite是心理统计学，所以需要选修。
+llama3:70b,5,2,0,2047,1,我跟我的brother一起去gym锻炼身体。
+llama3:70b,5,2,0,2047,2,这个project的deadline是下 Monday，所以我们要赶快。
+llama3:70b,5,2,0,2047,3,我很喜欢这个brand的design，所以我常去他们的官网。
+llama3:70b,5,2,0,2047,4,老师说我们需要review一下chapter三的内容。
+llama3:70b,5,2,0,2047,5,我觉得这个政策对环境的impact是非常正面的。
+llama3:70b,5,2,0,2047,6,我一般喜欢在coffee shop里学习，因为氛围很好。
+llama3:70b,5,2,0,2047,7,这个礼物很适合我妹妹的style，我要送给她。
+llama3:70b,5,2,0,2047,8,我参加了那个seminar，内容真的很rich。
+llama3:70b,5,2,0,2047,9,这个饭店的food quality真的很高，我们常去吃。
+llama3:70b,5,2,0,2047,10,我认为这个方法对我们的小组project很有helpful。
+llama3:70b,5,3,2,2148,1,我明天要去bank办理贷款申请的文件。
+llama3:70b,5,3,2,2148,2,这是我的CV，包括了所有的work experience。
+llama3:70b,5,3,2,2148,3,我们公司的policy是不能经常late的。
+llama3:70b,5,3,2,2148,4,Don't forget to bring 是自己的laptop和charger。
+llama3:70b,5,3,2,2148,5,我不喜欢这个item，因为质量不太good。
+llama3:70b,5,3,2,2148,6,我们需要一个expert来fix这个问题。
+llama3:70b,5,3,2,2148,7,这是一个非常好的investment机会，不要miss。
+llama3:70b,5,3,2,2148,8,我认为这个plan不太realistic，需要revise。
+llama3:70b,5,3,2,2148,9,请你把这个document翻译成English。
+llama3:70b,5,3,2,2148,10,我已经申请了这个program，等待着response。
+llama3:70b,5,4,0,2049,1,我明天要去bank开户，需要带身份证和护照。
+llama3:70b,5,4,0,2049,2,这顿饭吃得太greasy，需要喝点儿water。
+llama3:70b,5,4,0,2049,3,我想报读master的program，但需要提高托福成绩。
+llama3:70b,5,4,0,2049,4,你看过那篇关于climate change的paper吗？
+llama3:70b,5,4,0,2049,5,我需要一个assistant来help我写这篇论文。
+llama3:70b,5,4,0,2049,6,我们班级需要一个team leader来带领我们。
+llama3:70b,5,4,0,2049,7,这个酒店的设施非常nice，包括swimming pool和gym。
+llama3:70b,5,4,0,2049,8,我需要一个正式的invitation letter来申请签证。
+llama3:70b,5,4,0,2049,9,我们应该早点儿把project做完，我们不想last minute。
+llama3:70b,5,4,0,2049,10,这个course的难度真的很high，需要很努力才能pass。
+llama3:70b,5,5,0,2050,1,我觉得这个project的难度level太高了。
+llama3:70b,5,5,0,2050,2,aucoup de同学都喜欢在 星期六go shopping。
+llama3:70b,5,5,0,2050,3,这个新政策的implementation还需要further discussion。
+llama3:70b,5,5,0,2050,4,我的哥哥在美国读了很多年books。
+llama3:70b,5,5,0,2050,5,我不喜欢这个movie的ending，太sad了。
+llama3:70b,5,5,0,2050,6,我们需要more data来support这个claim。
+llama3:70b,5,5,0,2050,7,我非常喜欢这个restaurant的ambiance。
+llama3:70b,5,5,0,2050,8,这家公司的mission statement真的很inspiring。
+llama3:70b,5,5,0,2050,9,我想请教练help我improve我的tennis skills。
+llama3:70b,5,5,0,2050,10,这个城市的traffic situation真的很 chaotic。
+llama3:70b,6,1,0,2051,1,我想买一台新的laptop，因为我的老的已经很慢。
+llama3:70b,6,1,0,2051,2,请注意， Bedroom Window对面就是main street。
+llama3:70b,6,1,0,2051,3,我可以带你去见我的doctor，检查你的health。
+llama3:70b,6,1,0,2051,4,这个项目的budget是多少钱？请给我一个明细的report。
+llama3:70b,6,1,0,2051,5,我_ops的经验还不够，所以我想找一份相关的internship。
+llama3:70b,6,1,0,2051,6,如果你需要帮助，请联系我的colleague，Emily。
+llama3:70b,6,1,0,2051,7,这个apartment的rent包括所有的utilities fees。
+llama3:70b,6,1,0,2051,8,我很喜欢这个brand的clothes，especially他们的winter collection。
+llama3:70b,6,1,0,2051,9,这个课程的讲义已经上传到online platform，请自行下载。
+llama3:70b,6,1,0,2051,10,我计划参加这个conference，讨论最新的marketing trends。
+llama3:70b,6,2,0,2052,1,我想买一个新的laptop，Intel Core i7的。
+llama3:70b,6,2,0,2052,2,我们公司需要一个marketing manager，管銷售。
+llama3:70b,6,2,0,2052,3,这个job posting很吸引人，starting salary $8万。
+llama3:70b,6,2,0,2052,4,我喜欢这个neighborhood，交通很方便，near subway。
+llama3:70b,6,2,0,2052,5,我们团队需要一个data analyst，会使用Python。
+llama3:70b,6,2,0,2052,6,我想在这个community college学习English literature。
+llama3:70b,6,2,0,2052,7,这个房子有三个bedrooms，两个bathrooms，rent是$2万。
+llama3:70b,6,2,0,2052,8,我需要一个personal trainer，教我weightlifting。
+llama3:70b,6,2,0,2052,9,这个项目需要一个project manager，管budget。
+llama3:70b,6,2,0,2052,10,我喜欢这个coffee shop，free Wi-Fi，很适合remote work。
+llama3:70b,6,3,0,2053,1,我想買一個新的laptop，因為我的 cũ的不能用了。
+llama3:70b,6,3,0,2053,2,請問這個flat的rent是多少per month?
+llama3:70b,6,3,0,2053,3,我昨天看了一部英文movie，覺得非常exciting。
+llama3:70b,6,3,0,2053,4,我們公司的CEO是個very nice人。
+llama3:70b,6,3,0,2053,5,這個dish的recipe需要add一些special sauce。
+llama3:70b,6,3,0,2053,6,我需要一個assistant幫助我寫一篇英文paper。
+llama3:70b,6,3,0,2053,7,這間restaurant的food是非常delicious的。
+llama3:70b,6,3,0,2053,8,我家附近有一個big supermarket，sell很多種類的food。
+llama3:70b,6,3,0,2053,9,我們team需要一個project manager幫助我們manage這個project。
+llama3:70b,6,3,0,2053,10,我需要一個新的passport，因為我的舊的快expire了。
+llama3:70b,6,4,0,2054,1,我想吃一碗np-style早午餐。
+llama3:70b,6,4,0,2054,2,这个项目的deadline是下周Friday，所以赶紧/
+llama3:70b,6,4,0,2054,3,你有没有hear关于新的policy的消息?
+llama3:70b,6,4,0,2054,4,我需要一个large-sized的旅行箱，能装很多clothes。
+llama3:70b,6,4,0,2054,5,请问这个room的rent是多少dolllar一个月?
+llama3:70b,6,4,0,2054,6,我们需要更多的funding来支持这个项目。
+llama3:70b,6,4,0,2054,7,我_Filter的照片发到了Instagram上。
+llama3:70b,6,4,0,2054,8,老师说我们需要更多的practice来提高我们的English。
+llama3:70b,6,4,0,2054,9,这个电子邮件的subject是关于会议的安排。
+llama3:70b,6,4,0,2054,10,我喜欢这个cake的taste，特别是strawberry的avor。
+llama3:70b,6,5,1,2105,1,我想买一台新的laptop，因为我的旧的已经broken了。
+llama3:70b,6,5,1,2105,2,请注意这个project的deadline是next Friday。
+llama3:70b,6,5,1,2105,3,我想要一个大的house，至少需要三个bedrooms。
+llama3:70b,6,5,1,2105,4,这个restaurant的food非常delicious，强烈推荐。
+llama3:70b,6,5,1,2105,5,我需要帮忙move一些furniture到新的apartment。
+llama3:70b,6,5,1,2105,6,这个课程的prerequisite是两年以上的work experience。
+llama3:70b,6,5,1,2105,7,我很excited地参加这个conference，因为speaker非常有名。
+llama3:70b,6,5,1,2105,8,这个brand的clothes非常popular，在中国和美国都很流行。
+llama3:70b,6,5,1,2105,9,我需要一个新的bicycle，因为我的旧的已经lost了。
+llama3:70b,6,5,1,2105,10,这个area的rental market非常hot，需要赶快决定。
+llama3:70b,7,1,0,2056,1,我觉得这个project非常有趣，可以help我学习很多新的skills。
+llama3:70b,7,1,0,2056,2,请问这个package的价格是多少钱per month？
+llama3:70b,7,1,0,2056,3,我朋友的birthday是在五月十五号，要hold一场party。
+llama3:70b,7,1,0,2056,4,这个restaurant的菜单真的很丰富，包括很多种类的western food。
+llama3:70b,7,1,0,2056,5,如果你需要任何帮助，请随时contact我，我的email是em@222。
+llama3:70b,7,1,0,2056,6,这个课程的难度level真的很高，我需要花很多时间来prepare。
+llama3:70b,7,1,0,2056,7,我通常都是在星巴克buy一杯coffee，然后去上班。
+llama3:70b,7,1,0,2056,8,这个城市的交通system真的很复杂，需要很多时间来figure out。
+llama3:70b,7,1,0,2056,9,我的major是business administration，需要很多的teamwork。
+llama3:70b,7,1,0,2056,10,这个网站的设计真的很cool，包括很多的interactive elements。
+llama3:70b,7,2,0,2057,1,我明天要去supermarket买些蔬菜。
+llama3:70b,7,2,0,2057,2,ovatel传来的信件已经确认过了payment。
+llama3:70b,7,2,0,2057,3,请你带着自己的laptop来参加meeting。
+llama3:70b,7,2,0,2057,4,这个项目的budget大概是多少钱呢？
+llama3:70b,7,2,0,2057,5,我想请你help我写一封email给manager。
+llama3:70b,7,2,0,2057,6,我家附近有一个很好的gym，你可以去试试。
+llama3:70b,7,2,0,2057,7,我们需要一个强有力的marketing strategy。
+llama3:70b,7,2,0,2057,8,我不想和别人share这个房间，太小了。
+llama3:70b,7,2,0,2057,9,如果你需要 کسی的help，just give me a call。
+llama3:70b,7,2,0,2057,10,我很高兴看到你的presentation，非常professional。
+llama3:70b,7,3,0,2058,1,我明天早上要去gym，然后去超market买菜。
+llama3:70b,7,3,0,2058,2,这个项目的proposal deadline是下周三，so don't be late。
+llama3:70b,7,3,0,2058,3,我觉得这个house的location非常方便，near downtown。
+llama3:70b,7,3,0,2058,4,我们需要一个人负责handle所有的logistics。
+llama3:70b,7,3,0,2058,5,我昨天晚上ANNER的flight被delay了两个小时。
+llama3:70b,7,3,0,2058,6,如果你需要帮助，可以ask我，I'm free now。
+llama3:70b,7,3,0,2058,7,这个restaurant的menu很丰富，有很多western style的dish。
+llama3:70b,7,3,0,2058,8,我不喜欢这个城市的weather，太cold了，need to wear a coat。
+llama3:70b,7,3,0,2058,9,这个课程的assignment非常难，需要很多的background reading。
+llama3:70b,7,3,0,2058,10,我明天要去博物馆看exhibition，很期待。
+llama3:70b,7,4,0,2059,1,这个项目的deadline是明天，请submit你的report到my email。
+llama3:70b,7,4,0,2059,2,我昨天去了movie theater看了新的Marvel电影。
+llama3:70b,7,4,0,2059,3,如果你需要help，请don't hesitate联系我们的客服。
+llama3:70b,7,4,0,2059,4,我很喜欢这个neighborhood，因为这里有很多good restaurants。
+llama3:70b,7,4,0,2059,5,我们的company提供了很多benefits，包括free gym membership。
+llama3:70b,7,4,0,2059,6,我需要一个assistant来help我处理这些papers。
+llama3:70b,7,4,0,2059,7,这个课程的prerequisite是大学英语三级。
+llama3:70b,7,4,0,2059,8,我打算明天去library查找一些相关的references。
+llama3:70b,7,4,0,2059,9,我们的team需要一个leader来organize这个project。
+llama3:70b,7,4,0,2059,10,我建议你选择这个hotel，因为它的location非常convenient。
+llama3:70b,7,5,0,2060,1,我们可以在周末去franchise的餐厅吃饭。
+llama3:70b,7,5,0,2060,2,这个项目的budget是多少钱？需要apply for funding。
+llama3:70b,7,5,0,2060,3,我喜欢这种混合式的教学方式，包括online和offline的课程。
+llama3:70b,7,5,0,2060,4,我认为这个idea非常不错，可以help我们解决很多问题。
+llama3:70b,7,5,0,2060,5,我需要你在明天之前finish这个project和report。
+llama3:70b,7,5,0,2060,6,这个new policy真的很奇怪，需要我们每天提交daily report。
+llama3:70b,7,5,0,2060,7,我认为我们应该更多地关注sustainability和环保问题。
+llama3:70b,7,5,0,2060,8,我可以help你搬house，包括很多的heavy furniture。
+llama3:70b,7,5,0,2060,9,这个course的difficulty level真的很高，需要很多的self-study。
+llama3:70b,7,5,0,2060,10,我认为这个method真的很有用，可以帮助我们解决很多实际问题。
+llama3:70b,8,1,0,2061,1,我昨天去看了电影，感觉very romantic。
+llama3:70b,8,1,0,2061,2,这家restaurant的food太greasy了，我不喜欢。
+llama3:70b,8,1,0,2061,3,我需要一个assistant来help我avec这个project。
+llama3:70b,8,1,0,2061,4,这所学校的教育质量很high，包括English和math。
+llama3:70b,8,1,0,2061,5,我很喜欢这个brand的clothes，especially这个style。
+llama3:70b,8,1,0,2061,6,我们需要更多的funding来support这个项目。
+llama3:70b,8,1,0,2061,7,这个酒店的服务态度很friendly，值得推荐。
+llama3:70b,8,1,0,2061,8,我想买一个新手机，可能是最新的iPhone。
+llama3:70b,8,1,0,2061,9,这个电影的ending太sad了，我不想看。
+llama3:70b,8,1,0,2061,10,我需要一个partner来合作这个business：
+llama3:70b,8,2,0,2062,1,我想看电影，but tonight is not good。
+llama3:70b,8,2,0,2062,2,这个项目需要teamwork和communication skills。
+llama3:70b,8,2,0,2062,3,我非常喜欢这个.satellite town，环境很good。
+llama3:70b,8,2,0,2062,4,我们的公司提供很多benefits，包括health insurance和annual leave。
+llama3:70b,8,2,0,2062,5,我觉得这个设计不bad，but需要更多的creativity。
+llama3:70b,8,2,0,2062,6,这个课程需要很多preparation和自主学习。
+llama3:70b,8,2,0,2062,7,我认为这个政策很fair，protecting大家的权益。
+llama3:70b,8,2,0,2062,8,这个楼盘有很多facilities，包括swimming pool和gym。
+llama3:70b,8,2,0,2062,9,我很高兴找到这个job，matching我的skills和interests。
+llama3:70b,8,2,0,2062,10,这个产品需要更多的testing和quality control。
+llama3:70b,8,3,0,2063,1,我昨天看了很多movie，觉得很interesting。
+llama3:70b,8,3,0,2063,2,我们公司的product line包括digital camera和计算机accessories。
+llama3:70b,8,3,0,2063,3,我的朋友们都喜欢玩video games，especially FIFA。
+llama3:70b,8,3,0,2063,4,这个项目的budget很高，需要申请政府的funding。
+llama3:70b,8,3,0,2063,5,我很喜欢这个neighborhood，有很多good restaurants和coffee shops。
+llama3:70b,8,3,0,2063,6,我们需要一个strong team来完成这个project。
+llama3:70b,8,3,0,2063,7,我认为这个意见很reasonable，可以accept it。
+llama3:70b,8,3,0,2063,8,这个课程的curriculum包括很多interesting topics。
+llama3:70b,8,3,0,2063,9,我昨天_buy了一本书，title叫做The Alchemist。
+llama3:70b,8,3,0,2063,10,我认为这个设计很creative，可以win the competition。
+llama3:70b,8,4,0,2064,1,我想买一辆car，红色那种很Sexy。
+llama3:70b,8,4,0,2064,2,我们公司的mission是提供高质量的服务。
+llama3:70b,8,4,0,2064,3,这个项目的budget太高了，我们需要降低cost。
+llama3:70b,8,4,0,2064,4,我昨天晚上看了一场美式足球game，真的很exciting。
+llama3:70b,8,4,0,2064,5,我们的目标是成为亚洲最大的e-commerce平台。
+llama3:70b,8,4,0,2064,6,这个酒店的设施很完善，有swimming pool和fitness center。
+llama3:70b,8,4,0,2064,7,我需要一本英文的book，关于 Artificial Intelligence的。
+llama3:70b,8,4,0,2064,8,我们的产品已经取得了CE认证，可以export到欧洲。
+llama3:70b,8,4,0,2064,9,这个房子的layout很nice，有很多natural light。
+llama3:70b,8,4,0,2064,10,我们需要hire一个能够说流利英文的助手。
+llama3:70b,8,5,0,2065,1,我喜欢的品牌是Apple，质量很好。
+llama3:70b,8,5,0,2065,2,这个星期六我们去看movie，晚上吃pizza。
+llama3:70b,8,5,0,2065,3,我的房子需要renovation，包括安装新的tiles。
+llama3:70b,8,5,0,2065,4,我请了一个lawyer，处理一些法律问题。
+llama3:70b,8,5,0,2065,5,我们公司的mission是提供高品质的客服service。
+llama3:70b,8,5,0,2065,6,我喜欢在家里喝coffee，感觉很relaxed。
+llama3:70b,8,5,0,2065,7,这个项目的budget很高，需要carefully planning。
+llama3:70b,8,5,0,2065,8,我弟弟在美国读book，majoring in computer science。
+llama3:70b,8,5,0,2065,9,我们需要申请visa，才能出国travel。
+llama3:70b,8,5,0,2065,10,这个地区的weather很恶劣，需要带伞}
+llama3:70b,9,1,1,2116,1,我昨天去看了新的 apartment，它的location真的很方便。
+llama3:70b,9,1,1,2116,2,这个项目的投资回报率非常高，so it's a good opportunity。
+llama3:70b,9,1,1,2116,3,我喜欢这个neighborhood，因为这里有很多中国餐厅。
+llama3:70b,9,1,1,2116,4,我们需要一个大的storage room来放我们的luggage。
+llama3:70b,9,1,1,2116,5,这个城市的交通系统真的很 convenient，我每天可以ride bike上班。
+llama3:70b,9,1,1,2116,6,我认为这个house的价格太高了，不值得投资。
+llama3:70b,9,1,1,2116,7,我们需要一个好的中介来help us find一个合适的房子。
+llama3:70b,9,1,1,2116,8,这个community的amenities真的很齿，包括swimming pool和gym。
+llama3:70b,9,1,1,2116,9,我认为这个area的房价会继续上涨，所以it's a good investment。
+llama3:70b,9,1,1,2116,10,我们需要一个大的backyard来放我们的dog和cat。
+llama3:70b,9,2,0,2067,1,这个项目的scope很广，所以我们需要更多的resources。
+llama3:70b,9,2,0,2067,2,我最喜欢的颜色是blue，因为它看起来很cool。
+llama3:70b,9,2,0,2067,3,我需要你明天早上九点来我的office开会。
+llama3:70b,9,2,0,2067,4,这个餐厅的food非常好吃，especially their sushi。
+llama3:70b,9,2,0,2067,5,我认为这个城市的交通非常convenient，因为有很多bus和subway。
+llama3:70b,9,2,0,2067,6,我明天需要你帮我buy一些groceries，包括milk和eggs。
+llama3:70b,9,2,0,2067,7,这个neighborhood的房子都很expensive，因为这里有很多good schools。
+llama3:70b,9,2,0,2067,8,我不喜欢这个movie，因为plot很boring。
+llama3:70b,9,2,0,2067,9,我周末要去beach，因为我需要一些relaxation。
+llama3:70b,9,2,0,2067,10,这个课程的homework非常难，因为需要很多critical thinking。
+llama3:70b,9,3,0,2068,1,我想住在一个靠近学校的neighbourhood里。
+llama3:70b,9,3,0,2068,2,这个job的salary非常高，but需要很强的leadership skills。
+llama3:70b,9,3,0,2068,3,我朋友的家就在这附近的street上面。
+llama3:70b,9,3,0,2068,4,我们公司的business model是基于online平台的。
+llama3:70b,9,3,0,2068,5,我不喜欢这个restaurant的menu，因为太少variety。
+llama3:70b,9,3,0,2068,6,我喜欢这个城市的weather，因为从来没有很热的summer。
+llama3:70b,9,3,0,2068,7,我需要一个有独立卫生间的room，因为我有一些private的事情。
+llama3:70b,9,3,0,2068,8,这个城市的public transportation system真的很方便。
+llama3:70b,9,3,0,2068,9,我不想和我的parents住在一起，因为我需要一些independence。
+llama3:70b,9,3,0,2068,10,这个ficourse的难度level真的很高，需要很多practice。
+llama3:70b,9,4,0,2069,1,我喜欢这个neighborhood，因为这里交通很方便。
+llama3:70b,9,4,0,2069,2,这个项目的budget很高，所以我们需要find一个适合的合作伙伴。
+llama3:70b,9,4,0,2069,3,我家附近有很多great restaurants，但是我更喜欢吃中国菜。
+llama3:70b,9,4,0,2069,4,我认为这个房子很nice，但价格太high了。
+llama3:70b,9,4,0,2069,5,我需要一个大的desk来放我的computer和books。
+llama3:70b,9,4,0,2069,6,我喜欢这个城市，因为这里的weather很舒服。
+llama3:70b,9,4,0,2069,7,我认为这个课程的难度太high了，所以我需要找一个utor。
+llama3:70b,9,4,0,2069,8,我家附近有很多公園，可以出去play sports。
+llama3:70b,9,4,0,2069,9,我喜欢这个城市，因为这里的人非常friendly。
+llama3:70b,9,4,0,2069,10,我需要一个好的internet connection来上传我的files。
+llama3:70b,9,5,0,2070,1,我想租个房子，must be close to 校园。
+llama3:70b,9,5,0,2070,2,这个neighborhood非常nice，旁边有个大超market。
+llama3:70b,9,5,0,2070,3,我朋友的公司在金融district，traffic很bad。
+llama3:70b,9,5,0,2070,4,我们家裡有个big backyard，可以hold很多人party。
+llama3:70b,9,5,0,2070,5,我不喜欢这个房东，他always很naggy。
+llama3:70b,9,5,0,2070,6,我需要个有独立卫生间的房间，因为我have some medical issues。
+llama3:70b,9,5,0,2070,7,这个area非常_safe，很多警察station around here。
+llama3:70b,9,5,0,2070,8,我不想live in 这个小区，因为太far from city center。
+llama3:70b,9,5,0,2070,9,这个房子太expensive，需要付很多钱down payment。
+llama3:70b,9,5,0,2070,10,我想找个房子，可以view 到 lake view。
+llama3:70b,10,1,0,2071,1,我昨天看了一个很好的movie，但是忘记 Title 了。
+llama3:70b,10,1,0,2071,2,_FACTOR这个词汇我总是remember不起来，在考试的时候特别panic。
+llama3:70b,10,1,0,2071,3,我的户口本在哪里？需要带到office去办理签证吗？
+llama3:70b,10,1,0,2071,4,我们 firmy 的文化是encourage 创新和teamwork。
+llama3:70b,10,1,0,2071,5,我在网上看到了一个很nice的 job posting，但是需要有working visa。
+llama3:70b,10,1,0,2071,6,我真的很喜欢这个neighborhood，因为这里有很多good restaurants。
+llama3:70b,10,1,0,2071,7,我姐姐明天就会回来，然后我们一起去shopping mall。
+llama3:70b,10,1,0,2071,8,这个project的进度很慢，我需要更多的manpower支持。
+llama3:70b,10,1,0,2071,9,我昨天去了gym，但是forgot 带towel。
+llama3:70b,10,1,0,2071,10,我这个月的budget很紧，需要控制自己的expenses。
+llama3:70b,10,2,0,2072,1,我需要一个大的storage来存我的luggage。
+llama3:70b,10,2,0,2072,2,我们公司的policy是不能带任何electronics进入meeting room。
+llama3:70b,10,2,0,2072,3,我很喜欢这个neighborhood，因为这里有很多happy hour。
+llama3:70b,10,2,0,2072,4,我已经申请了credit card，但还没有收到approval。
+llama3:70b,10,2,0,2072,5,这个项目的deadline是下周，所以我们需要速度up。
+llama3:70b,10,2,0,2072,6,我住在这个community已经五年了，感觉很homely。
+llama3:70b,10,2,0,2072,7,我需要一个good lawyer来help我处理这个案子。
+llama3:70b,10,2,0,2072,8,这个餐厅的menu很丰富，有很多delicious dishes。
+llama3:70b,10,2,0,2072,9,我很高兴能找到这个job opportunity，因为它很fit我的profile。
+llama3:70b,10,2,0,2072,10,这个apps可以help你track你的expense和budget。
+llama3:70b,10,3,0,2073,1,我昨天看了一个电影，觉得很interesting。
+llama3:70b,10,3,0,2073,2,网站上有很多的discount，如果你注册的话可以得到。
+llama3:70b,10,3,0,2073,3,我不喜欢这个restaurant，因为服务attitude很不好。
+llama3:70b,10,3,0,2073,4,我们决定去海口旅游，因为那里有很多的beach。
+llama3:70b,10,3,0,2073,5,我需要一个独立的office space，可以租吗？
+llama3:70b,10,3,0,2073,6,这个product的质量很好，但是价格too expensive。
+llama3:70b,10,3,0,2073,7,我很喜欢这个neighborhood，因为这里有很多的green space。
+llama3:70b,10,3,0,2073,8,我们公司的hr department会处理所有的administrative tasks。
+llama3:70b,10,3,0,2073,9,我需要去bank办理一些financial transactions。
+llama3:70b,10,3,0,2073,10,这个apartment的location非常方便，近distance to downtown。
+llama3:70b,10,4,1,2124,1,我昨天买了一个新的laptop，显示屏很nice。
+llama3:70b,10,4,1,2124,2,这个项目需要我们团队的collaboration和communication。
+llama3:70b,10,4,1,2124,3,我不喜欢这个房子，因为没有 backyard。
+llama3:70b,10,4,1,2124,4,我们公司的culture是encourage创新和冒险。
+llama3:70b,10,4,1,2124,5,我想去美国读 PhD，但需要先考托福和 GRE。
+llama3:70b,10,4,1,2124,6,这个网站的导航很容易，anyone都可以使用。
+llama3:70b,10,4,1,2124,7,我朋友的生日party是在Friday晚上七点，我们都要穿formal的衣服。
+llama3:70b,10,4,1,2124,8,这个课程的难度level很高，需要我们更加努力。
+llama3:70b,10,4,1,2124,9,我们需要更多的facilities，例如basketball场和fitness center。
+llama3:70b,10,4,1,2124,10,我很highly recommend这个餐厅，因为他们的service很好。
+llama3:70b,10,5,0,2075,1,我明天要去airport捉机票
+llama3:70b,10,5,0,2075,2,这个project非常重要，所以我们需要讨论所有的details
+llama3:70b,10,5,0,2075,3,我们住的neighborhood有很多中国餐厅
+llama3:70b,10,5,0,2075,4,我喜欢在weekend去hiking，因为可以放松
+llama3:70b,10,5,0,2075,5,这个(sql)数据库需要更新，否则就会crash
+llama3:70b,10,5,0,2075,6,我需要借用你的car，因为我的车坏了
+llama3:70b,10,5,0,2075,7,这个房子有三个bedrooms和两个bathrooms
+llama3:70b,10,5,0,2075,8,我们公司的meeting ROOM非常大，可以容纳很多人
+llama3:70b,10,5,0,2075,9,我很喜欢这个coffee shop，因为他们的coffee非常好
+llama3:70b,10,5,0,2075,10,我们需要等待服务器的response，然后才能继续操作

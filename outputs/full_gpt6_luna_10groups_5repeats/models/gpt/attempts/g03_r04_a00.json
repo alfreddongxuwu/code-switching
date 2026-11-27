@@ -1,0 +1,145 @@
+{
+  "request": {
+    "model": "gpt-6-luna",
+    "group_id": 3,
+    "repeat_id": 4,
+    "attempt_id": 0,
+    "seed": null,
+    "independent_call_id": "14b705c0e92e4581b538b31095c09321",
+    "started_at_utc": "2026-11-27T02:48:57+00:00",
+    "endpoint": "https://api.openai.com/v1/responses",
+    "payload": {
+      "temperature": 0.8,
+      "top_p": 1.0,
+      "max_output_tokens": 2048,
+      "reasoning": {
+        "effort": "none"
+      },
+      "store": false,
+      "truncation": "disabled",
+      "model": "gpt-6-luna",
+      "input": "Code-switching refers to the alternation between two or more languages within a single utterance or discourse.\n\nBelow are ten examples of naturally occurring Mandarin–English code-switching:\n\n<examples>\n多个卧室出租：价格：900-1250 / month。\nmaster要毕业的同学看过来~\n里面有三个卧室：bedroom 1.\n居住情况：有衣帽间，两人share一个卫生间。\nbathroom:二楼和地下室各有一个卫生间\n欢迎email或者电话咨询信息照片\n在家就可打印各种final考试资料。\nhouse中的一个最大房间，租金为：399$ /月。\n海尔洗衣机portable 1.\n两房中的一房现在出租，月租$450加utility。\n</examples>\n\nGenerate ten new Mandarin–English code-switched sentences in a range of linguistic styles, registers, and code-switching patterns. Each sentence should contain both Mandarin and English. Do not copy or closely paraphrase the examples. Return only a JSON array of ten strings, without explanations, translations, or annotations.\n"
+    },
+    "slurm_job_id": "8791618"
+  },
+  "response": {
+    "access_programs": null,
+    "background": false,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1795747739,
+    "created_at": 1795747737,
+    "error": null,
+    "frequency_penalty": 0.0,
+    "id": "resp_03d290e399ab5cee016b08ef9991ec87d1aa0c17ccc27c77e6",
+    "image": {
+      "context_compression": "disabled"
+    },
+    "incomplete_details": null,
+    "input_transformations": [],
+    "instructions": null,
+    "max_output_tokens": 2048,
+    "max_tool_calls": null,
+    "model": "gpt-6-luna",
+    "moderation": null,
+    "object": "response",
+    "output": [
+      {
+        "content": [
+          {
+            "annotations": [],
+            "logprobs": [],
+            "text": "[\n  \"周末我们去附近的 farmers market 逛逛，顺便买点新鲜水果。\",\n  \"这份报告的数据还没整理完，麻烦你先 update 一下 spreadsheet。\",\n  \"老师说今天的 lecture 改到线上，记得提前登录 Zoom。\",\n  \"我本来想早点出门，结果被一个 unexpected call 耽误了。\",\n  \"这家咖啡馆的氛围很 chill，适合坐下来慢慢看书。\",\n  \"请各位同事在下班前 submit expense report，方便财务统一处理。\",\n  \"你别光看 review，最好亲自试穿一下，确认 size 合不合适。\",\n  \"雨下得太大了，我们干脆 order delivery，在家吃火锅吧。\",\n  \"面对突发状况，他依然保持 calm，迅速安排大家撤离。\",\n  \"这个设计方案的核心是让用户用最少的 clicks 完成注册流程。\"\n]",
+            "type": "output_text"
+          }
+        ],
+        "id": "msg_03d290e399ab5cee016b08ef99de4c87d19392aaea6242e236",
+        "phase": "final_answer",
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0.0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "none",
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "store": false,
+    "temperature": 0.8,
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    },
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1.0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 230,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cache_write_tokens_details": {
+          "ttl_12h_tokens": 0,
+          "ttl_30m_tokens": 0
+        },
+        "cached_tokens": 0
+      },
+      "output_tokens": 217,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 447
+    },
+    "user": null,
+    "metadata": {}
+  },
+  "api_request_id": "req_edfba52743fb4824801e98f0415590c8",
+  "accepted": true,
+  "sentences": [
+    "周末我们去附近的 farmers market 逛逛，顺便买点新鲜水果。",
+    "这份报告的数据还没整理完，麻烦你先 update 一下 spreadsheet。",
+    "老师说今天的 lecture 改到线上，记得提前登录 Zoom。",
+    "我本来想早点出门，结果被一个 unexpected call 耽误了。",
+    "这家咖啡馆的氛围很 chill，适合坐下来慢慢看书。",
+    "请各位同事在下班前 submit expense report，方便财务统一处理。",
+    "你别光看 review，最好亲自试穿一下，确认 size 合不合适。",
+    "雨下得太大了，我们干脆 order delivery，在家吃火锅吧。",
+    "面对突发状况，他依然保持 calm，迅速安排大家撤离。",
+    "这个设计方案的核心是让用户用最少的 clicks 完成注册流程。"
+  ],
+  "packaging": "plain_json",
+  "issues": [],
+  "finished_at_utc": "2026-11-27T02:48:59+00:00"
+}

@@ -1,0 +1,7 @@
+﻿family,model,rows,na_rows,na_reasons,bilingual_rows,valid_analysis_rows,rows_with_unsupported_letters,rows_with_non_chinese_english_content,internal_duplicate_groups,internal_duplicate_rows,internal_duplicate_excess,prompt_whole_copy_rows,prompt_fragment_copy_rows,longest_prompt_copy_units
+human,human,500,0,{},500,500,0,0,0,0,0,0,0,0
+gemma,gemma3:27b,500,26,{'internal_duplicate_after_first': 26},500,474,0,0,20,46,26,0,0,0
+qwen,qwen3:32b,500,5,{'internal_duplicate_after_first': 5},500,495,0,0,2,7,5,0,0,0
+llama,llama3:70b,500,9,"{'non_chinese_english_letters': 3, 'non_chinese_english_content': 4, 'prompt_fragment_copy': 2}",500,491,3,4,0,0,0,0,2,7
+deepseek,deepseek-llm:67b,500,7,"{'prompt_fragment_copy': 4, 'internal_duplicate_after_first': 3, 'prompt_whole_copy': 1}",500,493,0,0,3,6,3,1,4,19
+gpt,gpt-6-luna,500,6,{'internal_duplicate_after_first': 6},500,494,0,0,5,11,6,0,0,0

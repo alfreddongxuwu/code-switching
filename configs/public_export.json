@@ -1,0 +1,22 @@
+{
+  "public_release": true,
+  "private_originals_retained": true,
+  "operational_metadata": "User-specific account identifiers, project paths and machine name replaced with public placeholders. Cluster scripts validate user-provided configuration instead of a hardcoded identity. Original frozen run checksums describe the private originals; public copies may differ after redaction.",
+  "source_corpus": {
+    "upstream_commit": "80757512bc86c386302269f070b2a5e7fe57dfa2",
+    "original_sha256": "f0585d4c5d94af3f4495daf118cf524d2892bbfdd20a9120f7be5002a020f780",
+    "public_sha256": "b90e0052d535c429ef1c589d6b5e6bf4e7688db3ee5564fae60eca7a9b093a43",
+    "public_git_blob_sha1": "6ce50b143bee74e7f036c6052064c0290dabaee2",
+    "redacted_translation_phone_numbers": 6,
+    "original_sentence_column_unchanged": true
+  },
+  "generated_contact_redaction": "One generated email address is replaced consistently by person.name@example.com; its four English-token structure is preserved.",
+  "analysis_validation": {
+    "passed": true,
+    "sentence_rows_checked": 3000,
+    "comparison_rows_checked": 36,
+    "tests_checked": 30,
+    "all_numeric_results_equal_private_reference": true,
+    "na_rows": 53
+  }
+}

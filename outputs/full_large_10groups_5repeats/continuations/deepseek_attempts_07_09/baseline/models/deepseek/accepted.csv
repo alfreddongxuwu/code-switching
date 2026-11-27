@@ -1,0 +1,481 @@
+﻿model,group_id,repeat_id,attempt_id,seed,sentence_id,sentence
+deepseek-llm:67b,1,1,6,2326,1,我们的会议室在三楼，third floor。
+deepseek-llm:67b,1,1,6,2326,2,你想要去哪里，去哪里走走吗？Where do you want to go？
+deepseek-llm:67b,1,1,6,2326,3,今天天气太热了，too hot today。
+deepseek-llm:67b,1,1,6,2326,4,这个周末我们一起去爬山吧，let's go hiking this weekend。
+deepseek-llm:67b,1,1,6,2326,5,你知道怎么去那里吗？你知道怎么去那里吗？Do you know how to get there？
+deepseek-llm:67b,1,1,6,2326,6,请把这个包裹寄到下面这个地址，please send this package to the following address。
+deepseek-llm:67b,1,1,6,2326,7,请给我一张去纽约的机票，I would like a ticket to New York。
+deepseek-llm:67b,1,1,6,2326,8,这个餐厅的菜太好吃了，the food here is delicious。
+deepseek-llm:67b,1,1,6,2326,9,请给我一杯咖啡，I would like a cup of coffee。
+deepseek-llm:67b,1,1,6,2326,10,谢谢你帮我拿行李，thank you for helping me with my luggage。
+deepseek-llm:67b,1,2,4,2227,1,我不确定明天是否可以完成这个项目。 I'm not sure if I can finish the project tomorrow.
+deepseek-llm:67b,1,2,4,2227,2,"我还有其他事情要做，所以不能跟你们一起去吃饭。 I have other things to do, so I can't go to dinner with you guys."
+deepseek-llm:67b,1,2,4,2227,3,"你的建议听起来很不错，但是我们需要更多的信息才能做出决定。 Your suggestion sounds great, but we need more information to make a decision."
+deepseek-llm:67b,1,2,4,2227,4,"这个会议非常重要，我们必须要参加。 This meeting is very important, and we have to attend."
+deepseek-llm:67b,1,2,4,2227,5,"我还没学会这些知识，但是我会尽快学习的。 I haven't learned this knowledge yet, but I will study it as soon as possible."
+deepseek-llm:67b,1,2,4,2227,6,"我想去图书馆借几本书，你有推荐的吗？ I want to borrow some books from the library, do you have any recommendations?"
+deepseek-llm:67b,1,2,4,2227,7,我需要你的帮助来完成这个任务。 I need your help to complete this task.
+deepseek-llm:67b,1,2,4,2227,8,"我不想太晚回家，所以我要早点离开。 I don't want to go home too late, so I have to leave early."
+deepseek-llm:67b,1,2,4,2227,9,"我可以给你一些建议，但是最终的决定还是要由你自己来做。 I can give you some suggestions, but the final decision is still up to you."
+deepseek-llm:67b,1,2,4,2227,10,"我知道这个问题很难，但是我们必须找到解决办法。 I know this problem is difficult, but we have to find a solution."
+deepseek-llm:67b,1,3,1,2078,1,这个房间适合family居住，有足够空间给孩子们玩耍。
+deepseek-llm:67b,1,3,1,2078,2,我可以来pick up 你们吗？
+deepseek-llm:67b,1,3,1,2078,3,我正在food market购买一些蔬菜和水果。
+deepseek-llm:67b,1,3,1,2078,4,我们需要discuss一下关于这次project的细节。
+deepseek-llm:67b,1,3,1,2078,5,我需要take out垃圾，你能帮我一下吗？
+deepseek-llm:67b,1,3,1,2078,6,这个soup味道很棒，你一定要try一下。
+deepseek-llm:67b,1,3,1,2078,7,我需要提前leave，因为有一个important meeting要参加。
+deepseek-llm:67b,1,3,1,2078,8,这个礼物非常beautiful，谢谢你的thoughtful gesture。
+deepseek-llm:67b,1,3,1,2078,9,我需要take a break，有点累了。
+deepseek-llm:67b,1,3,1,2078,10,我们需要schedule一下下周的meeting。
+deepseek-llm:67b,1,4,1,2079,1,这个房子是fully furnished，精装修，厨房和客厅都有。
+deepseek-llm:67b,1,4,1,2079,2,我们需要在月底之前sign the contract，然后才能搬进去。
+deepseek-llm:67b,1,4,1,2079,3,这个房间是share with a roommate，但卫生间是private的。
+deepseek-llm:67b,1,4,1,2079,4,我们打算邀请一些friends来参加party to celebrate our new place。
+deepseek-llm:67b,1,4,1,2079,5,你可以在阳台上晒晒太阳，看看风景，很relaxing。
+deepseek-llm:67b,1,4,1,2079,6,我们打算定个pizza来吃，你想要什么toppings？
+deepseek-llm:67b,1,4,1,2079,7,我们需要去超市买点food和drinks，你有没有想要什么？
+deepseek-llm:67b,1,4,1,2079,8,我的sister她已经在国外读书了，她的major是International Business。
+deepseek-llm:67b,1,4,1,2079,9,我需要打个电话给我的boss，告诉他我明天会迟到一会儿。
+deepseek-llm:67b,1,4,1,2079,10,这个社区很安全，有很多family在这里住了很多年。
+deepseek-llm:67b,1,5,3,2180,1,记得带上你的文件去city hall做license renewal
+deepseek-llm:67b,1,5,3,2180,2,这个周末我们一起去爬山吧，记得穿着你的hiking shoes
+deepseek-llm:67b,1,5,3,2180,3,这个月的bill还没付，记得check一下
+deepseek-llm:67b,1,5,3,2180,4,我需要一把scissors来剪这些paper
+deepseek-llm:67b,1,5,3,2180,5,我可以帮你make a cake for your birthday party
+deepseek-llm:67b,1,5,3,2180,6,我的laptop好像坏了，需要送去repair
+deepseek-llm:67b,1,5,3,2180,7,我需要一些more time to finish this project
+deepseek-llm:67b,1,5,3,2180,8,这个菜市场有很多新鲜的vegetables和fruits
+deepseek-llm:67b,1,5,3,2180,9,你有没有想念家乡的美食，比如说dumplings和noodles
+deepseek-llm:67b,1,5,3,2180,10,他是一个very good friend，总是会倾听我的problems
+deepseek-llm:67b,2,1,1,2081,1,房子很干净，clean，没有烟味。
+deepseek-llm:67b,2,1,1,2081,2,下午两点，two o'clock，见。
+deepseek-llm:67b,2,1,1,2081,3,昨天晚上，last night，我和朋友去唱歌，singing and hanging out。
+deepseek-llm:67b,2,1,1,2081,4,今天天气不错，good weather，适合跑步，go for a run。
+deepseek-llm:67b,2,1,1,2081,5,这个会议室可以容纳50人，accommodate 50 people，足够了。
+deepseek-llm:67b,2,1,1,2081,6,我需要一些文具，stationery，比如笔和纸。
+deepseek-llm:67b,2,1,1,2081,7,这个软件很好用，functional，界面也好看，nice UI。
+deepseek-llm:67b,2,1,1,2081,8,我要一杯美式咖啡，Americano，谢谢。
+deepseek-llm:67b,2,1,1,2081,9,你的电话号码是多少？What's your phone number? 我想加你微信。
+deepseek-llm:67b,2,1,1,2081,10,这个景区很大，spacious，建议游览3-4小时，3-4 hours recommended。
+deepseek-llm:67b,2,2,0,2032,1,请尽快回复我的email，谢谢。
+deepseek-llm:67b,2,2,0,2032,2,这个菜好好吃啊，是spicy chicken吗？
+deepseek-llm:67b,2,2,0,2032,3,这个项目需要一个strong team来完成。
+deepseek-llm:67b,2,2,0,2032,4,这个房间有air conditioning，很凉快。
+deepseek-llm:67b,2,2,0,2032,5,我们需要一个smart solution来解决这个问题。
+deepseek-llm:67b,2,2,0,2032,6,这个电影太感人了，让我cry了好久。
+deepseek-llm:67b,2,2,0,2032,7,这个手机很好用，有4G network。
+deepseek-llm:67b,2,2,0,2032,8,这个城市有很多beautiful scenery，值得一游。
+deepseek-llm:67b,2,2,0,2032,9,这个会议室可以容纳50人，有wifi提供。
+deepseek-llm:67b,2,2,0,2032,10,这个蛋糕太甜了，但是味道很delicious。
+deepseek-llm:67b,2,3,3,2183,1,这车颜色真漂亮啊，red color太吸引人了。
+deepseek-llm:67b,2,3,3,2183,2,这个周末出去玩吧，let's hang out this weekend.
+deepseek-llm:67b,2,3,3,2183,3,你的微信还是QQ啊？Do you use WeChat or QQ?
+deepseek-llm:67b,2,3,3,2183,4,这个电影太烂了，such a bad movie!
+deepseek-llm:67b,2,3,3,2183,5,你吃过了吗？Have you eaten yet?
+deepseek-llm:67b,2,3,3,2183,6,这个软件太好用了，so convenient!
+deepseek-llm:67b,2,3,3,2183,7,你有没有听过周杰伦的新歌？Have you listened to Jay Chou's new song?
+deepseek-llm:67b,2,3,3,2183,8,这个活动真是太赞了，so cool!
+deepseek-llm:67b,2,3,3,2183,9,这个餐馆的菜好吃吗？Is the food in this restaurant good?
+deepseek-llm:67b,2,3,3,2183,10,这个游戏太简单了，too easy!
+deepseek-llm:67b,2,5,5,2285,1,周末一起去爬山放松一下吧，周六上午十点在山脚下meeting point集合。
+deepseek-llm:67b,2,5,5,2285,2,请问您有什么special request或者dietary restrictions吗？
+deepseek-llm:67b,2,5,5,2285,3,这栋房子离地铁站很近，走路只要五分钟，周围有很多好吃的餐厅和shopping mall。
+deepseek-llm:67b,2,5,5,2285,4,这份工作需要经常travel，但是可以work from home，还有很好的salary和bonus。
+deepseek-llm:67b,2,5,5,2285,5,这个手机是新出的model，有很强的camera和long battery life。
+deepseek-llm:67b,2,5,5,2285,6,您好，请问您需要什么服务？我可以帮助您check in或者carry your luggage。
+deepseek-llm:67b,2,5,5,2285,7,这个活动是为了庆祝中国新年的到来，有传统的舞狮表演和美食market。
+deepseek-llm:67b,2,5,5,2285,8,这个项目需要团队的cooperation和communication，我们要确保每个人都understand the goals and deadlines。
+deepseek-llm:67b,2,5,5,2285,9,这个网站有很好的customer service和return policy，您可以放心购买。
+deepseek-llm:67b,2,5,5,2285,10,这个小区有很多security measures，如cctv和24小时security guard值班。
+deepseek-llm:67b,3,1,0,2036,1,房间里面有空调，外面有garden。
+deepseek-llm:67b,3,1,0,2036,2,我住在这个house，里面有三个bedroom，每个卧室都有desk。
+deepseek-llm:67b,3,1,0,2036,3,我很喜欢这个apartment，里面有living room和kitchen。
+deepseek-llm:67b,3,1,0,2036,4,这个room里面有bed，外面有balcony，可以看风景。
+deepseek-llm:67b,3,1,0,2036,5,我的roommates来自不同的国家，我们会share食物。
+deepseek-llm:67b,3,1,0,2036,6,这个building里面有很多office，每个office都有computer。
+deepseek-llm:67b,3,1,0,2036,7,我很喜欢在这里工作，因为这里有cafe和parking。
+deepseek-llm:67b,3,1,0,2036,8,这个neighborhood很安全，有很多supermarket和restaurant。
+deepseek-llm:67b,3,1,0,2036,9,我每天都会去gym，里面有很多exercise machine。
+deepseek-llm:67b,3,1,0,2036,10,我很喜欢这个community，因为这里有很多family和friend。
+deepseek-llm:67b,3,2,2,2137,1,今晚的party在老张的house，别忘了带你的passport，我们一起嗨皮！
+deepseek-llm:67b,3,2,2,2137,2,这个project的deadline是下周一，我们要抓紧time赶工了。
+deepseek-llm:67b,3,2,2,2137,3,你这个idea真的很creative，我觉得可以尝试一下。
+deepseek-llm:67b,3,2,2,2137,4,这个月的budget不够，我们要节约开支，尽量减少shopping。
+deepseek-llm:67b,3,2,2,2137,5,我明天要参加一个重要的meeting，需要穿得正式一些。
+deepseek-llm:67b,3,2,2,2137,6,最近天气很热，我们去游泳池swim吧。
+deepseek-llm:67b,3,2,2,2137,7,这个proposal的细节还需要再讨论一下，我们需要更多的input。
+deepseek-llm:67b,3,2,2,2137,8,这个quarter的sales数据不太好，我们需要调整一下strategy。
+deepseek-llm:67b,3,2,2,2137,9,这个case的客户要求很高，我们需要提供一些value-added service来满足他们的需求。
+deepseek-llm:67b,3,2,2,2137,10,我们要尽快完成这个project，争取在这个fiscal year结束前完成。
+deepseek-llm:67b,3,3,0,2038,1,楼下有一家超好吃的火锅店：Hot Pot，火锅爱好者一定不要错过试试看。
+deepseek-llm:67b,3,3,0,2038,2,我刚刚收到一个快递包裹：express delivery，是我在网上买的衣服。
+deepseek-llm:67b,3,3,0,2038,3,这个周末有空吗？我们去爬山：hiking，呼吸新鲜空气。
+deepseek-llm:67b,3,3,0,2038,4,我需要一些新的化妆品：makeup，有推荐的牌子吗？
+deepseek-llm:67b,3,3,0,2038,5,我和朋友在一家咖啡店：coffee shop，点了一杯拿铁：latte。
+deepseek-llm:67b,3,3,0,2038,6,我刚买了一本新书：book，是关于旅行的。
+deepseek-llm:67b,3,3,0,2038,7,我明天要去参加一个会议：meeting，关于项目进展的。
+deepseek-llm:67b,3,3,0,2038,8,我听说附近新开了一家餐厅：restaurant，有空一起去试试看。
+deepseek-llm:67b,3,3,0,2038,9,我昨天去参加了一个音乐节：festival，听了很多好听的歌。
+deepseek-llm:67b,3,3,0,2038,10,我最近迷上了一部电视剧：drama，是关于爱情的。
+deepseek-llm:67b,3,4,0,2039,1,明天我们一起去逛街，buy some new clothes.
+deepseek-llm:67b,3,4,0,2039,2,这个weekend我想去hiking，你有兴趣吗？
+deepseek-llm:67b,3,4,0,2039,3,今天的天气真好，让我们一起go out and play吧！
+deepseek-llm:67b,3,4,0,2039,4,这个周末，我想和朋友们一起去看电影，你知道有什么好看的movie吗？
+deepseek-llm:67b,3,4,0,2039,5,我想去travel，你有没有什么好的建议？
+deepseek-llm:67b,3,4,0,2039,6,这个app真好用，我可以随时随地check我的email.
+deepseek-llm:67b,3,4,0,2039,7,这个周末，我想去听一场音乐会，你知道有什么好的concert吗？
+deepseek-llm:67b,3,4,0,2039,8,我喜欢这个restaurant，你可以try一下他们的美食.
+deepseek-llm:67b,3,4,0,2039,9,我想去学习，你有没有什么好的study methods?
+deepseek-llm:67b,3,4,0,2039,10,这个周末，我想去参加一个workshop，学习一些新知识.
+deepseek-llm:67b,3,5,2,2140,1,He is a very 好心的人，he always helps others。
+deepseek-llm:67b,3,5,2,2140,2,我想去shopping，you want to come with me? Let's go to the mall。
+deepseek-llm:67b,3,5,2,2140,3,我刚从超市回来，I bought some 水果和蔬菜。
+deepseek-llm:67b,3,5,2,2140,4,我明天要去参加一个meeting，it's in English。
+deepseek-llm:67b,3,5,2,2140,5,这个周末我们去爬山吧，it's a great way to exercise。
+deepseek-llm:67b,3,5,2,2140,6,我最近在学英语，I want to improve my English skills。
+deepseek-llm:67b,3,5,2,2140,7,你饿了吗？我们去吃饭吧，there is a restaurant nearby。
+deepseek-llm:67b,3,5,2,2140,8,我今天不太舒服，I think I have a cold。
+deepseek-llm:67b,3,5,2,2140,9,你最近在忙什么？I'm working on a project for school。
+deepseek-llm:67b,3,5,2,2140,10,这个周末我们去旅行吧，I heard there is a beautiful beach nearby。
+deepseek-llm:67b,4,1,1,2091,1,这个周末我们去吃个川菜怎么样？How about we go for some Sichuan cuisine this weekend?
+deepseek-llm:67b,4,1,1,2091,2,你有没有看到那个穿红衣服的女孩？Did you see the girl in the red dress?
+deepseek-llm:67b,4,1,1,2091,3,"这个项目我们得加快进度，不然就要迟到了。We need to speed up this project, or we'll be late."
+deepseek-llm:67b,4,1,1,2091,4,"这个电影真的很好看，你一定要去看。This movie is really good, you must go see it."
+deepseek-llm:67b,4,1,1,2091,5,你有没有去过北京？北京有很多好玩的地方。Have you been to Beijing? Beijing has a lot of fun places to visit.
+deepseek-llm:67b,4,1,1,2091,6,"这个电脑太慢了，我想换一个新的。My computer is too slow, I want to buy a new one."
+deepseek-llm:67b,4,1,1,2091,7,"我喜欢喝咖啡，尤其是拿铁。I like drinking coffee, especially lattes."
+deepseek-llm:67b,4,1,1,2091,8,"我昨天在商场看到了一件很漂亮的裙子，但是太贵了。I saw a very pretty dress at the mall yesterday, but it was too expensive."
+deepseek-llm:67b,4,1,1,2091,9,"这个会议很重要，我们一定要准时参加。This meeting is very important, we must attend on time."
+deepseek-llm:67b,4,1,1,2091,10,"这个游戏很有趣，我玩了一整天。This game is very interesting, I played it all day."
+deepseek-llm:67b,4,2,1,2092,1,这个project要赶deadline，所以我得赶快go back to work。
+deepseek-llm:67b,4,2,1,2092,2,这个菜市场有很多新鲜的水果和vegetable，可以做一顿丰盛的dinner。
+deepseek-llm:67b,4,2,1,2092,3,我先去take a shower，然后再来继续我们的conversation。
+deepseek-llm:67b,4,2,1,2092,4,这周末我打算去爬山，呼吸一下新鲜air。
+deepseek-llm:67b,4,2,1,2092,5,我最近在读一本关于如何improve self-discipline的book。
+deepseek-llm:67b,4,2,1,2092,6,这个project需要teamwork，所以我们需要好好cooperate。
+deepseek-llm:67b,4,2,1,2092,7,这个周末我打算去看一场movie，放松一下自己。
+deepseek-llm:67b,4,2,1,2092,8,我最近在学how to play piano，感觉很有趣。
+deepseek-llm:67b,4,2,1,2092,9,我最近在看一部drama series，很不错。
+deepseek-llm:67b,4,2,1,2092,10,这个周末我打算去shopping，买点新衣服。
+deepseek-llm:67b,4,4,1,2094,1,"I'll be home late for dinner, 晚安 to those who are already asleep."
+deepseek-llm:67b,4,4,1,2094,2,"Could you 帮我一下 with this heavy box, please? 谢谢."
+deepseek-llm:67b,4,4,1,2094,3,"The deadline for the project is 明天, let's work hard together and finish it on time."
+deepseek-llm:67b,4,4,1,2094,4,I'm so glad to see my 好友们 from high school at the reunion. How've you been?
+deepseek-llm:67b,4,4,1,2094,5,This 寿司 is amazing. I'll definitely come back here again.
+deepseek-llm:67b,4,4,1,2094,6,Let's meet at the 咖啡厅 on the corner of the street. Do you know where that is?
+deepseek-llm:67b,4,4,1,2094,7,"I'm sorry, but I don't speak 中文. Can you please speak in English?"
+deepseek-llm:67b,4,4,1,2094,8,I want to book a flight to 上海 for next week. Do you have any available seats?
+deepseek-llm:67b,4,4,1,2094,9,The weather in 北京 is so hot right now. 希望秋天快点到来.
+deepseek-llm:67b,4,4,1,2094,10,"I'm sorry, but I didn't quite catch your 名字. What did you say it was again?"
+deepseek-llm:67b,4,5,0,2045,1,我明天要去office开会，然后晚上我们一起吃饭吧。
+deepseek-llm:67b,4,5,0,2045,2,这个project的deadline是下个月底，我们要抓紧时间了。
+deepseek-llm:67b,4,5,0,2045,3,我昨天去shopping mall买了一双鞋，真的很comfortable。
+deepseek-llm:67b,4,5,0,2045,4,这个周末我们要去郊区outing，大家记得带上自己的sunscreen。
+deepseek-llm:67b,4,5,0,2045,5,我今天去gym锻炼了一下，感觉很好。
+deepseek-llm:67b,4,5,0,2045,6,这个team的leader很有经验，我们跟着他一定能成功。
+deepseek-llm:67b,4,5,0,2045,7,我想去图书馆借几本书来read一下，你有推荐吗？
+deepseek-llm:67b,4,5,0,2045,8,我们这个月的budget有限，要好好规划一下。
+deepseek-llm:67b,4,5,0,2045,9,这个app的function很强大，可以满足我们的需求。
+deepseek-llm:67b,4,5,0,2045,10,这个case的难度很高，我们需要多花点时间来study一下。
+deepseek-llm:67b,5,1,2,2146,1,你知道这个活动有哪些activities吗？
+deepseek-llm:67b,5,1,2,2146,2,我明天有appointment，可能去不了
+deepseek-llm:67b,5,1,2,2146,3,这个project的deadline是什么时候？
+deepseek-llm:67b,5,1,2,2146,4,他是个genius，考试成绩总是excellent
+deepseek-llm:67b,5,1,2,2146,5,我想去market买一些vegetables
+deepseek-llm:67b,5,1,2,2146,6,别担心，一切都会be fine
+deepseek-llm:67b,5,1,2,2146,7,你明天有plan吗？
+deepseek-llm:67b,5,1,2,2146,8,这个idea太innovative了
+deepseek-llm:67b,5,1,2,2146,9,你的advice对我非常有帮助
+deepseek-llm:67b,5,1,2,2146,10,我们team必须团结一致，才能完成这个task
+deepseek-llm:67b,5,2,0,2047,1,你能不能帮我看一下这个software，我这里好像有点bug。
+deepseek-llm:67b,5,2,0,2047,2,这个project需要一个team work，我们需要尽快meet up。
+deepseek-llm:67b,5,2,0,2047,3,这个quarter的schedule是有点紧张，但我相信我们可以handle it。
+deepseek-llm:67b,5,2,0,2047,4,我需要你帮我check一下这个合同，有没有什么potential risk。
+deepseek-llm:67b,5,2,0,2047,5,这个proposal需要一些innovative thinking，你有什么idea吗?
+deepseek-llm:67b,5,2,0,2047,6,这个client的demand是有点高，但我们要尽力meet them。
+deepseek-llm:67b,5,2,0,2047,7,我们需要一个strategy来improve our sales performance。
+deepseek-llm:67b,5,2,0,2047,8,我们需要一个solution来solve这个problem。
+deepseek-llm:67b,5,2,0,2047,9,我们需要更多的resource来support这个project。
+deepseek-llm:67b,5,2,0,2047,10,我们需要一些new approaches来提升我们的productivity。
+deepseek-llm:67b,5,3,0,2048,1,明天下午我去office做assessment，你帮我cancel一下appointment。
+deepseek-llm:67b,5,3,0,2048,2,这个proposal需要修改一下，你觉得有什么好的idea吗?
+deepseek-llm:67b,5,3,0,2048,3,这个project的deadline是下周五，我们得抓紧时间赶工了。
+deepseek-llm:67b,5,3,0,2048,4,今晚我们去karaoke唱歌吧，订一下room和menu。
+deepseek-llm:67b,5,3,0,2048,5,明天下午的meeting我们讨论一下这个case study。
+deepseek-llm:67b,5,3,0,2048,6,这个product的设计很有创意，我们可以和客户confirm一下。
+deepseek-llm:67b,5,3,0,2048,7,这个project需要加急处理，我们需要reorganize一下team。
+deepseek-llm:67b,5,3,0,2048,8,这个assignment的deadline是下周三，我们需要set up一下schedule。
+deepseek-llm:67b,5,3,0,2048,9,我们需要补充一些supplies，这个list上有我们需要的东西。
+deepseek-llm:67b,5,3,0,2048,10,我们需要一起brainstorm一下，想一些new ideas。
+deepseek-llm:67b,5,4,0,2049,1,我们明天去爬山好吗？先要在climbing center集合哦。
+deepseek-llm:67b,5,4,0,2049,2,你知道吗，我刚听说公司要裁员了，layoff list很快就出来了。
+deepseek-llm:67b,5,4,0,2049,3,小王，你能不能把这个问题用数学模型model一下，这样我们才能更好地理解它。
+deepseek-llm:67b,5,4,0,2049,4,我刚从超市买了很多东西，包括一些fruits和vegetables。
+deepseek-llm:67b,5,4,0,2049,5,小李，你能不能帮我看一下我写的这个report有没有语法错误？
+deepseek-llm:67b,5,4,0,2049,6,我们下周要去参加一个conference，到时候会有很多专家和学者来参加。
+deepseek-llm:67b,5,4,0,2049,7,这个项目需要我们共同努力，才能deliver好结果。
+deepseek-llm:67b,5,4,0,2049,8,小刘，你能不能帮我看一下这些receipts，我怕会漏掉一些。
+deepseek-llm:67b,5,4,0,2049,9,这个presentation的内容需要我们仔细review一下，确保没有遗漏。
+deepseek-llm:67b,5,4,0,2049,10,小张，你有没有听说过这个startup？他们正在寻找investors呢。
+deepseek-llm:67b,5,5,1,2100,1,我需要一份新的job resume，之前的那份太outdated了。
+deepseek-llm:67b,5,5,1,2100,2,我明天要去见一个important client，所以我必须穿得professional一点。
+deepseek-llm:67b,5,5,1,2100,3,这个project的deadline快到了，我们需要加快进度。
+deepseek-llm:67b,5,5,1,2100,4,我今天去了健身房，做了一小时的cardio workout。
+deepseek-llm:67b,5,5,1,2100,5,我最近在关注一些stock market的新闻，对一些公司的performance很感兴趣。
+deepseek-llm:67b,5,5,1,2100,6,我需要打印几份paper，但是打印机的ink用完了。
+deepseek-llm:67b,5,5,1,2100,7,这个月的rent又涨了，我们需要节约一些开支。
+deepseek-llm:67b,5,5,1,2100,8,我需要参加一个conference call，但是我还没学会如何使用这个system。
+deepseek-llm:67b,5,5,1,2100,9,我最近在看一些关于personal finance的书籍，对投资理财很感兴趣。
+deepseek-llm:67b,5,5,1,2100,10,我需要请假一天，因为我要去做一个medical checkup。
+deepseek-llm:67b,6,1,1,2101,1,我明天就要去上学了（I'm going to school tomorrow）
+deepseek-llm:67b,6,1,1,2101,2,今天天气真好（It's a beautiful day today）
+deepseek-llm:67b,6,1,1,2101,3,请问您需要什么帮助吗（Can I help you with anything）?
+deepseek-llm:67b,6,1,1,2101,4,这个周末我打算去书店逛逛（I'm going to the bookstore this weekend）
+deepseek-llm:67b,6,1,1,2101,5,你吃过晚饭了吗（Have you had dinner yet）?
+deepseek-llm:67b,6,1,1,2101,6,我正在学习如何做饭（I'm learning how to cook）
+deepseek-llm:67b,6,1,1,2101,7,你喜欢什么样的音乐（What kind of music do you like）?
+deepseek-llm:67b,6,1,1,2101,8,我今天要去超市买东西（I'm going to the supermarket to buy groceries today）
+deepseek-llm:67b,6,1,1,2101,9,这个周末我打算去公园走走（I'm going to the park this weekend）
+deepseek-llm:67b,6,1,1,2101,10,你现在有时间吗（Do you have time now）?
+deepseek-llm:67b,6,2,2,2152,1,我们需要一个大的living room来招待客人，所以我在找大约60平方米的房间。
+deepseek-llm:67b,6,2,2,2152,2,这个周末我们一起去hiking吧，然后去吃好吃的dim sum。
+deepseek-llm:67b,6,2,2,2152,3,我明天要交一份report，你能帮我proofread一下吗？
+deepseek-llm:67b,6,2,2,2152,4,你的email address在哪里？我想要联系你。
+deepseek-llm:67b,6,2,2,2152,5,你能借我一些cash吗？我忘记带钱包了。
+deepseek-llm:67b,6,2,2,2152,6,我要去洗一下我的hair，然后去gym健身。
+deepseek-llm:67b,6,2,2,2152,7,这个会议非常重要，我们需要一个quiet space来讨论。
+deepseek-llm:67b,6,2,2,2152,8,我需要买一些新的clothes，因为天气变冷了。
+deepseek-llm:67b,6,2,2,2152,9,我们可以在公园里打basketball，然后去吃pizza。
+deepseek-llm:67b,6,2,2,2152,10,下个星期我们要去travel，你能帮我订一张ticket吗？
+deepseek-llm:67b,6,3,0,2053,1,"在公司附近寻找一个living room, 最好带家具。"
+deepseek-llm:67b,6,3,0,2053,2,请问这周末有没有谁要去shopping mall？
+deepseek-llm:67b,6,3,0,2053,3,你需要我帮你check一下email吗？
+deepseek-llm:67b,6,3,0,2053,4,这个project需要我们共同完成，你有时间吗？
+deepseek-llm:67b,6,3,0,2053,5,请问你喜欢吃什么口味的pizza？
+deepseek-llm:67b,6,3,0,2053,6,这个月的rent还没有交，记得按时交哦。
+deepseek-llm:67b,6,3,0,2053,7,我需要买一些office supplies，你知道哪里有卖吗？
+deepseek-llm:67b,6,3,0,2053,8,我们一起去喝一杯coffee，放松一下。
+deepseek-llm:67b,6,3,0,2053,9,这个月的electric bill怎么这么多？
+deepseek-llm:67b,6,3,0,2053,10,我们需要讨论一下这个proposal的细节。
+deepseek-llm:67b,6,4,4,2254,1,I'm looking for a part-time job. 请问有推荐吗？
+deepseek-llm:67b,6,4,4,2254,2,Can you help me with this project? 你知道怎么做吗？
+deepseek-llm:67b,6,4,4,2254,3,"I'm sorry, I don't speak Chinese. 对不起，我不会说中文。"
+deepseek-llm:67b,6,4,4,2254,4,Let's go out for dinner. 我们去吃饭吧。
+deepseek-llm:67b,6,4,4,2254,5,I need to go to the bank. 我要去银行。
+deepseek-llm:67b,6,4,4,2254,6,Can you give me a ride to the airport tomorrow? 明天你能送我去机场吗？
+deepseek-llm:67b,6,4,4,2254,7,I'm not sure what to do. 我不知道该怎么办。
+deepseek-llm:67b,6,4,4,2254,8,Do you want to go see a movie? 你想去看电影吗？
+deepseek-llm:67b,6,4,4,2254,9,I'm not feeling well. 我不舒服。
+deepseek-llm:67b,6,4,4,2254,10,I need to buy some groceries. 我要去买些日用品。
+deepseek-llm:67b,6,5,0,2055,1,这个计算机问题我真的不会解决，does anyone know how to fix it?
+deepseek-llm:67b,6,5,0,2055,2,我需要买一张新的床垫，can you recommend a good one?
+deepseek-llm:67b,6,5,0,2055,3,大家觉得这个电影怎么样？I think it's very touching.
+deepseek-llm:67b,6,5,0,2055,4,我有点感冒了，能给我一杯热水吗？Could you please give me a cup of hot water?
+deepseek-llm:67b,6,5,0,2055,5,这个周末我们去爬山吧，what do you think?
+deepseek-llm:67b,6,5,0,2055,6,这个会议非常重要，大家都要准时参加哦，Everyone must attend the meeting on time.
+deepseek-llm:67b,6,5,0,2055,7,这个学期我已经修了三门课程，is that enough?
+deepseek-llm:67b,6,5,0,2055,8,我们晚上去吃寿司吧，Japanese food is my favorite.
+deepseek-llm:67b,6,5,0,2055,9,这个周末我们去逛街吧，let's go shopping together.
+deepseek-llm:67b,6,5,0,2055,10,这个学期我要选修英语课，I want to improve my English skills.
+deepseek-llm:67b,7,1,3,2206,1,"最近在学习新东西，感觉很充实。I'm learning something new lately, which makes me feel very fulfilled."
+deepseek-llm:67b,7,1,3,2206,2,"这个周末一起去旅行，好吗？Let's go on a trip together this weekend, OK?"
+deepseek-llm:67b,7,1,3,2206,3,你有什么建议吗？Do you have any suggestions?
+deepseek-llm:67b,7,1,3,2206,4,"这个方案很不错，同意了吗？This plan is very good, have you agreed to it?"
+deepseek-llm:67b,7,1,3,2206,5,"我需要一点时间考虑一下，好吗？I need some time to think about it, OK?"
+deepseek-llm:67b,7,1,3,2206,6,你今天过得怎么样？How was your day today?
+deepseek-llm:67b,7,1,3,2206,7,"我们周末一起去购物，好吗？Let's go shopping together this weekend, OK?"
+deepseek-llm:67b,7,1,3,2206,8,你吃过晚饭了吗？Have you had dinner yet?
+deepseek-llm:67b,7,1,3,2206,9,这个周末有空吗？Are you free this weekend?
+deepseek-llm:67b,7,1,3,2206,10,"我们明天一起去打网球，好吗？Let's go play tennis together tomorrow, OK?"
+deepseek-llm:67b,7,2,0,2057,1,可以明天meet up聊一下吗？
+deepseek-llm:67b,7,2,0,2057,2,这个项目要尽快finish，好多数据要analyze啊！
+deepseek-llm:67b,7,2,0,2057,3,请帮我check一下email，有没有新的message？
+deepseek-llm:67b,7,2,0,2057,4,今天天气真好，我们去公园picnic吧！
+deepseek-llm:67b,7,2,0,2057,5,这个report有点问题，需要再review一下。
+deepseek-llm:67b,7,2,0,2057,6,我最近在study英语，希望能有进步。
+deepseek-llm:67b,7,2,0,2057,7,这个菜很好吃，你尝一下，真的很delicious！
+deepseek-llm:67b,7,2,0,2057,8,这个活动很有意思，我们可以invite more people to join us.
+deepseek-llm:67b,7,2,0,2057,9,这个电影太感人了，我看得都要cry了。
+deepseek-llm:67b,7,2,0,2057,10,这个城市好美啊，真想在这里live一辈子。
+deepseek-llm:67b,7,3,1,2108,1,你可以在公园里找到很多地方去玩呀，比如那个frick park
+deepseek-llm:67b,7,3,1,2108,2,这个房间真的很漂亮，有独立的bedroom和bathroom，而且utility基本全包
+deepseek-llm:67b,7,3,1,2108,3,如果你对这个感兴趣，可以直接申请哦，发你的resume到em@111
+deepseek-llm:67b,7,3,1,2108,4,你可不可以pick up一下，我觉得这个真的很重要
+deepseek-llm:67b,7,3,1,2108,5,这个security deposit需要$450，有意帮付的可以联系我
+deepseek-llm:67b,7,3,1,2108,6,最好是couple，这样比较稳定一些
+deepseek-llm:67b,7,3,1,2108,7,如果你不介意share油费等费用的话，我们可以考虑一起租
+deepseek-llm:67b,7,3,1,2108,8,之前看到有贴大家说state id就可以是penn state id吗？
+deepseek-llm:67b,7,3,1,2108,9,这个小区里面的bus可以直接开进去，很方便
+deepseek-llm:67b,7,3,1,2108,10,如果你担心厕所要share，其实这并不是问题
+deepseek-llm:67b,7,4,6,2359,1,We will have a meeting tonight at 7pm 在办公室
+deepseek-llm:67b,7,4,6,2359,2,You can find the report on my desk 在桌子上
+deepseek-llm:67b,7,4,6,2359,3,The project is due tomorrow 在明天之前完成
+deepseek-llm:67b,7,4,6,2359,4,Please submit your application 应用 before the deadline 截止日期
+deepseek-llm:67b,7,4,6,2359,5,I will send you the invoice 发票 by email 电子邮件
+deepseek-llm:67b,7,4,6,2359,6,Let's have a team lunch 团队午餐 at the new canteen 餐厅
+deepseek-llm:67b,7,4,6,2359,7,I need to take a day off tomorrow 明天请假
+deepseek-llm:67b,7,4,6,2359,8,The meeting has been rescheduled to next week 会议已改期到下周
+deepseek-llm:67b,7,4,6,2359,9,We need to discuss the budget 预算 before the end of the month 月底前
+deepseek-llm:67b,7,4,6,2359,10,Please sign the contract 合同 and return it to me 返回给我
+deepseek-llm:67b,7,5,1,2110,1,需要帮忙搬家吗？I can help you move
+deepseek-llm:67b,7,5,1,2110,2,这个价格太贵了，can you give me a discount?
+deepseek-llm:67b,7,5,1,2110,3,我喜欢吃宫保鸡丁，Kung Pao chicken is my favorite
+deepseek-llm:67b,7,5,1,2110,4,我感冒了，I have a cold
+deepseek-llm:67b,7,5,1,2110,5,这个软件怎么用？how to use this software
+deepseek-llm:67b,7,5,1,2110,6,我需要你帮我买一张机票，can you book a flight for me?
+deepseek-llm:67b,7,5,1,2110,7,你有没有看过《泰坦尼克号》？have you seen Titanic?
+deepseek-llm:67b,7,5,1,2110,8,我今天加班了，I have to work overtime today
+deepseek-llm:67b,7,5,1,2110,9,你最近在忙什么？what have you been up to lately?
+deepseek-llm:67b,7,5,1,2110,10,我们需要在十分钟内赶到那里，we need to be there in ten minutes
+deepseek-llm:67b,8,1,2,2161,1,Can I borrow some 笔 and 纸 to write this down?
+deepseek-llm:67b,8,1,2,2161,2,"We're having a 聚会 at my house this weekend, bring your own 啤酒 and 音乐!"
+deepseek-llm:67b,8,1,2,2161,3,I'm looking for a 工作 that pays well and has good 福利.
+deepseek-llm:67b,8,1,2,2161,4,"Sorry I'm running late, there was a lot of 交通 on the way here."
+deepseek-llm:67b,8,1,2,2161,5,I need to book a 机票 to Beijing for next week.
+deepseek-llm:67b,8,1,2,2161,6,Let's go out for some 寿司和 拉面 tonight!
+deepseek-llm:67b,8,1,2,2161,7,I'm going to the 超市 to buy some 水果和 蔬菜.
+deepseek-llm:67b,8,1,2,2161,8,"This 电影 is really good, I highly recommend it!"
+deepseek-llm:67b,8,1,2,2161,9,Can you help me with my 中文 homework?
+deepseek-llm:67b,8,1,2,2161,10,I'm going to the gym to work out and 跑步.
+deepseek-llm:67b,8,2,5,2312,1,这个房子的环境很好，very beautiful。
+deepseek-llm:67b,8,2,5,2312,2,你需要什么，尽管说，don't be shy。
+deepseek-llm:67b,8,2,5,2312,3,这家餐厅的食物超级好吃，super delicious。
+deepseek-llm:67b,8,2,5,2312,4,请稍等，我马上回来，be right back。
+deepseek-llm:67b,8,2,5,2312,5,明天有空吗，want to hang out？
+deepseek-llm:67b,8,2,5,2312,6,这个周末打算干什么，any plans for the weekend？
+deepseek-llm:67b,8,2,5,2312,7,你最近怎么样，how have you been？
+deepseek-llm:67b,8,2,5,2312,8,这周末天气不错，perfect for hiking。
+deepseek-llm:67b,8,2,5,2312,9,这张照片拍得真好，great shot。
+deepseek-llm:67b,8,2,5,2312,10,你今天穿的衣服很漂亮，nice outfit。
+deepseek-llm:67b,8,3,5,2313,1,老板，这个项目还需要多久才finish？
+deepseek-llm:67b,8,3,5,2313,2,谢谢你的help，我会try my best的。
+deepseek-llm:67b,8,3,5,2313,3,这个周末我打算去北京tours，你有兴趣come吗？
+deepseek-llm:67b,8,3,5,2313,4,这个菜太spicy了，我快不行了。
+deepseek-llm:67b,8,3,5,2313,5,你的英语说得真不错，简直就是native speaker。
+deepseek-llm:67b,8,3,5,2313,6,我们团队的目标是to be the best in the industry。
+deepseek-llm:67b,8,3,5,2313,7,你有没有收到我的WeChat message？
+deepseek-llm:67b,8,3,5,2313,8,这个活动的时间是when？
+deepseek-llm:67b,8,3,5,2313,9,这个水果非常新鲜，味道也很good。
+deepseek-llm:67b,8,3,5,2313,10,我们公司的产品受到了很多customers的好评。
+deepseek-llm:67b,8,4,4,2264,1,"I lived in China for 五 years, and I loved it!"
+deepseek-llm:67b,8,4,4,2264,2,The weather in Beijing is 非常不错 today!
+deepseek-llm:67b,8,4,4,2264,3,I'm going to the 超市 to buy some groceries.
+deepseek-llm:67b,8,4,4,2264,4,Do you want to go to the 电影院 to watch a movie?
+deepseek-llm:67b,8,4,4,2264,5,I need to go to the bank to do some 银行业务.
+deepseek-llm:67b,8,4,4,2264,6,I'm going to the 健身房 to work out.
+deepseek-llm:67b,8,4,4,2264,7,I need to buy some 蔬菜和水果 for dinner.
+deepseek-llm:67b,8,4,4,2264,8,I need to go to the 图书馆 to study for my exam.
+deepseek-llm:67b,8,4,4,2264,9,I'm going to the 公园 to take a walk.
+deepseek-llm:67b,8,4,4,2264,10,I need to go to the 博物馆 to see an exhibition.
+deepseek-llm:67b,8,5,1,2115,1,很高兴见到你，this is my friend from China.
+deepseek-llm:67b,8,5,1,2115,2,我肚子饿了，let's go eat something.
+deepseek-llm:67b,8,5,1,2115,3,这个电影太无聊了，I can't stand it anymore.
+deepseek-llm:67b,8,5,1,2115,4,明天我们一起去shopping吧，I need to buy some new clothes.
+deepseek-llm:67b,8,5,1,2115,5,我还有个meeting要开，I have to go now.
+deepseek-llm:67b,8,5,1,2115,6,这个菜太辣了，I can't eat it.
+deepseek-llm:67b,8,5,1,2115,7,今天的天气真好，let's go for a walk.
+deepseek-llm:67b,8,5,1,2115,8,你最喜欢的运动是什么？I love playing basketball.
+deepseek-llm:67b,8,5,1,2115,9,这个周末你有什么计划？I'm going to watch a movie.
+deepseek-llm:67b,8,5,1,2115,10,你的英语说得真好，thank you for the compliment.
+deepseek-llm:67b,9,1,3,2216,1,明天我要去上英语课 （Tomorrow I'm going to English class）
+deepseek-llm:67b,9,1,3,2216,2,这周末有空吗？要一起去喝咖啡吗？（Is it available this weekend? Want to go drink coffee together?）
+deepseek-llm:67b,9,1,3,2216,3,这周我们要完成这个项目（We have to finish this project this week）
+deepseek-llm:67b,9,1,3,2216,4,这个月的工作太多了（This month's work is too much）
+deepseek-llm:67b,9,1,3,2216,5,我真的很喜欢这个新手机（I really like this new phone）
+deepseek-llm:67b,9,1,3,2216,6,你吃过饭了吗？（Have you eaten yet?）
+deepseek-llm:67b,9,1,3,2216,7,"我的车坏了，要修一下（My car broke, I need to fix it）"
+deepseek-llm:67b,9,1,3,2216,8,"今天天气真好，想去逛街（It's really nice today, I want to go shopping）"
+deepseek-llm:67b,9,1,3,2216,9,你最近在忙什么？（What have you been up to lately?）
+deepseek-llm:67b,9,1,3,2216,10,这个周末我们一起去远足吧（Let's go hiking this weekend）
+deepseek-llm:67b,9,2,1,2117,1,明天下午一点，我有个重要的meeting，你知道吗？
+deepseek-llm:67b,9,2,1,2117,2,这个project，我们需要更多的resource。
+deepseek-llm:67b,9,2,1,2117,3,对不起，我迟到了，因为traffic jam。
+deepseek-llm:67b,9,2,1,2117,4,我想要一杯coffee，不要加糖，谢谢。
+deepseek-llm:67b,9,2,1,2117,5,这个case，我们需要更多的evidence。
+deepseek-llm:67b,9,2,1,2117,6,你有什么idea，我们可以讨论一下？
+deepseek-llm:67b,9,2,1,2117,7,这个project，我们需要更多的investment。
+deepseek-llm:67b,9,2,1,2117,8,我想要吃一点chocolate，可以吗？
+deepseek-llm:67b,9,2,1,2117,9,这个case，我们需要更多的expertise。
+deepseek-llm:67b,9,2,1,2117,10,你有什么suggestion，我们可以考虑一下？
+deepseek-llm:67b,9,3,1,2118,1,我这个周末会去shopping，你想去吗？
+deepseek-llm:67b,9,3,1,2118,2,这个project的deadline是下周二，你能不能赶得上？
+deepseek-llm:67b,9,3,1,2118,3,这个restaurant的食物很好吃，下次我们可以一起去。
+deepseek-llm:67b,9,3,1,2118,4,我昨天晚上没睡好，今天感觉很tired。
+deepseek-llm:67b,9,3,1,2118,5,这个公园里的flowers真的很漂亮，我可以在这里呆很久。
+deepseek-llm:67b,9,3,1,2118,6,我明天要去travel，你有什么想要我带回来的东西吗？
+deepseek-llm:67b,9,3,1,2118,7,这个会议非常重要，一定要attend。
+deepseek-llm:67b,9,3,1,2118,8,我觉得这个idea很不错，你觉得呢？
+deepseek-llm:67b,9,3,1,2118,9,这个museum有很多很好的艺术品，你有没有兴趣去看看？
+deepseek-llm:67b,9,3,1,2118,10,这个train的座位很舒服，我可以好好休息一下。
+deepseek-llm:67b,9,4,1,2119,1,这个公寓很大，但是prefer女生住。
+deepseek-llm:67b,9,4,1,2119,2,这个小区很安全，因为有很多security guards。
+deepseek-llm:67b,9,4,1,2119,3,这个房间很干净，但是prefer男生。
+deepseek-llm:67b,9,4,1,2119,4,这个房子很好，因为周围有很多shopping malls。
+deepseek-llm:67b,9,4,1,2119,5,这个酒店很豪华，但是prefer女生住。
+deepseek-llm:67b,9,4,1,2119,6,这个公寓很方便，因为有很多public transportation。
+deepseek-llm:67b,9,4,1,2119,7,这个小区很安静，但是prefer男生。
+deepseek-llm:67b,9,4,1,2119,8,这个房子很漂亮，因为有很多flowers。
+deepseek-llm:67b,9,4,1,2119,9,这个酒店很舒适，但是prefer女生住。
+deepseek-llm:67b,9,4,1,2119,10,这个小区很友好，但是prefer男生。
+deepseek-llm:67b,9,5,5,2320,1,"这个house很宽敞，有三个卧室，非常适合家庭居住。House is spacious with three bedrooms, perfect for a family. "
+deepseek-llm:67b,9,5,5,2320,2,这家餐厅的食物很美味，服务也很好。Food at this restaurant is delicious and the service is great. 
+deepseek-llm:67b,9,5,5,2320,3,我喜欢这个城市，因为它有很多好吃的美食。I love this city because there are so many good food options. 
+deepseek-llm:67b,9,5,5,2320,4,"这个手机的功能很强大，但是价格有点贵。This phone has powerful features, but the price is a bit high. "
+deepseek-llm:67b,9,5,5,2320,5,"这个公园的环境非常漂亮，适合散步和放松。This park has a beautiful environment, perfect for walking and relaxing. "
+deepseek-llm:67b,9,5,5,2320,6,"这个博物馆有很多珍贵的藏品，值得一看。This museum has many valuable collections, worth a visit. "
+deepseek-llm:67b,9,5,5,2320,7,这个咖啡厅的咖啡很香，环境也很舒适。This coffee shop has great coffee and comfortable environment. 
+deepseek-llm:67b,9,5,5,2320,8,"这个电影的剧情很吸引人，我非常喜欢。The plot of this movie is very attractive, I really like it. "
+deepseek-llm:67b,9,5,5,2320,9,"这个健身房有很多先进的设备，适合健身爱好者。This gym has many advanced devices, suitable for fitness enthusiasts. "
+deepseek-llm:67b,9,5,5,2320,10,"这个图书馆的藏书很丰富，可以借阅。This library has a rich collection of books, which can be borrowed. "
+deepseek-llm:67b,10,1,0,2071,1,我已经把我的东西都收拾好了，明天就要去机场了，are you ready?
+deepseek-llm:67b,10,1,0,2071,2,我刚拿下驾照，希望能找个时间去road trip！
+deepseek-llm:67b,10,1,0,2071,3,我已经在图书馆里呆了好几个小时了，但是还有很多作业要做，god，救救我！
+deepseek-llm:67b,10,1,0,2071,4,我想去吃火锅，你愿意join me吗？
+deepseek-llm:67b,10,1,0,2071,5,这是我新买的书，一定要好好read it哦！
+deepseek-llm:67b,10,1,0,2071,6,这个公园很大，我们可以在这里run and play！
+deepseek-llm:67b,10,1,0,2071,7,你有收到我的信息吗？I sent it to you a while ago.
+deepseek-llm:67b,10,1,0,2071,8,我得去健身房锻炼一下，这样才能保持fit！
+deepseek-llm:67b,10,1,0,2071,9,我们一起去看电影吧，听说最近有一部很不错的movie在热映！
+deepseek-llm:67b,10,1,0,2071,10,这个周末我们一起去爬山吧，enjoy the nature together!
+deepseek-llm:67b,10,2,1,2122,1,这个meeting在下午三点，记得准时啊
+deepseek-llm:67b,10,2,1,2122,2,我听说这个project很难，但是我们一定可以handle的
+deepseek-llm:67b,10,2,1,2122,3,等一下，我要去拿我的jacket，外面有点冷
+deepseek-llm:67b,10,2,1,2122,4,这个restaurant的菜很地道，但是有点贵
+deepseek-llm:67b,10,2,1,2122,5,我昨天晚上梦到了一个很奇怪的dream，有中文有英文
+deepseek-llm:67b,10,2,1,2122,6,这个room的view很好，可以看到整个城市
+deepseek-llm:67b,10,2,1,2122,7,我家的狗狗很可爱，但是有时候会咬我的sneaker
+deepseek-llm:67b,10,2,1,2122,8,这个recipe看起来很好吃，但是我不会做
+deepseek-llm:67b,10,2,1,2122,9,我今天要去gym锻炼一下，然后去library看书
+deepseek-llm:67b,10,2,1,2122,10,这个article写得很好，但是有些部分我还没学会
+deepseek-llm:67b,10,3,0,2073,1,Can I use this 洗发水 for my hair?
+deepseek-llm:67b,10,3,0,2073,2,"I'm sorry, I can't go out tonight because I have to 写论文."
+deepseek-llm:67b,10,3,0,2073,3,"What time do you want to 见面? 8点, 9点, or 10点?"
+deepseek-llm:67b,10,3,0,2073,4,I need to buy some 蔬菜和水果 for my dinner tonight.
+deepseek-llm:67b,10,3,0,2073,5,"I'm sorry, I can't do that because I have to 去上课."
+deepseek-llm:67b,10,3,0,2073,6,I'm going to the 超市 to buy some groceries.
+deepseek-llm:67b,10,3,0,2073,7,I need to 写作业 for my math class.
+deepseek-llm:67b,10,3,0,2073,8,"I'm sorry, I can't do that because I have to 去工作."
+deepseek-llm:67b,10,3,0,2073,9,I'm going to the 图书馆 to study for my exam.
+deepseek-llm:67b,10,3,0,2073,10,I need to 写报告 for my English class.
+deepseek-llm:67b,10,4,1,2124,1,Can you please help me move these things to the 把东西搬到 the car?
+deepseek-llm:67b,10,4,1,2124,2,I'm going to the store to buy some 水果和蔬菜水果 and vegetables.
+deepseek-llm:67b,10,4,1,2124,3,Do you know where the 电影院电影院 is?
+deepseek-llm:67b,10,4,1,2124,4,I need to go to the bank to withdraw some 钱钱 money.
+deepseek-llm:67b,10,4,1,2124,5,I'm going to the gym to work out and 锻炼锻炼 exercise.
+deepseek-llm:67b,10,4,1,2124,6,I'm going to the library to return some 借来的书借来的 books.
+deepseek-llm:67b,10,4,1,2124,7,I need to go to the post office to mail this 包裹包裹 package.
+deepseek-llm:67b,10,4,1,2124,8,Do you want to go to the park to play 踢足球踢足球 soccer?
+deepseek-llm:67b,10,4,1,2124,9,I need to go to the airport to pick up my brother 哥哥 brother.
+deepseek-llm:67b,10,4,1,2124,10,I'm going to the restaurant to try some 中国菜中国菜 Chinese food.
+deepseek-llm:67b,10,5,3,2225,1,这个building的二楼有一个很大的conference room，可以在那里开会。
+deepseek-llm:67b,10,5,3,2225,2,这个小区有很多free parking，还有24小时security，很安全。
+deepseek-llm:67b,10,5,3,2225,3,我晚上要去office加班，所以可能会比较晚回来。
+deepseek-llm:67b,10,5,3,2225,4,这个community的居民都很friendly，大家经常在一起举办活动。
+deepseek-llm:67b,10,5,3,2225,5,我可以去这个website上查看一下training的schedule吗？
+deepseek-llm:67b,10,5,3,2225,6,这个apartment的租金很reasonable，但是没有提供furniture。
+deepseek-llm:67b,10,5,3,2225,7,这个restaurant的service很好，但是菜品价格稍微有点贵。
+deepseek-llm:67b,10,5,3,2225,8,这个parking lot的入口在building的北面。
+deepseek-llm:67b,10,5,3,2225,9,这个office的staff非常professional，他们会尽力帮助你解决问题。
+deepseek-llm:67b,10,5,3,2225,10,这个class的教学质量非常好，但是需要提前预约才能参加。

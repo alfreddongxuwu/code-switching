@@ -1,0 +1,501 @@
+﻿model,group_id,repeat_id,attempt_id,seed,sentence_id,sentence
+gemma3:27b,1,1,0,2026,1,我觉得这个apartment挺好的，但是rent有点贵。
+gemma3:27b,1,1,0,2026,2,我们一起去吃火锅吧，I'm craving for it!
+gemma3:27b,1,1,0,2026,3,这个周末我需要finish一个project，时间很tight。
+gemma3:27b,1,1,0,2026,4,他昨天去见了landlord，谈了lease的事情。
+gemma3:27b,1,1,0,2026,5,我感觉这个roommate有点noisy，总是play music。
+gemma3:27b,1,1,0,2026,6,这件衣服的design很unique，你觉得怎么样？
+gemma3:27b,1,1,0,2026,7,我们可以在附近的小超市买菜，it's very convenient.
+gemma3:27b,1,1,0,2026,8,我需要找一个quiet的地方study，图书馆人太多了。
+gemma3:27b,1,1,0,2026,9,她对这门课很感兴趣，wants to get a good grade.
+gemma3:27b,1,1,0,2026,10,这栋楼的security很好，有24-hour surveillance.
+gemma3:27b,1,2,0,2027,1,我觉得这个apartment挺好的，but the rent is a little high.
+gemma3:27b,1,2,0,2027,2,我昨天去library了，borrowed a few books for my research.
+gemma3:27b,1,2,0,2027,3,这个周末我们去hiking吧，it's supposed to be sunny.
+gemma3:27b,1,2,0,2027,4,她每天都practice speaking English，improve her fluency.
+gemma3:27b,1,2,0,2027,5,"我需要一个quiet place to study, like a study room or something."
+gemma3:27b,1,2,0,2027,6,这个菜有点辣，maybe you want some water?
+gemma3:27b,1,2,0,2027,7,他explain了整个project，but I still don't quite understand.
+gemma3:27b,1,2,0,2027,8,最近天气太热了，I always carry a fan with me.
+gemma3:27b,1,2,0,2027,9,我们一起share the Uber吧，it's more economical.
+gemma3:27b,1,2,0,2027,10,这个活动很有意思，definitely worth checking out.
+gemma3:27b,1,3,0,2028,1,我觉得这个deal挺好的，but I need to think about it.
+gemma3:27b,1,3,0,2028,2,我们去吃火锅吧，any spicy level is okay.
+gemma3:27b,1,3,0,2028,3,这个apartment的location很方便，just a few minutes walk to the subway.
+gemma3:27b,1,3,0,2028,4,我下个week比较忙，I have a lot of meetings.
+gemma3:27b,1,3,0,2028,5,这件衣服的quality很好，it's totally worth the price.
+gemma3:27b,1,3,0,2028,6,他昨天晚上玩了games，一直到midnight.
+gemma3:27b,1,3,0,2028,7,我需要找一个reliable的babysitter，someone who is patient.
+gemma3:27b,1,3,0,2028,8,这个project的deadline是下个Friday，please make sure to submit on time.
+gemma3:27b,1,3,0,2028,9,我最近在学yoga，it helps me to relax.
+gemma3:27b,1,3,0,2028,10,他们说这个餐厅的菜很正宗，I'm really looking forward to trying it.
+gemma3:27b,1,4,0,2029,1,我觉得这个deal真的很good，你觉得呢？
+gemma3:27b,1,4,0,2029,2,我们明天去shopping，想买一些winter clothes。
+gemma3:27b,1,4,0,2029,3,这个apartment的location特别方便，就在main street附近。
+gemma3:27b,1,4,0,2029,4,他昨天talked about his research，很有意思。
+gemma3:27b,1,4,0,2029,5,我需要找一个reliable的师傅来fix the problem。
+gemma3:27b,1,4,0,2029,6,这个周末我们plan一个road trip，去看看风景吧。
+gemma3:27b,1,4,0,2029,7,你有没有check你的email，里面有重要的信息。
+gemma3:27b,1,4,0,2029,8,她每天都practice speaking English，进步很快。
+gemma3:27b,1,4,0,2029,9,这个餐厅的food非常delicious，推荐你try一下。
+gemma3:27b,1,4,0,2029,10,我觉得这个proposal需要more details，才能通过。
+gemma3:27b,1,5,0,2030,1,我觉得这个apartment挺好的，but the rent is a little high.
+gemma3:27b,1,5,0,2030,2,我们周末去shopping吧，I need some new clothes.
+gemma3:27b,1,5,0,2030,3,他昨天meeting的时候说，the deadline is next Friday.
+gemma3:27b,1,5,0,2030,4,这个菜我觉得有点儿咸，maybe a little less salt next time?
+gemma3:27b,1,5,0,2030,5,我先assign一个task给你们，please finish it by tomorrow.
+gemma3:27b,1,5,0,2030,6,这件衣服颜色很漂亮，it really suits you.
+gemma3:27b,1,5,0,2030,7,她正在learn Python，觉得很有意思.
+gemma3:27b,1,5,0,2030,8,我需要check一下email，看看有没有urgent的事情.
+gemma3:27b,1,5,0,2030,9,这个地方的air quality不太好，we should wear a mask.
+gemma3:27b,1,5,0,2030,10,"我明天要book一个flight，to London, hopefully."
+gemma3:27b,2,1,0,2031,1,"我觉得这个电影 really boring, 没什么意思。"
+gemma3:27b,2,1,0,2031,2,今天 meeting 要 discuss 关于新项目的 details。
+gemma3:27b,2,1,0,2031,3,我周末想去 Chinatown 逛逛，看看有没有 good deals。
+gemma3:27b,2,1,0,2031,4,这个app太方便了，可以直接 order 外卖 and pay with WeChat Pay。
+gemma3:27b,2,1,0,2031,5,"他虽然很忙, but he always finds time to help others."
+gemma3:27b,2,1,0,2031,6,"我的电脑 suddenly crashed, 需要找人 fix it ASAP。"
+gemma3:27b,2,1,0,2031,7,我们一起去吃饭吧，你想吃 Chinese food 还是 Western food?
+gemma3:27b,2,1,0,2031,8,这件衣服的 quality 很不错，而且 the price is reasonable.
+gemma3:27b,2,1,0,2031,9,我每天早上都要喝一杯咖啡，otherwise I can't focus.
+gemma3:27b,2,1,0,2031,10,她对这个城市很熟悉，can show you around easily.
+gemma3:27b,2,2,0,2032,1,我昨天去shopping，买了很多东西。
+gemma3:27b,2,2,0,2032,2,"这个project deadline is really tight, 压力很大啊。"
+gemma3:27b,2,2,0,2032,3,先吃饭，然后我们再discuss一下plans。
+gemma3:27b,2,2,0,2032,4,房间很大，有walk-in closet，特别方便。
+gemma3:27b,2,2,0,2032,5,周末我想去hiking，不知道有没有人一起?
+gemma3:27b,2,2,0,2032,6,"那个电影的plot twist is unbelievable, 太精彩了!"
+gemma3:27b,2,2,0,2032,7,我需要find a part-time job during summer vacation.
+gemma3:27b,2,2,0,2032,8,这件衣服很适合你，颜色是navy blue.
+gemma3:27b,2,2,0,2032,9,最近天气太热了，need to buy an air conditioner.
+gemma3:27b,2,2,0,2032,10,我妈妈喜欢在YouTube上看cooking tutorials.
+gemma3:27b,2,3,0,2033,1,我昨天去shopping，买了很多东西。
+gemma3:27b,2,3,0,2033,2,这个project deadline快到了，really stressful。
+gemma3:27b,2,3,0,2033,3,她每天都practice瑜伽，保持healthy lifestyle.
+gemma3:27b,2,3,0,2033,4,我觉得这个餐厅的菜很authentic，而且price is right.
+gemma3:27b,2,3,0,2033,5,他一直在work from home，所以经常online meeting.
+gemma3:27b,2,3,0,2033,6,周末我们去郊游吧，找一个scenic spot.
+gemma3:27b,2,3,0,2033,7,我需要一个reliable mechanic，我的车需要check up.
+gemma3:27b,2,3,0,2033,8,这件衣服的quality很好，worth the money.
+gemma3:27b,2,3,0,2033,9,他们讨论的topic很复杂，我listen不太懂.
+gemma3:27b,2,3,0,2033,10,我每天早上喝一杯咖啡，boost my energy.
+gemma3:27b,2,4,0,2034,1,今天天气真好，perfect for a picnic!
+gemma3:27b,2,4,0,2034,2,我正在学Python，it's a little difficult but fun.
+gemma3:27b,2,4,0,2034,3,那个餐厅的菜很好吃，especially their dumplings.
+gemma3:27b,2,4,0,2034,4,周末想去看电影，any recommendations?
+gemma3:27b,2,4,0,2034,5,这件衣服的颜色很漂亮，it really suits you.
+gemma3:27b,2,4,0,2034,6,我们先开会，then we can discuss the details.
+gemma3:27b,2,4,0,2034,7,我需要一个urgent translation，can you help me?
+gemma3:27b,2,4,0,2034,8,这首歌的旋律很熟悉，it reminds me of my childhood.
+gemma3:27b,2,4,0,2034,9,他是个很nice的人，always willing to help.
+gemma3:27b,2,4,0,2034,10,我每天都喝咖啡，it keeps me awake.
+gemma3:27b,2,5,0,2035,1,我昨天在图书馆study到很晚。
+gemma3:27b,2,5,0,2035,2,这个菜谱很简单，just follow the instructions。
+gemma3:27b,2,5,0,2035,3,他很喜欢看美剧，especially comedies。
+gemma3:27b,2,5,0,2035,4,周末我们去hiking怎么样？天气很好。
+gemma3:27b,2,5,0,2035,5,这份报告需要urgent review，请尽快。
+gemma3:27b,2,5,0,2035,6,我觉得这个电影的plot很吸引人，but the ending was disappointing。
+gemma3:27b,2,5,0,2035,7,最近的物价真的太贵了，everything is so expensive.
+gemma3:27b,2,5,0,2035,8,她正在learn Chinese，progress is slow but steady.
+gemma3:27b,2,5,0,2035,9,我需要一个quiet space to focus，a little privacy would be nice.
+gemma3:27b,2,5,0,2035,10,这个app很有用，it can really help with your productivity.
+gemma3:27b,3,1,0,2036,1,我昨天去shopping，买了一个很cute的包。
+gemma3:27b,3,1,0,2036,2,这个project deadline快到了，要不要一起work on it？
+gemma3:27b,3,1,0,2036,3,你知道吗？这家餐厅的food真的很好吃，especially他们的dim sum.
+gemma3:27b,3,1,0,2036,4,我妈说我房间太messy了，要我clean up ASAP.
+gemma3:27b,3,1,0,2036,5,周末我们去hiking吧，我想去一个scenic的地方。
+gemma3:27b,3,1,0,2036,6,他虽然很busy，但还是try his best帮我。
+gemma3:27b,3,1,0,2036,7,这个app很有用，可以help you learn Mandarin.
+gemma3:27b,3,1,0,2036,8,我需要book一个flight，去LA，最好是direct flight.
+gemma3:27b,3,1,0,2036,9,今天的weather有点cold，你最好穿一件warm coat.
+gemma3:27b,3,1,0,2036,10,这件衣服的quality很好，但是price有点high。
+gemma3:27b,3,2,0,2037,1,我周末想去shopping，看看有什么new arrivals.
+gemma3:27b,3,2,0,2037,2,"这个proposal需要urgent review, 尽快给我feedback."
+gemma3:27b,3,2,0,2037,3,"老板说这个project deadline是next Friday, 太紧张了."
+gemma3:27b,3,2,0,2037,4,妈妈做的菜最好吃，especially her 红烧肉.
+gemma3:27b,3,2,0,2037,5,"我需要一个quiet place to study, 附近有没有library?"
+gemma3:27b,3,2,0,2037,6,今天天气很好，we should go for a walk in the park.
+gemma3:27b,3,2,0,2037,7,"那个电影真的太boring了, I almost fell asleep."
+gemma3:27b,3,2,0,2037,8,我的电脑坏了，需要find a technician to fix it.
+gemma3:27b,3,2,0,2037,9,我们一起去吃火锅吧？I’m craving spicy food.
+gemma3:27b,3,2,0,2037,10,这件衣服的quality很好，but the price is a little high.
+gemma3:27b,3,3,0,2038,1,我最近在learn Python，感觉挺有意思的。
+gemma3:27b,3,3,0,2038,2,这个weekend我们去hiking怎么样？
+gemma3:27b,3,3,0,2038,3,老板说这个project deadline is next Friday。
+gemma3:27b,3,3,0,2038,4,那个餐厅的菜 super delicious，下次再去。
+gemma3:27b,3,3,0,2038,5,"我需要一个quiet place to study, 最好是library。"
+gemma3:27b,3,3,0,2038,6,她每天都check她的email，特别认真。
+gemma3:27b,3,3,0,2038,7,我们 group meeting 在Zoom上，you can join if you want.
+gemma3:27b,3,3,0,2038,8,这件衣服的style很unique，我喜欢。
+gemma3:27b,3,3,0,2038,9,他昨天去shopping，bought a lot of things.
+gemma3:27b,3,3,0,2038,10,"我正在写一篇essay about Chinese culture, it’s really challenging."
+gemma3:27b,3,4,0,2039,1,我今天特别累，need a good rest.
+gemma3:27b,3,4,0,2039,2,这个菜很好吃，it’s super spicy!
+gemma3:27b,3,4,0,2039,3,周末我们去shopping怎么样？
+gemma3:27b,3,4,0,2039,4,老板说这个project deadline is next week.
+gemma3:27b,3,4,0,2039,5,她每天都practice瑜伽，feels so relaxed.
+gemma3:27b,3,4,0,2039,6,最近天气很hot，我要开air conditioning.
+gemma3:27b,3,4,0,2039,7,我帮你check一下email，see if there's anything urgent.
+gemma3:27b,3,4,0,2039,8,这个电脑有点slow，maybe need to upgrade the RAM.
+gemma3:27b,3,4,0,2039,9,他喜欢看美国电视剧，especially those with a good plot.
+gemma3:27b,3,4,0,2039,10,我们一起去吃火锅吧，I’m craving for it.
+gemma3:27b,3,5,0,2040,1,我今天特别累，need a good rest.
+gemma3:27b,3,5,0,2040,2,这个菜谱很简单，just follow the instructions.
+gemma3:27b,3,5,0,2040,3,老板说要meeting明天，有点麻烦。
+gemma3:27b,3,5,0,2040,4,"我觉得这个颜色很nice, 像秋天的落叶。"
+gemma3:27b,3,5,0,2040,5,周末我们去shopping怎么样？
+gemma3:27b,3,5,0,2040,6,那个电影 super boring，我差点睡着了。
+gemma3:27b,3,5,0,2040,7,我正在learn Chinese，感觉有点难。
+gemma3:27b,3,5,0,2040,8,他们家有一个big garden，种了很多花。
+gemma3:27b,3,5,0,2040,9,这个app很有用，can help you learn English.
+gemma3:27b,3,5,0,2040,10,最近天气很cold，记得加件sweater。
+gemma3:27b,4,1,0,2041,1,这个菜馆的service很好，而且food也很正宗。
+gemma3:27b,4,1,0,2041,2,我昨天在library查了很多material for my presentation。
+gemma3:27b,4,1,0,2041,3,他每天都practice speaking English，想提高他的fluency。
+gemma3:27b,4,1,0,2041,4,周末我们去hiking，风景 really amazing!
+gemma3:27b,4,1,0,2041,5,这个app很方便，可以order外卖 and pay with WeChat Pay。
+gemma3:27b,4,1,0,2041,6,我妈说这个dress很适合我，因为it's my favorite color。
+gemma3:27b,4,1,0,2041,7,最近工作太忙了，感觉每天都overtime。
+gemma3:27b,4,1,0,2041,8,这个电影的plot有点复杂，有点像a mystery novel。
+gemma3:27b,4,1,0,2041,9,我需要一个大的apartment，最好有a balcony。
+gemma3:27b,4,1,0,2041,10,他虽然很young，但是ideas are very creative。
+gemma3:27b,4,2,0,2042,1,我今天特别累，need a good rest.
+gemma3:27b,4,2,0,2042,2,这个菜味道挺好的，but a little bit spicy.
+gemma3:27b,4,2,0,2042,3,"老板说这个project deadline is next week, 必须赶完。"
+gemma3:27b,4,2,0,2042,4,"我最近在learn Python, 感觉挺有意思的."
+gemma3:27b,4,2,0,2042,5,"他这个人很nice, always willing to help others, 真心好。"
+gemma3:27b,4,2,0,2042,6,这个app很好用，it really saves me a lot of time.
+gemma3:27b,4,2,0,2042,7,"我们周末去shopping, 看看有什么new arrivals."
+gemma3:27b,4,2,0,2042,8,她英语说得特别好，very fluent and natural.
+gemma3:27b,4,2,0,2042,9,这个电影太boring了，我直接睡着了。
+gemma3:27b,4,2,0,2042,10,"麻烦你check一下这个document, see if there are any errors."
+gemma3:27b,4,3,0,2043,1,我昨天去shopping，买了一件很cute的裙子。
+gemma3:27b,4,3,0,2043,2,这个proposal我觉得可行，but we need more data to support it.
+gemma3:27b,4,3,0,2043,3,他每天都practice speaking English，想提高他的fluency.
+gemma3:27b,4,3,0,2043,4,这道菜有点辣，you might want some water.
+gemma3:27b,4,3,0,2043,5,我们下个week去trip，目的地是San Francisco.
+gemma3:27b,4,3,0,2043,6,我觉得这个idea很innovative，但是需要consider一下成本。
+gemma3:27b,4,3,0,2043,7,我朋友是个gamer，特别喜欢玩Fortnite和League of Legends，他简直是a pro.
+gemma3:27b,4,3,0,2043,8,这件衣服质量很好，虽然有点expensive，but it's worth it.
+gemma3:27b,4,3,0,2043,9,老板说要deadline前完成project，压力山大，really stressful.
+gemma3:27b,4,3,0,2043,10,最近天气忽冷忽热，记得要wear more clothes，别感冒了。
+gemma3:27b,4,4,0,2044,1,我觉得这个deal really不错，价格可以商量。
+gemma3:27b,4,4,0,2044,2,我昨天去shopping，买了一件 super cute的裙子。
+gemma3:27b,4,4,0,2044,3,这个电脑的performance非常好，完全 enough for my needs.
+gemma3:27b,4,4,0,2044,4,我们周末一起去hiking吧？ I heard there's a new trail.
+gemma3:27b,4,4,0,2044,5,这份报告deadline是明天，你check一下有没有问题吗?
+gemma3:27b,4,4,0,2044,6,他虽然很busy，但还是try his best to help me.
+gemma3:27b,4,4,0,2044,7,我需要一个 reliable的translation，最好是 native speaker.
+gemma3:27b,4,4,0,2044,8,这道菜的味道很authentic，有点spicy，你喜欢吗?
+gemma3:27b,4,4,0,2044,9,我正在learn Python，感觉有点 challenging，but I'm getting there.
+gemma3:27b,4,4,0,2044,10,今天天气不错，我们去公园 picnic吧，bring some snacks.
+gemma3:27b,4,5,0,2045,1,我昨天去shopping，买了一件super cute的裙子。
+gemma3:27b,4,5,0,2045,2,这个project deadline快到了，really stressful!
+gemma3:27b,4,5,0,2045,3,她每天都喝一杯coffee，然后开始work。
+gemma3:27b,4,5,0,2045,4,我们周末去hiking，风景很beautiful。
+gemma3:27b,4,5,0,2045,5,他虽然很busy，但是always willing to help。
+gemma3:27b,4,5,0,2045,6,这个餐厅的菜味道很good，价格也quite reasonable。
+gemma3:27b,4,5,0,2045,7,我需要一个urgent的document翻译成中文。
+gemma3:27b,4,5,0,2045,8,他们家新买的house有big garden，可以养dog。
+gemma3:27b,4,5,0,2045,9,我正在学习python，感觉有点challenging。
+gemma3:27b,4,5,0,2045,10,这个app很方便，可以order food directly。
+gemma3:27b,5,1,0,2046,1,我觉得这个proposal很有potential，但是需要更多data support。
+gemma3:27b,5,1,0,2046,2,周末想去hiking，有没有人join？
+gemma3:27b,5,1,0,2046,3,我正在update微信，顺便check一下email。
+gemma3:27b,5,1,0,2046,4,这个餐厅的ambiance很好，但是有点expensive。
+gemma3:27b,5,1,0,2046,5,老师说deadline is coming up，大家要抓紧。
+gemma3:27b,5,1,0,2046,6,他昨天mood很down，我给他comfort了一下。
+gemma3:27b,5,1,0,2046,7,这个project的timeline很tight，需要大家collaborate。
+gemma3:27b,5,1,0,2046,8,我需要book一张机票，最好是direct flight。
+gemma3:27b,5,1,0,2046,9,这个app的功能很方便，但是有bug。
+gemma3:27b,5,1,0,2046,10,他很喜欢看American drama，尤其是comedy。
+gemma3:27b,5,2,0,2047,1,我觉得这个proposal很有potential，但是需要更多data support。
+gemma3:27b,5,2,0,2047,2,今天deadline之前一定要submit，不然就麻烦了。
+gemma3:27b,5,2,0,2047,3,那个餐厅的服务员态度特别rude，我都不好意思说。
+gemma3:27b,5,2,0,2047,4,我们周末去hiking怎么样？天气应该不错。
+gemma3:27b,5,2,0,2047,5,这个app的功能太强大了，简直是game changer。
+gemma3:27b,5,2,0,2047,6,我先check一下schedule，看看有没有时间。
+gemma3:27b,5,2,0,2047,7,他昨天发烧了，现在感觉好多了，已经recovered。
+gemma3:27b,5,2,0,2047,8,这个政策真的太complex了，我需要time to process。
+gemma3:27b,5,2,0,2047,9,我希望以后能找到一个stable的job，不用那么辛苦。
+gemma3:27b,5,2,0,2047,10,她每天都在刷TikTok，简直是addicted。
+gemma3:27b,5,3,0,2048,1,我觉得这个proposal需要更多data support。
+gemma3:27b,5,3,0,2048,2,他每天都complaint about the noise.
+gemma3:27b,5,3,0,2048,3,先check一下schedule，看看有没有conflict。
+gemma3:27b,5,3,0,2048,4,这个design很unique，但是有点too complicated。
+gemma3:27b,5,3,0,2048,5,我需要briefly explain一下situation。
+gemma3:27b,5,3,0,2048,6,周末我们一起去hiking怎么样？
+gemma3:27b,5,3,0,2048,7,这个app的functionality真的很powerful。
+gemma3:27b,5,3,0,2048,8,他们一直在delay这个project，太烦了。
+gemma3:27b,5,3,0,2048,9,"我觉得这个idea is feasible, but risky."
+gemma3:27b,5,3,0,2048,10,你先hold on，我马上回来。
+gemma3:27b,5,4,0,2049,1,我觉得这个proposal很有potential，但需要更多data support。
+gemma3:27b,5,4,0,2049,2,今天deadline要赶，真的好stressful啊。
+gemma3:27b,5,4,0,2049,3,我们先meeting，然后一起去吃火锅吧？
+gemma3:27b,5,4,0,2049,4,这个app的设计很user-friendly，方便多了。
+gemma3:27b,5,4,0,2049,5,他每天都在gym锻炼，body很fit。
+gemma3:27b,5,4,0,2049,6,我需要一个quiet place to study，图书馆人太多了。
+gemma3:27b,5,4,0,2049,7,这个周末就可以move-in，太好了!
+gemma3:27b,5,4,0,2049,8,她们都说这个drama很addictive，我准备追一下。
+gemma3:27b,5,4,0,2049,9,我觉得这个idea很innovative，但需要考虑budget。
+gemma3:27b,5,4,0,2049,10,这个package deal很划算，值得考虑一下。
+gemma3:27b,5,5,0,2050,1,我先check一下schedule，看看有没有时间帮忙。
+gemma3:27b,5,5,0,2050,2,这个project deadline很urgent，必须尽快finish。
+gemma3:27b,5,5,0,2050,3,我觉得她人挺nice的，但是有点overthinking。
+gemma3:27b,5,5,0,2050,4,我们今天去吃火锅，你有什么preferences吗？
+gemma3:27b,5,5,0,2050,5,这件衣服的quality看起来很good，但是有点expensive。
+gemma3:27b,5,5,0,2050,6,他总是complaining about the weather，让人很烦。
+gemma3:27b,5,5,0,2050,7,我需要一个quiet place to study，最好是library。
+gemma3:27b,5,5,0,2050,8,她对这件事情totally clueless，需要我解释一下。
+gemma3:27b,5,5,0,2050,9,周末我们一起去hiking，放松一下心情吧。
+gemma3:27b,5,5,0,2050,10,这个app的functionality很强大，值得download。
+gemma3:27b,6,1,0,2051,1,"我需要一个urgent translation for this document, 麻烦一下。"
+gemma3:27b,6,1,0,2051,2,这个party weekend绝对会very fun，你来吗？
+gemma3:27b,6,1,0,2051,3,"昨天我去了那家新开的cafe, the latte was amazing."
+gemma3:27b,6,1,0,2051,4,请问这个package有多重，is it over 5kg?
+gemma3:27b,6,1,0,2051,5,"他每天都study hard, 希望能get a good grade."
+gemma3:27b,6,1,0,2051,6,"这个app的design很user-friendly, 但是有点bug."
+gemma3:27b,6,1,0,2051,7,"我需要book一个flight to London, ASAP please."
+gemma3:27b,6,1,0,2051,8,"这件衣服的颜色有点old-fashioned, 不过质量很好."
+gemma3:27b,6,1,0,2051,9,"大家一起share一些useful resources, 怎么样？"
+gemma3:27b,6,1,0,2051,10,"我正在找一个part-time job, preferably something flexible."
+gemma3:27b,6,2,0,2052,1,"我需要一个urgent appointment with the doctor, ASAP。"
+gemma3:27b,6,2,0,2052,2,这件衣服颜色很fresh，你觉得怎么样？
+gemma3:27b,6,2,0,2052,3,周末我们去hiking怎么样？感觉会很relax。
+gemma3:27b,6,2,0,2052,4,老板说这个project deadline is really tight。
+gemma3:27b,6,2,0,2052,5,请问一下，附近有什么good restaurants推荐吗？
+gemma3:27b,6,2,0,2052,6,我正在学习Python，感觉有点challenging。
+gemma3:27b,6,2,0,2052,7,这个package的shipping fee有点贵，怎么办？
+gemma3:27b,6,2,0,2052,8,他每天都work from home，效率很高。
+gemma3:27b,6,2,0,2052,9,这学期我选了两门elective courses，都挺感兴趣的。
+gemma3:27b,6,2,0,2052,10,最近天气太hot了，我要买一个portable fan。
+gemma3:27b,6,3,0,2053,1,我今天特别busy，need to finish this report ASAP.
+gemma3:27b,6,3,0,2053,2,这个菜谱很simple，just follow the instructions step by step.
+gemma3:27b,6,3,0,2053,3,周末想去hiking，anyone interested in joining?
+gemma3:27b,6,3,0,2053,4,那个电影 really touched my heart，太感人了。
+gemma3:27b,6,3,0,2053,5,我们先开个meeting，discuss the project timeline.
+gemma3:27b,6,3,0,2053,6,最近天气越来越cold，记得wear a warm coat.
+gemma3:27b,6,3,0,2053,7,这个app很好用，it can translate Mandarin to English instantly.
+gemma3:27b,6,3,0,2053,8,他always complains about the workload，感觉很stressed.
+gemma3:27b,6,3,0,2053,9,请问附近有什么good restaurants推荐吗？
+gemma3:27b,6,3,0,2053,10,我正在learn Python，it's quite challenging but also fun.
+gemma3:27b,6,4,0,2054,1,"我需要一个urgent translation, 能帮我吗？"
+gemma3:27b,6,4,0,2054,2,这个package shipping fee多少钱？
+gemma3:27b,6,4,0,2054,3,周末想去hiking，有没有人一起?
+gemma3:27b,6,4,0,2054,4,他昨天submit了proposal，现在在waiting for feedback。
+gemma3:27b,6,4,0,2054,5,这个app的interface太user-friendly了。
+gemma3:27b,6,4,0,2054,6,我们公司正在recruit intern，要求有related experience。
+gemma3:27b,6,4,0,2054,7,这个菜谱很简单，just follow the instructions。
+gemma3:27b,6,4,0,2054,8,我有点jet lag，需要休息一下。
+gemma3:27b,6,4,0,2054,9,请问您有没有Wi-Fi password？
+gemma3:27b,6,4,0,2054,10,最近天气太hot了，我想吃ice cream。
+gemma3:27b,6,5,0,2055,1,"我需要一个urgent translation, 能帮我吗？"
+gemma3:27b,6,5,0,2055,2,这个package 看起来很heavy，需要两个人lift。
+gemma3:27b,6,5,0,2055,3,周末想去hiking，有没有人一起？
+gemma3:27b,6,5,0,2055,4,她order了一份麻婆豆腐，and a side of fries.
+gemma3:27b,6,5,0,2055,5,这个app的user interface 很方便。
+gemma3:27b,6,5,0,2055,6,明天deadline，我必须finish this report。
+gemma3:27b,6,5,0,2055,7,"他一直说'no problem', 可是事情还没解决。"
+gemma3:27b,6,5,0,2055,8,我们家附近新开了一家cafe，very cozy.
+gemma3:27b,6,5,0,2055,9,请问这个东西是genuine leather吗？
+gemma3:27b,6,5,0,2055,10,"我觉得这个idea is brilliant, 我们试试看吧。"
+gemma3:27b,7,1,0,2056,1,我每天都rush hour，太可怕了。
+gemma3:27b,7,1,0,2056,2,这个design看起来很fancy，你觉得怎么样？
+gemma3:27b,7,1,0,2056,3,他一直delay，我真的有点upset。
+gemma3:27b,7,1,0,2056,4,周末我们去逛街，看看有什么discount。
+gemma3:27b,7,1,0,2056,5,这份合同有点tricky，你最好找个lawyer看看。
+gemma3:27b,7,1,0,2056,6,老板说要deadline前finish，压力山大。
+gemma3:27b,7,1,0,2056,7,我需要一个urgent的favor，帮我个忙呗？
+gemma3:27b,7,1,0,2056,8,这个app很user-friendly，容易上手。
+gemma3:27b,7,1,0,2056,9,她特别nice，总是很considerate。
+gemma3:27b,7,1,0,2056,10,我们一起order takeout，eat together，好吗？
+gemma3:27b,7,2,0,2057,1,我明天要约个doctor appointment，check up一下。
+gemma3:27b,7,2,0,2057,2,这个weekend去IKEA买东西吧，need some storage solutions。
+gemma3:27b,7,2,0,2057,3,老板说这个project deadline要push to next week。
+gemma3:27b,7,2,0,2057,4,他每天都work from home，很方便。
+gemma3:27b,7,2,0,2057,5,这个餐厅的菜很好吃，especially their dumplings!
+gemma3:27b,7,2,0,2057,6,我有点 confused，can you explain it again?
+gemma3:27b,7,2,0,2057,7,先transfer钱到我的account，然后我pay the bills。
+gemma3:27b,7,2,0,2057,8,她想找一个 roommate，someone who is tidy and respectful。
+gemma3:27b,7,2,0,2057,9,我们一起去farmers market，buy some fresh produce。
+gemma3:27b,7,2,0,2057,10,我正在learn Python，it's really useful for data analysis.
+gemma3:27b,7,3,0,2058,1,我跟你说，这个deal真的very good.
+gemma3:27b,7,3,0,2058,2,今天天气怎么样？Is it raining outside?
+gemma3:27b,7,3,0,2058,3,先order takeaway，然后we can watch movie.
+gemma3:27b,7,3,0,2058,4,那个function的deadline是next week，你准备好了吗？
+gemma3:27b,7,3,0,2058,5,我需要一个quiet place to study，最好是library.
+gemma3:27b,7,3,0,2058,6,周末我们去shopping吧，I need new shoes.
+gemma3:27b,7,3,0,2058,7,这道菜有点辣，maybe you can try a little.
+gemma3:27b,7,3,0,2058,8,他这个人很nice，always willing to help others.
+gemma3:27b,7,3,0,2058,9,这份报告的数据分析，the conclusion is interesting.
+gemma3:27b,7,3,0,2058,10,我忘记带钥匙了，can you open the door for me?
+gemma3:27b,7,4,0,2059,1,我今天特别累，need a good休息。
+gemma3:27b,7,4,0,2059,2,这件衣服真的very cheap，但是质量还行。
+gemma3:27b,7,4,0,2059,3,先message me 你的availability吧。
+gemma3:27b,7,4,0,2059,4,他们说这个event是potluck，我带个菜吧？
+gemma3:27b,7,4,0,2059,5,这个app很好用，just download it and try!
+gemma3:27b,7,4,0,2059,6,我觉得这个方案比较okay，我们可以进一步讨论。
+gemma3:27b,7,4,0,2059,7,老板说要deadline前submit，压力山大。
+gemma3:27b,7,4,0,2059,8,周末大家一起去hiking怎么样？It's good for health.
+gemma3:27b,7,4,0,2059,9,这个roommate有点noisy，sometimes I can't sleep.
+gemma3:27b,7,4,0,2059,10,麻烦你帮我check一下，is everything correct?
+gemma3:27b,7,5,0,2060,1,我觉得这个deal很划算，especially considering the location.
+gemma3:27b,7,5,0,2060,2,周末我们去吃饭吗？I'm craving some authentic Chinese food.
+gemma3:27b,7,5,0,2060,3,他一直在explain这个project，但是太复杂了，我听不懂.
+gemma3:27b,7,5,0,2060,4,这件衣服颜色很漂亮，it really suits you.
+gemma3:27b,7,5,0,2060,5,"我需要找一个reliable roommate, someone who is clean and quiet."
+gemma3:27b,7,5,0,2060,6,老板说要deadline前 submit，不然就麻烦了.
+gemma3:27b,7,5,0,2060,7,最近天气太热了，I think I need to buy an air conditioner.
+gemma3:27b,7,5,0,2060,8,这个app很好用， you should definitely download it.
+gemma3:27b,7,5,0,2060,9,我们一起去超市买菜吧，I'll make dinner tonight.
+gemma3:27b,7,5,0,2060,10,他想自己rent一个apartment，but it's quite expensive.
+gemma3:27b,8,1,0,2061,1,我觉得这个proposal actually挺好的，但是budget有点问题。
+gemma3:27b,8,1,0,2061,2,周末我们去IKEA看看，买一些东西来整理房间。
+gemma3:27b,8,1,0,2061,3,这菜做的特别入味，very authentic!
+gemma3:27b,8,1,0,2061,4,他昨天deadline赶得特别紧，差点没赶上submit。
+gemma3:27b,8,1,0,2061,5,这个app很好用，但是interface有点复杂。
+gemma3:27b,8,1,0,2061,6,我最近在learn Python，感觉很有意思。
+gemma3:27b,8,1,0,2061,7,这个电影剧情很精彩，plot twists太多了。
+gemma3:27b,8,1,0,2061,8,老板人很好，always很照顾我们。
+gemma3:27b,8,1,0,2061,9,今天天气不错，let's go for a walk!
+gemma3:27b,8,1,0,2061,10,这个东西quality很好，price也很reasonable。
+gemma3:27b,8,2,0,2062,1,我觉得这个idea挺好的，but we need a budget.
+gemma3:27b,8,2,0,2062,2,周末想去逛街，maybe 王府井 or 三里屯?
+gemma3:27b,8,2,0,2062,3,这个app很好用，it's really user-friendly.
+gemma3:27b,8,2,0,2062,4,他昨天跟我说，he's interested in learning 中文.
+gemma3:27b,8,2,0,2062,5,我们先 discuss the details，然后决定怎么做。
+gemma3:27b,8,2,0,2062,6,"这个菜有点辣，I need some water, 请。"
+gemma3:27b,8,2,0,2062,7,我跟你说，this movie is super 精彩!
+gemma3:27b,8,2,0,2062,8,她每天都 work from home，然后晚上去健身房。
+gemma3:27b,8,2,0,2062,9,这个东西很贵啊，is it worth the price?
+gemma3:27b,8,2,0,2062,10,"虽然有点麻烦，but it's worth the effort, 真的。"
+gemma3:27b,8,3,0,2063,1,"我觉得这个idea很good, 但是需要更多details."
+gemma3:27b,8,3,0,2063,2,"我们周末可以去shopping, 如果你free的话."
+gemma3:27b,8,3,0,2063,3,这个app很好用，just download it from the app store.
+gemma3:27b,8,3,0,2063,4,他昨天跟manager talk about the project.
+gemma3:27b,8,3,0,2063,5,"我想要一个quiet room, with a good view."
+gemma3:27b,8,3,0,2063,6,这个菜很好吃，very authentic Chinese flavor.
+gemma3:27b,8,3,0,2063,7,"先check一下schedule, 然后我们再book机票."
+gemma3:27b,8,3,0,2063,8,虽然有点贵，but quality is guaranteed.
+gemma3:27b,8,3,0,2063,9,"我正在learn Python, it’s quite challenging."
+gemma3:27b,8,3,0,2063,10,这个地方parking很方便，有dedicated spots.
+gemma3:27b,8,4,0,2064,1,我觉得这个deal很划算，especially considering the location.
+gemma3:27b,8,4,0,2064,2,我们周末去shopping吧？想买个new coat.
+gemma3:27b,8,4,0,2064,3,这个菜的味道很正宗，totally authentic!
+gemma3:27b,8,4,0,2064,4,"我需要找一个reliable plumber, ASAP."
+gemma3:27b,8,4,0,2064,5,他昨天去了gym，练了两个小时的cardio.
+gemma3:27b,8,4,0,2064,6,这份报告的deadline是next week，你准备好了吗?
+gemma3:27b,8,4,0,2064,7,这首歌的melody很catchy，I can't get it out of my head.
+gemma3:27b,8,4,0,2064,8,如果时间允许，我们可以一起看个movie，what do you think?
+gemma3:27b,8,4,0,2064,9,最近天气很hot，记得带sunscreen哦.
+gemma3:27b,8,4,0,2064,10,我正在学习Python，it's a bit challenging but fun.
+gemma3:27b,8,5,0,2065,1,我觉得这个deal很划算，especially considering the location.
+gemma3:27b,8,5,0,2065,2,我们周末去shopping吧，想买一些新衣服。
+gemma3:27b,8,5,0,2065,3,这个app真的很好用，it saves me so much time.
+gemma3:27b,8,5,0,2065,4,他昨天去参加了一个workshop， learning about AI.
+gemma3:27b,8,5,0,2065,5,这菜做得挺好吃的，but a little bit spicy.
+gemma3:27b,8,5,0,2065,6,我明天要开会，需要prepare a presentation.
+gemma3:27b,8,5,0,2065,7,先喝一杯tea，然后我们再discuss the details.
+gemma3:27b,8,5,0,2065,8,这个房子location很好， very convenient to everything.
+gemma3:27b,8,5,0,2065,9,她最近在learn Python，觉得很有意思。
+gemma3:27b,8,5,0,2065,10,我觉得这个idea很good，我们可以try it out.
+gemma3:27b,9,1,0,2066,1,我今天有点tired，想早点回家。
+gemma3:27b,9,1,0,2066,2,这个餐厅的service很good，但是有点贵。
+gemma3:27b,9,1,0,2066,3,周末想去hiking，你知道哪里比较nice吗？
+gemma3:27b,9,1,0,2066,4,他always说要学中文，但是一直没时间。
+gemma3:27b,9,1,0,2066,5,这件衣服的quality很好，而且很fashionable。
+gemma3:27b,9,1,0,2066,6,我感觉这个project有点challenging，需要更多support。
+gemma3:27b,9,1,0,2066,7,他们家住在downtown，交通很convenient。
+gemma3:27b,9,1,0,2066,8,这个app很有用，可以help我学习。
+gemma3:27b,9,1,0,2066,9,我正在learn新的Mandarin words，感觉很interesting。
+gemma3:27b,9,1,0,2066,10,那家店的dim sum很authentic，you should try it sometime.
+gemma3:27b,9,2,0,2067,1,我今天特别累，need a good rest.
+gemma3:27b,9,2,0,2067,2,这个菜有点咸，maybe I should add some sugar.
+gemma3:27b,9,2,0,2067,3,他们家住在 downtown，交通很方便。
+gemma3:27b,9,2,0,2067,4,"这个电影 really touched me, 太感人了。"
+gemma3:27b,9,2,0,2067,5,先check一下 email，看看有没有 urgent 的事情。
+gemma3:27b,9,2,0,2067,6,这个周末我想去 hiking，找个 quiet place.
+gemma3:27b,9,2,0,2067,7,其实我觉得还好，it's not a big deal.
+gemma3:27b,9,2,0,2067,8,这个餐厅的菜量很大，very filling.
+gemma3:27b,9,2,0,2067,9,我正在 learn Python，感觉有点难。
+gemma3:27b,9,2,0,2067,10,他昨天 party 玩得很high，but today he's so tired.
+gemma3:27b,9,3,0,2068,1,我今天太累了，need a good rest.
+gemma3:27b,9,3,0,2068,2,这个菜谱看起来easy，我们试试做一下。
+gemma3:27b,9,3,0,2068,3,他真的很nice，always helps me out.
+gemma3:27b,9,3,0,2068,4,周末想去shopping，不知道去哪里好。
+gemma3:27b,9,3,0,2068,5,这件衣服的quality很好，但是有点expensive.
+gemma3:27b,9,3,0,2068,6,我正在learn Python，感觉很有意思。
+gemma3:27b,9,3,0,2068,7,这个app很有用，it saves me a lot of time.
+gemma3:27b,9,3,0,2068,8,明天开会，don't forget to bring your laptop.
+gemma3:27b,9,3,0,2068,9,这附近有很多good restaurants，你想吃什么？
+gemma3:27b,9,3,0,2068,10,她对中国文化很感兴趣，especially the tea ceremony.
+gemma3:27b,9,4,0,2069,1,这个weekend我想去shopping，你有什么推荐吗？
+gemma3:27b,9,4,0,2069,2,我每天都drink coffee，不然会太困。
+gemma3:27b,9,4,0,2069,3,虽然有点贵，但是这个apartment的location真的perfect。
+gemma3:27b,9,4,0,2069,4,他们说这个project deadline is next week，有点紧张。
+gemma3:27b,9,4,0,2069,5,那个餐厅的菜很好吃，especially their dumplings。
+gemma3:27b,9,4,0,2069,6,我觉得这个color scheme很modern，你觉得呢？
+gemma3:27b,9,4,0,2069,7,我需要find a roommate，最好是女生。
+gemma3:27b,9,4,0,2069,8,今天天气真好，let's go for a walk吧？
+gemma3:27b,9,4,0,2069,9,这个软件很有用，可以help me learn Mandarin更快。
+gemma3:27b,9,4,0,2069,10,她们都说这个电影很interesting，我想去看。
+gemma3:27b,9,5,0,2070,1,我觉得这个proposal挺good的，但是需要再修改一下细节。
+gemma3:27b,9,5,0,2070,2,我们周末去hiking吧，如果天气好的话。
+gemma3:27b,9,5,0,2070,3,这个餐厅的菜味道很正宗，especially他们的麻婆豆腐。
+gemma3:27b,9,5,0,2070,4,我最近在learn Python，感觉很有意思。
+gemma3:27b,9,5,0,2070,5,这个apartment很convenient，离地铁站很近。
+gemma3:27b,9,5,0,2070,6,他是个很nice的人，总是很helpful。
+gemma3:27b,9,5,0,2070,7,我有点tired，想早点回家休息。
+gemma3:27b,9,5,0,2070,8,这个project deadline快到了，要抓紧时间finish。
+gemma3:27b,9,5,0,2070,9,我们去shopping mall逛逛吧，看看有什么new things。
+gemma3:27b,9,5,0,2070,10,她对中国文化很感兴趣，正在study 中国历史。
+gemma3:27b,10,1,0,2071,1,我今天特别tired，想早点回家。
+gemma3:27b,10,1,0,2071,2,这个package的delivery time是什么时候？
+gemma3:27b,10,1,0,2071,3,他们家的菜味道really good，推荐你试试。
+gemma3:27b,10,1,0,2071,4,先check一下有没有空位，如果没有的话再等一会儿。
+gemma3:27b,10,1,0,2071,5,这个app的user interface很方便，但是bug有点多。
+gemma3:27b,10,1,0,2071,6,我需要一个urgent的问题help一下。
+gemma3:27b,10,1,0,2071,7,周末想去hiking，有没有人一起join？
+gemma3:27b,10,1,0,2071,8,老板说这个project deadline要提前到next week。
+gemma3:27b,10,1,0,2071,9,我昨天在library借了一本书，是关于data science的。
+gemma3:27b,10,1,0,2071,10,这件衣服的quality很好，但是price有点expensive。
+gemma3:27b,10,2,0,2072,1,我昨天去shopping，买了一个很cute的包。
+gemma3:27b,10,2,0,2072,2,这个proposal要deadline是Friday，你check一下了吗？
+gemma3:27b,10,2,0,2072,3,房东说可以养pet，但是要extra fee。
+gemma3:27b,10,2,0,2072,4,我有点jet lag，需要喝一杯coffee提提神。
+gemma3:27b,10,2,0,2072,5,他们家的菜味道很authentic，especially那个麻婆豆腐。
+gemma3:27b,10,2,0,2072,6,周末我们去hiking吧，找一个scenic trail。
+gemma3:27b,10,2,0,2072,7,这个app很好用，user-friendly而且功能很多。
+gemma3:27b,10,2,0,2072,8,我正在学习python，希望可以找到一份data science的job。
+gemma3:27b,10,2,0,2072,9,最近天气太hot了，我需要一个air conditioner。
+gemma3:27b,10,2,0,2072,10,他这个人很reliable，可以trust him with important things.
+gemma3:27b,10,3,0,2073,1,我觉得这个deal太划算了，简直是a steal!
+gemma3:27b,10,3,0,2073,2,周末我们去shopping，想买一些new clothes。
+gemma3:27b,10,3,0,2073,3,我昨天在library借了一本书，关于AI的。
+gemma3:27b,10,3,0,2073,4,这个app很好用，但是the interface有点复杂。
+gemma3:27b,10,3,0,2073,5,他每天都check emails，看看有没有urgent business。
+gemma3:27b,10,3,0,2073,6,我们现在需要一个solution to this problem，你有什么想法吗？
+gemma3:27b,10,3,0,2073,7,这件衣服的quality很好，但是the price有点贵。
+gemma3:27b,10,3,0,2073,8,我需要book一个flight，最好是direct flight。
+gemma3:27b,10,3,0,2073,9,他虽然学的是engineering，但是对art也很interested。
+gemma3:27b,10,3,0,2073,10,"我跟你说，这个东西really works, 你一定要试试看。"
+gemma3:27b,10,4,0,2074,1,我昨天去了一个super busy的restaurant吃饭。
+gemma3:27b,10,4,0,2074,2,这个package有点complicated，需要仔细check一下。
+gemma3:27b,10,4,0,2074,3,先message我，我们再schedule一个time talk。
+gemma3:27b,10,4,0,2074,4,他们家附近有很多good schools，对孩子很好。
+gemma3:27b,10,4,0,2074,5,我正在learn how to use这个new software，有点困难。
+gemma3:27b,10,4,0,2074,6,这个东西真的very convenient，强烈推荐。
+gemma3:27b,10,4,0,2074,7,明天我要去attend一个重要的meeting，有点紧张。
+gemma3:27b,10,4,0,2074,8,我觉得这个idea is really creative and innovative。
+gemma3:27b,10,4,0,2074,9,我们周末可以一起go hiking，好吗？
+gemma3:27b,10,4,0,2074,10,那个app design得很user-friendly，很容易上手。
+gemma3:27b,10,5,0,2075,1,我最近在learn Python，感觉挺有意思的。
+gemma3:27b,10,5,0,2075,2,这个周末想去hiking，不知道有没有人一起。
+gemma3:27b,10,5,0,2075,3,那个restaurant的food真的太delicious了，下次再去。
+gemma3:27b,10,5,0,2075,4,我需要一个urgent的document，麻烦你帮我scan一下。
+gemma3:27b,10,5,0,2075,5,他总是说一些nonsense，让人听不懂。
+gemma3:27b,10,5,0,2075,6,我们可以在这个project上collaborate，这样效率更高。
+gemma3:27b,10,5,0,2075,7,这个app的interface很user-friendly，很容易上手。
+gemma3:27b,10,5,0,2075,8,我每天都要check我的email，看看有没有important的信息。
+gemma3:27b,10,5,0,2075,9,她对这个proposal很enthusiastic，觉得很有潜力。
+gemma3:27b,10,5,0,2075,10,这个地方的security比较tight，大家要注意安全。

@@ -1,0 +1,160 @@
+{
+  "checked_at_utc": "2026-11-27T21:44:33.769510+00:00",
+  "source_sha256": {
+    "data\\human_baseline.csv": "36692f5cf1620caea5fe8debff3567ab1b32699f3a578177e6a549335147395e",
+    "outputs\\full_large_10groups_5repeats\\models\\gemma\\accepted.csv": "9b7f337ea3bea5224866b50bc97b2e1d1668e2f91430fb643182fb798601b078",
+    "outputs\\full_large_10groups_5repeats\\models\\qwen\\accepted.csv": "e5d9eec0a8c70b23c9c0f0b54ca657d0e01436a05b3eaf96ba6a793aabca2f55",
+    "outputs\\full_large_10groups_5repeats\\models\\llama\\accepted.csv": "fb2ff4fb41934d123e7e9b7bb100ffc9c5d5704645c425891a0f23f276433f44",
+    "outputs\\full_large_10groups_5repeats\\models\\deepseek\\accepted.csv": "245604d9bf0b00a99bc650de560f1590e70d9bde38a03e7f97638a7266df4342",
+    "outputs\\full_gpt6_luna_10groups_5repeats\\models\\gpt\\accepted.csv": "c5b82101944203beb65dfcf79ad240592a6c464c191e3ec42ef6282e0a2ebf66"
+  },
+  "language_review": {
+    "config": "configs\\language_review.json",
+    "config_sha256": "a652c1921682c037a297cadb3d00a0c2b6003122c923c5dd6e76839a95d5cb30",
+    "reviewed_latin_word_forms": 1969,
+    "decision_counts": {
+      "keep_english": 17,
+      "non_chinese_english": 4
+    },
+    "unresolved_decisions": 0
+  },
+  "integrity": {
+    "all_six_sources_have_500_rows": true,
+    "each_model_has_50_batches_of_ten": true,
+    "combined_csvs_equal_model_csvs": true,
+    "human_baseline_disjoint_from_prompts": true,
+    "lexical_review_matches_input_files": true,
+    "all_language_review_decisions_applied": true,
+    "audit_did_not_change_source_files": true
+  },
+  "methods": {
+    "metric_units": "One Han character or one Latin/alphanumeric word; preserve internal apostrophes and hyphens.",
+    "metric_filter": "Ignore separators, standalone numbers and symbols. All six metrics NA for monolingual rows, unsupported-script or reviewed third-language rows, prompt copies, and internal repeats after the first occurrence.",
+    "language_identification": "Script screening plus review of all distinct Latin word forms and exceptional sentence contexts. Named entities, brands, abbreviations, loanwords and recognizable English misspellings count as English; ambiguous forms require explicit adjudication. See configs/language_review.json.",
+    "contact_strings": "Keep existing English-token rules: em in em@160 counts as English, @ and standalone digits are separators; pn-19 counts as one English token.",
+    "standard_deviation": "Population SD, ddof=0, for Burstiness and sentence-level descriptive summaries; Welch t-test retains its usual variance definition.",
+    "sentence_summary_sd_ddof": 0,
+    "whole_duplicates": "Lowercase and remove Unicode whitespace and punctuation; retain numbers and other symbols.",
+    "fragment_copies": "At least five consecutive matching Chinese-character/English-word units, within the same prompt's ten examples. Numbers and non-punctuation symbols must match but do not count toward five language units.",
+    "duplicates": "Keep the first internal duplicate occurrence and mark later occurrences NA. Prompt whole/fragment copies are NA. Exclude the union of NA rows from both analysis levels; preserve source sentences.",
+    "analysis_outputs": "sentence_audit.csv retains all rows with status and six metric columns; na_rows.csv lists exclusions; analysis_valid_rows.csv contains only included rows; language_review.csv records exceptional lexical decisions."
+  },
+  "summary": [
+    {
+      "family": "human",
+      "model": "human",
+      "rows": 500,
+      "na_rows": 0,
+      "na_reasons": {},
+      "bilingual_rows": 500,
+      "valid_analysis_rows": 500,
+      "rows_with_unsupported_letters": 0,
+      "rows_with_non_chinese_english_content": 0,
+      "internal_duplicate_groups": 0,
+      "internal_duplicate_rows": 0,
+      "internal_duplicate_excess": 0,
+      "prompt_whole_copy_rows": 0,
+      "prompt_fragment_copy_rows": 0,
+      "longest_prompt_copy_units": 0
+    },
+    {
+      "family": "gemma",
+      "model": "gemma3:27b",
+      "rows": 500,
+      "na_rows": 26,
+      "na_reasons": {
+        "internal_duplicate_after_first": 26
+      },
+      "bilingual_rows": 500,
+      "valid_analysis_rows": 474,
+      "rows_with_unsupported_letters": 0,
+      "rows_with_non_chinese_english_content": 0,
+      "internal_duplicate_groups": 20,
+      "internal_duplicate_rows": 46,
+      "internal_duplicate_excess": 26,
+      "prompt_whole_copy_rows": 0,
+      "prompt_fragment_copy_rows": 0,
+      "longest_prompt_copy_units": 0
+    },
+    {
+      "family": "qwen",
+      "model": "qwen3:32b",
+      "rows": 500,
+      "na_rows": 5,
+      "na_reasons": {
+        "internal_duplicate_after_first": 5
+      },
+      "bilingual_rows": 500,
+      "valid_analysis_rows": 495,
+      "rows_with_unsupported_letters": 0,
+      "rows_with_non_chinese_english_content": 0,
+      "internal_duplicate_groups": 2,
+      "internal_duplicate_rows": 7,
+      "internal_duplicate_excess": 5,
+      "prompt_whole_copy_rows": 0,
+      "prompt_fragment_copy_rows": 0,
+      "longest_prompt_copy_units": 0
+    },
+    {
+      "family": "llama",
+      "model": "llama3:70b",
+      "rows": 500,
+      "na_rows": 9,
+      "na_reasons": {
+        "non_chinese_english_letters": 3,
+        "non_chinese_english_content": 4,
+        "prompt_fragment_copy": 2
+      },
+      "bilingual_rows": 500,
+      "valid_analysis_rows": 491,
+      "rows_with_unsupported_letters": 3,
+      "rows_with_non_chinese_english_content": 4,
+      "internal_duplicate_groups": 0,
+      "internal_duplicate_rows": 0,
+      "internal_duplicate_excess": 0,
+      "prompt_whole_copy_rows": 0,
+      "prompt_fragment_copy_rows": 2,
+      "longest_prompt_copy_units": 7
+    },
+    {
+      "family": "deepseek",
+      "model": "deepseek-llm:67b",
+      "rows": 500,
+      "na_rows": 7,
+      "na_reasons": {
+        "prompt_fragment_copy": 4,
+        "internal_duplicate_after_first": 3,
+        "prompt_whole_copy": 1
+      },
+      "bilingual_rows": 500,
+      "valid_analysis_rows": 493,
+      "rows_with_unsupported_letters": 0,
+      "rows_with_non_chinese_english_content": 0,
+      "internal_duplicate_groups": 3,
+      "internal_duplicate_rows": 6,
+      "internal_duplicate_excess": 3,
+      "prompt_whole_copy_rows": 1,
+      "prompt_fragment_copy_rows": 4,
+      "longest_prompt_copy_units": 19
+    },
+    {
+      "family": "gpt",
+      "model": "gpt-6-luna",
+      "rows": 500,
+      "na_rows": 6,
+      "na_reasons": {
+        "internal_duplicate_after_first": 6
+      },
+      "bilingual_rows": 500,
+      "valid_analysis_rows": 494,
+      "rows_with_unsupported_letters": 0,
+      "rows_with_non_chinese_english_content": 0,
+      "internal_duplicate_groups": 5,
+      "internal_duplicate_rows": 11,
+      "internal_duplicate_excess": 6,
+      "prompt_whole_copy_rows": 0,
+      "prompt_fragment_copy_rows": 0,
+      "longest_prompt_copy_units": 0
+    }
+  ]
+}
